@@ -16,7 +16,9 @@ class Seq2Seq_GRU_Attention(nn.Module):
         self.encoder_emb = nn.Embedding(input_dim, input_emb_dim)
         self.encoder = nn.GRU(input_emb_dim, hidden_dim, num_layers=layer, batch_first=True, bidirectional=bidirectional)
         self.decoder_emb = nn.Embedding(output_dim, output_emb_dim)
-        # TODO: Update the number of layers based on bidirectional
+        if bidirectional:
+            hidden_dim = hidden_dim * 2
+        
         self.decoder = nn.GRU(output_emb_dim, hidden_dim, num_layers=layer, batch_first=True)
         self.fcc = nn.Linear(2 * hidden_dim, output_dim)
 
