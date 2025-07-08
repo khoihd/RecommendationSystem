@@ -13,22 +13,22 @@ class Seq2Seq_GRU_Attention(nn.Module):
     def __init__(self, input_dim, input_emb_dim, output_dim, output_emb_dim,
                         hidden_dim, layer, bidirectional):
         super().__init__()
-        self.encoder_imb = nn.Embedding(input_dim, input_emb_dim)
+        self.encoder_emb = nn.Embedding(input_dim, input_emb_dim)
         self.encoder = nn.GRU(input_emb_dim, hidden_dim, num_layers=layer, batch_first=True, bidirectional=bidirectional)
-        self.decoder_imb = nn.Embedding(output_dim, output_emb_dim)
+        self.decoder_emb = nn.Embedding(output_dim, output_emb_dim)
         # TODO: Update the number of layers based on bidirectional
         self.decoder = nn.GRU(output_emb_dim, hidden_dim, num_layers=layer, batch_first=True)
         self.fcc = nn.Linear(2 * hidden_dim, output_dim)
 
     def forward(self, encoder_input, decoder_input):
-        encoder_imb = self.encoder_imb(encoder_input)
-        encoder_sequence_state, encoder_layer_state = self.encoder(encoder_imb)
-        decoder_imb = self.decoder_imb(decoder_input)
-        decoder_sequence_state, decoder_layer_state = self.decoder(decoder_imb, encoder_layer_state)
+        encoder_emb = self.encoder_emb(encoder_input)
+        encoder_sequence_state, encoder_layer_state = self.encoder(encoder_emb)
+        decoder_emb = self.decoder_emb(decoder_input)
+        decoder_sequence_state, _ = self.decoder(decoder_emb, encoder_layer_state)
         # Attention scores: Multiply encoder_sequence_state with decoder_sequence_state
         
         # encoder_sequence_state: batch x input_seq_len x hidden_dim
-        # decoder_layer_state: batch x output_seq_len x hidden_dim
+        # decoder_sequence_state: batch x output_seq_len x hidden_dim
         # attention_scores, attention_weights: batch x output_seq_len x input_seq_len
         # attention_value: batch x output_seq_len x hidden_dim
         #   attention_value = attention_weights @ encoder_sequence_state
@@ -38,4 +38,33 @@ class Seq2Seq_GRU_Attention(nn.Module):
         attention_values = attention_weights @ encoder_sequence_state
         concat = torch.concat((decoder_sequence_state, attention_values), dim=-1)
         output = self.fcc(concat)
-        return output, decoder_sequence_state, decoder_layer_state
+        return output, decoder_sequence_state
+
+    def translate(self, sequence_tokens, en_idx_token_dict, device, eos, sos_idx=2, max_output_len=100):
+        self.eval()
+        sequence_tokens_batch = sequence_tokens.unsqueeze(0)
+        
+        sequence_output = []
+        with torch.no_grad():
+            encoder_input_emb = self.encoder_emb(sequence_tokens_batch)
+            encoder_sequence_state, state = self.encoder(encoder_input_emb)
+            word_idx = sos_idx
+            for _ in range(max_output_len):
+                word_encoder = torch.tensor([[word_idx]]).to(device)
+                word_emb = self.decoder_emb(word_encoder)
+                
+                decoder_sequence_state, state = self.decoder(word_emb, state)
+                attention_scores = decoder_sequence_state @ encoder_sequence_state.permute(0, 2, 1)
+                attention_weights = F.softmax(attention_scores, dim=-1)
+                attention_values = attention_weights @ encoder_sequence_state
+                
+                concat = torch.concat((decoder_sequence_state, attention_values), dim=-1)
+                word_output = self.fcc(concat)
+                
+                word_idx = torch.argmax(word_output, dim=-1).item()
+                word_token = en_idx_token_dict[word_idx]
+                sequence_output.append(word_token)
+                if word_token == eos:
+                    break
+                
+        return sequence_output
