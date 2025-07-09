@@ -11,6 +11,8 @@ class Seq2Seq_GRU_Attention(nn.Module):
     # Softmax on the multiplication result => attention weights
 
     DOT_PRODUCT_ATTENTION = 'DOT_PRODUCT_ATTENTION'
+    LOCATION_BASED_ATTENTION = 'LOCATION_BASED_ATTENTION'
+    GENERAL_ATTENTION = 'GENERAL_ATTENTION'
     
     def __init__(self, input_dim, input_emb_dim, output_dim, output_emb_dim,
                         hidden_dim, layer, attention_type, bidirectional):
