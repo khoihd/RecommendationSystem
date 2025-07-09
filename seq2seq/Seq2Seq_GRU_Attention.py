@@ -15,16 +15,20 @@ class Seq2Seq_GRU_Attention(nn.Module):
     GENERAL_ATTENTION = 'GENERAL_ATTENTION'
     
     def __init__(self, input_dim, input_emb_dim, output_dim, output_emb_dim,
-                        hidden_dim, layer, attention_type, bidirectional):
+                        hidden_dim, layer, attention_type, attention_dim, bidirectional):
         super().__init__()
         self.encoder_emb = nn.Embedding(input_dim, input_emb_dim)
-        self.encoder = nn.GRU(input_emb_dim, hidden_dim, num_layers=layer, batch_first=True, bidirectional=bidirectional)
         self.decoder_emb = nn.Embedding(output_dim, output_emb_dim)
-        if bidirectional:
-            hidden_dim = hidden_dim * 2
+        self.encoder = nn.GRU(input_emb_dim, hidden_dim, num_layers=layer, batch_first=True, bidirectional=bidirectional)
         
-        self.decoder = nn.GRU(output_emb_dim, hidden_dim, num_layers=layer, batch_first=True)
-        self.fcc = nn.Linear(2 * hidden_dim, output_dim)
+        if not bidirectional:
+            self.encoder_attn = nn.Linear(hidden_dim, hidden_dim)
+            self.decoder = nn.GRU(output_emb_dim, hidden_dim, num_layers=layer, batch_first=True)
+        else:
+            self.encoder_attn = nn.Linear(hidden_dim*2, hidden_dim)
+            self.decoder = nn.GRU(output_emb_dim, hidden_dim, num_layers=layer*2, batch_first=True)
+        
+        self.fcc = nn.Linear(hidden_dim*2, output_dim)
         self.attention_type = attention_type
 
     def forward(self, encoder_input, decoder_input):
@@ -41,11 +45,10 @@ class Seq2Seq_GRU_Attention(nn.Module):
         # attention_scores, attention_weights: batch x output_seq_len x input_seq_len
         # attention_value: batch x output_seq_len x hidden_dim
         #   attention_value = attention_weights @ encoder_sequence_state
+        
+        projected_encoder_attn = self.encoder_attn(encoder_sequence_state)
         attention_func = self.get_attention_fn(self.attention_type)
-        appended_decoder_state = torch.concat(
-            (encoder_sequence_state[:,-1:,:], decoder_sequence_state), dim=1)
-
-        concat = attention_func(query=encoder_sequence_state, value=appended_decoder_state[:,:-1,:])
+        concat = attention_func(query=projected_encoder_attn, value=decoder_sequence_state)
         output = self.fcc(concat)
         return output, decoder_sequence_state
 
@@ -75,9 +78,10 @@ class Seq2Seq_GRU_Attention(nn.Module):
                 word_emb = self.decoder_emb(word_encoder)
                 
                 decoder_sequence_state, state = self.decoder(word_emb, state)
-                attention_scores = decoder_sequence_state @ encoder_sequence_state.permute(0, 2, 1)
+                encoder_sequence_attn = self.encoder_attn(encoder_sequence_state)
+                attention_scores = decoder_sequence_state @ encoder_sequence_attn.permute(0, 2, 1)
                 attention_weights = F.softmax(attention_scores, dim=-1)
-                attention_values = attention_weights @ encoder_sequence_state
+                attention_values = attention_weights @ encoder_sequence_attn
                 
                 concat = torch.concat((decoder_sequence_state, attention_values), dim=-1)
                 word_output = self.fcc(concat)
