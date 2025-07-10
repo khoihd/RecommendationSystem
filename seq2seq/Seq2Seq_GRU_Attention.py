@@ -52,7 +52,7 @@ class Seq2Seq_GRU_Attention(nn.Module):
         output = self.fcc(concat)
         return output, decoder_sequence_state
 
-    def get_attention_fn(self, attention_type):
+    def get_attention_fn(self):
         def dot_product_attn(query, value):
             attention_scores = value @ query.permute(0, 2, 1)
             attention_weights = F.softmax(attention_scores, dim=-1)
@@ -61,13 +61,13 @@ class Seq2Seq_GRU_Attention(nn.Module):
 
             return concat
         
-        if attention_type == Seq2Seq_GRU_Attention.DOT_PRODUCT_ATTENTION:
+        if self.attention_type == Seq2Seq_GRU_Attention.DOT_PRODUCT_ATTENTION:
             return dot_product_attn
     
     def translate(self, sequence_tokens, en_idx_token_dict, device, eos, sos_idx=2, max_output_len=100):
         self.eval()
         sequence_tokens_batch = sequence_tokens.unsqueeze(0)
-        
+        attention_fn = self.get_attention_fn()
         sequence_output = []
         with torch.no_grad():
             encoder_input_emb = self.encoder_emb(sequence_tokens_batch)
@@ -78,13 +78,15 @@ class Seq2Seq_GRU_Attention(nn.Module):
                 word_emb = self.decoder_emb(word_encoder)
                 
                 decoder_sequence_state, state = self.decoder(word_emb, state)
-                encoder_sequence_attn = self.encoder_attn(encoder_sequence_state)
-                attention_scores = decoder_sequence_state @ encoder_sequence_attn.permute(0, 2, 1)
-                attention_weights = F.softmax(attention_scores, dim=-1)
-                attention_values = attention_weights @ encoder_sequence_attn
-                
-                concat = torch.concat((decoder_sequence_state, attention_values), dim=-1)
+                projected_encoder_attn = self.encoder_attn(encoder_sequence_state)
+                concat = attention_fn(query=projected_encoder_attn, value=decoder_sequence_state)
                 word_output = self.fcc(concat)
+
+                # attention_scores = decoder_sequence_state @ encoder_sequence_attn.permute(0, 2, 1)
+                # attention_weights = F.softmax(attention_scores, dim=-1)
+                # attention_values = attention_weights @ encoder_sequence_attn
+                # concat = torch.concat((decoder_sequence_state, attention_values), dim=-1)
+                # word_output = self.fcc(concat)
                 
                 word_idx = torch.argmax(word_output, dim=-1).item()
                 word_token = en_idx_token_dict[word_idx]
