@@ -8,6 +8,9 @@ DOT_PRODUCT = "DOT_PRODUCT"
 SCALED_DOT_PRODUCT = "SCALED_DOT_PRODUCT"
 GENERALIZED_DOT_PRODUCT = "GENERALIZED_DOT_PRODUCT"
 
+LOCAL_MONOTONIC_ALIGN = "LOCAL_MONOTONIC"
+LOCAL_PREDICTIVE_ALIGN = "LOCAL_PREDICTIVE_ALIGN"
+
 class Seq2Seq_GRU_Attention(nn.Module):
     # Encoder: Input -> Embedded -> GRU (hidden, layers, bidirectional)
     # Decoder: Ouput -> Embedded -> GRU (hidden, layers) 
@@ -59,6 +62,7 @@ class Seq2Seq_GRU_Attention(nn.Module):
                 attention_scores = query @ key.permute(0, 2, 1) / np.sqrt(key.size()[-1])
             elif self.attention_type == GENERALIZED_DOT_PRODUCT:
                 attention_scores = query @ self.general_attn_matrix @ key.permute(0, 2, 1)
+            
             attention_weights = F.softmax(attention_scores, dim=-1)
             context_vector = attention_weights @ key
             concat = torch.concat((query, context_vector), dim=-1)
