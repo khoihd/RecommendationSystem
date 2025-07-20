@@ -19,7 +19,7 @@ class TestPositionalEncoding(unittest.TestCase):
         positional_embedding = PositionalWordEmbedding(vocab_size, emb_dim)
         emb = positional_embedding.positional_embeddding(training_set)
 
-        print(f"Running test for position embedding with batch_size={batch_size}, seq_len={seq_len}, emb_dim={emb_dim}...")
+        print(f"Running test for positional embedding with batch_size={batch_size}, seq_len={seq_len}, emb_dim={emb_dim}...")
         for batch in range(batch_size):
             for i in range(seq_len):
                 for d in range(emb_dim):
