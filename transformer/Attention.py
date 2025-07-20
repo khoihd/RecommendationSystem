@@ -1,3 +1,4 @@
+import numpy as np
 import torch
 import torch.nn as nn
 
@@ -6,6 +7,7 @@ import torch.nn as nn
 class Attention(nn.Module):
     def __init__(self, input_dim, attn_dim, head_count=1, masked=False):
         super().__init__()
+        self.attn_dim = attn_dim
         self.attn_heads = []
         # To parallelize attention with multi-heads
         for _ in range(head_count):
@@ -29,7 +31,7 @@ class Attention(nn.Module):
 
             # (batch x query_len x attn_dim) @ (batch x attn_dim x keyvalue_len)
             # batch x query_len x keyvalue_len
-            attn_scores = attn_q @ attn_k.permute(0, 2, 1)
+            attn_scores = attn_q @ attn_k.permute(0, 2, 1) / np.sqrt(self.attn_dim)
             # batch x query_len x keyvalue_len
             attn_weights = torch.softmax(attn_scores, -1)
             # (batch x query_len x keyvalue_len) @ (batch x keyvalue_len x attn_dim)
