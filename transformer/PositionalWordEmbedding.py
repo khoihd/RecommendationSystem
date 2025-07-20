@@ -2,6 +2,7 @@ import math
 import torch
 import torch.nn as nn
 
+# TODO: How to parallelize PositionalWordEmbedding
 class PositionalWordEmbedding(nn.Module):
     def __init__(self, vocab_size, dim):
         super().__init__()
