@@ -1,14 +1,13 @@
 import torch.nn as nn
-from PositionalWordEmbedding import PositionalWordEmbedding
 from AddNorm import AddNorm
 from Attention import Attention
+from PositionalWordEmbedding import PositionalWordEmbedding
 
 class TransformerEncoder(nn.Module):
     def __init__(self, vocab_size, emb_dim=512, att_dim=64, att_heads=8, ffn_dim=2048, layers=6):
         super().__init__()
         # Embedd input
         self.embedding = PositionalWordEmbedding(vocab_size, emb_dim)
-        
         self.layers = layers
         self.encoding_layers = []    
         for _ in range(layers):
