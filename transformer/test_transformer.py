@@ -30,7 +30,7 @@ class TestPositionalEncoding(unittest.TestCase):
 
         training_set = torch.tensor(training_set)
 
-        positional_embedding = PositionalWordEmbedding(vocab_size, seq_len, emb_dim)
+        positional_embedding = PositionalWordEmbedding(vocab_size, emb_dim)
         emb = positional_embedding.positional_embeddding(training_set)
 
         pytorch_positional_embedding = PytorchPositionalEncoding(emb_dim, dropout=0, max_len=seq_len)
