@@ -47,7 +47,8 @@ class TestPositionalEncoding(unittest.TestCase):
                         emb_val = torch.cos(torch.tensor(i / 10000**((d-1)/emb_dim))).item()
                     
                     self.assertAlmostEqual(emb[batch][i][d].item(), emb_val, places=4)
-                        
+    
+    
 
 # Run tests if executed directly
 if __name__ == '__main__':

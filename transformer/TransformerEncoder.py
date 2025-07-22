@@ -12,7 +12,7 @@ class TransformerEncoder(nn.Module):
         self.encoding_layers = []    
         for _ in range(layers):
             self.encoding_layers.append([
-                Attention(emb_dim, att_dim, att_heads),
+                Attention(emb_dim, att_dim, att_heads, mask=False),
                 AddNorm(),
                 nn.Linear(att_heads * att_dim, ffn_dim, bias=True),
                 nn.ReLU(),
