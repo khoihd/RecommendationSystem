@@ -94,6 +94,7 @@ class Seq2Seq_GRU_Attention(nn.Module):
                 # concat = torch.concat((decoder_sequence_state, attention_values), dim=-1)
                 # word_output = self.fcc(concat)
                 
+                word_output = F.softmax(word_output, dim=-1)
                 word_idx = torch.argmax(word_output, dim=-1).item()
                 word_token = en_idx_token_dict[word_idx]
                 sequence_output.append(word_token)
