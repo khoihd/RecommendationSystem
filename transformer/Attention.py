@@ -47,6 +47,10 @@ class Attention(nn.Module):
         # batch x attn_heads x query_len x keyvalue_len
         attn_scores = attn_q @ attn_k.transpose(-2, -1)
         attn_scores = attn_scores / self.attn_dim**0.5
+        
+        if self.mask:
+            attn_scores = torch.tril(attn_scores)
+
         # batch x attn_heads x query_len x keyvalue_len
         attn_weights = torch.softmax(attn_scores, -1)
         # (batch x attn_heads x query_len x keyvalue_len) @ (batch x attn_heads x keyvalue_len x attn_dim)

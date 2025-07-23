@@ -31,4 +31,4 @@ class TransformerDecoder(nn.Module):
             fcc_x = layer[6](fcc_x)                         # fcc
             x = layer[7](pre_fcc_x, fcc_x)                  # pre_fcc_x + fcc_x
 
-        x = self.fcc(x)
+        return self.fcc(x)                                  # final fcc
