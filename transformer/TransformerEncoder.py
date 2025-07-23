@@ -2,21 +2,20 @@ import torch.nn as nn
 from . import AddNorm, Attention, PositionalWordEmbedding
 
 class TransformerEncoder(nn.Module):
-    def __init__(self, vocab_size, emb_dim=512, att_dim=64, att_heads=8, ffn_dim=2048, layers=6):
+    def __init__(self, vocab_size, emb_dim=512, attn_dim=64, attn_heads=8, ffn_dim=2048, layers=6):
         super().__init__()
-        # Embedd input
         self.embedding = PositionalWordEmbedding(vocab_size, emb_dim)
         self.layers = layers
-        self.encoding_layers = nn.Sequential()        
+        self.encoding_layers = nn.Sequential()
 
         for _ in range(layers):
             layer = nn.Sequential(
-                Attention(emb_dim, att_dim, att_heads, mask=False),
-                AddNorm(att_heads * att_dim),
-                nn.Linear(att_heads * att_dim, ffn_dim, bias=True),
+                Attention(emb_dim, attn_dim, attn_heads, mask=False),
+                AddNorm(attn_heads * attn_dim),
+                nn.Linear(attn_heads * attn_dim, ffn_dim, bias=True),
                 nn.ReLU(),
-                nn.Linear(ffn_dim, att_heads * att_dim, bias=True),
-                AddNorm(att_heads * att_dim)
+                nn.Linear(ffn_dim, attn_heads * attn_dim, bias=True),
+                AddNorm(attn_heads * attn_dim)
             )
             self.encoding_layers.append(layer)
 
