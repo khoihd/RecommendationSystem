@@ -3,7 +3,6 @@ import torch
 import torch.nn as nn
 
 
-# TODO: Implement Masked Attention
 # TODO: How to test Attention
 class Attention(nn.Module):
     def __init__(self, input_dim, attn_dim, attn_heads, mask):
