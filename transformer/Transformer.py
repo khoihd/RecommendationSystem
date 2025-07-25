@@ -1,3 +1,4 @@
+import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -21,13 +22,13 @@ class Transformer(nn.Module):
         )
 
     def forward(self, x, y):
-        encoder_output = self.encoder(x)
-        return self.decoder(y, encoder_output)
+        enc_x = self.encoder(x)
+        return self.decoder(y, enc_x)
 
     def translate(self, sequence_tokens, en_idx_token_dict, device, eos, sos_idx=2, max_output_len=100):
         self.eval()
         sequence_tokens_batch = sequence_tokens.unsqueeze(0)
-        decoder_input = [[word_idx]]
+        decoder_input = torch.tensor([[sos_idx]]).to(device)
         sequence_output = []
         with torch.no_grad():
             # encoder_input_emb = self.encoder_emb(sequence_tokens_batch)
@@ -35,11 +36,14 @@ class Transformer(nn.Module):
             encoder_state = self.encoder(sequence_tokens_batch)
             word_idx = sos_idx
             for _ in range(max_output_len):
-                decoder_input = torch.tensor().to(device)
                 word_output = self.decoder(decoder_input, encoder_state)
                 word_output = F.softmax(word_output, dim=-1)                
-                word_idx = torch.argmax(word_output, dim=-1).item()
+                print(word_output)
+                word_idx = torch.argmax(word_output, dim=-1)[0][-1].item()
+                
+                decoder_input = decoder_input.tolist()
                 decoder_input[0].append(word_idx)
+                decoder_input = torch.tensor(decoder_input).to(device)
                 word_token = en_idx_token_dict[word_idx]
                 sequence_output.append(word_token)
                 if word_token == eos:
