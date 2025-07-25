@@ -31,14 +31,12 @@ class Transformer(nn.Module):
         decoder_input = torch.tensor([[sos_idx]]).to(device)
         sequence_output = []
         with torch.no_grad():
-            # encoder_input_emb = self.encoder_emb(sequence_tokens_batch)
-            # encoder_sequence_state, state = self.encoder(encoder_input_emb)
             encoder_state = self.encoder(sequence_tokens_batch)
-            word_idx = sos_idx
+            print("encoder_state", encoder_state)
             for _ in range(max_output_len):
                 word_output = self.decoder(decoder_input, encoder_state)
                 word_output = F.softmax(word_output, dim=-1)                
-                print(word_output)
+                # print(word_output)
                 word_idx = torch.argmax(word_output, dim=-1)[0][-1].item()
                 
                 decoder_input = decoder_input.tolist()
