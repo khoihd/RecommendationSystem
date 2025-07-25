@@ -30,8 +30,8 @@ class TestPositionalEncoding(unittest.TestCase):
 
         training_set = torch.tensor(training_set)
 
-        positional_embedding = PositionalWordEmbedding(vocab_size, emb_dim)
-        emb = positional_embedding.positional_embeddding(training_set)
+        positional_embedding = PositionalWordEmbedding(vocab_size, emb_dim, max_seq_len=seq_len)
+        emb = positional_embedding.positional_embedding(training_set)
 
         pytorch_positional_embedding = PytorchPositionalEncoding(emb_dim, dropout=0, max_len=seq_len)
         pytorch_emb = pytorch_positional_embedding(training_set.transpose(0, 1))
@@ -47,7 +47,6 @@ class TestPositionalEncoding(unittest.TestCase):
                         emb_val = torch.cos(torch.tensor(i / 10000**((d-1)/emb_dim))).item()
                     
                     self.assertAlmostEqual(emb[batch][i][d].item(), emb_val, places=4)
-    
     
 
 # Run tests if executed directly

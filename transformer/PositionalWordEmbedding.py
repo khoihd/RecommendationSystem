@@ -9,7 +9,7 @@ class PositionalWordEmbedding(nn.Module):
         self.emb_dim = emb_dim
         self.word_embeddding = nn.Embedding(vocab_size, emb_dim)
         # max_seq_len x emb_dim
-        self.register_buffer('pe', torch.zeros(max_seq_len, emb_dim))
+        self.register_buffer("pe", torch.zeros(max_seq_len, emb_dim))
 
         # dimensions: emb_dim
         dimensions = torch.arange(0, emb_dim, 2)
@@ -27,5 +27,11 @@ class PositionalWordEmbedding(nn.Module):
     def forward(self, x):
         batch_size = x.size()[0]
         seq_len = x.size()[1]
-        
+
         return self.word_embeddding(x) + self.pe[:seq_len].repeat(batch_size, 1, 1)
+
+    def positional_embedding(self, x):
+        batch_size = x.size()[0]
+        seq_len = x.size()[1]
+
+        return self.pe[:seq_len].repeat(batch_size, 1, 1)
