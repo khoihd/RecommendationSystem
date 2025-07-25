@@ -49,11 +49,9 @@ class Attention(nn.Module):
         attn_scores = attn_scores / self.attn_dim**0.5
 
         if self.mask:
-            # Fill with negative infinity
             mask_attn_matrix = torch.triu(torch.ones_like(attn_scores, dtype=torch.bool), 
-                                            device=attn_scores.device, diagonal=1,
+                                            diagonal=1,
                                         )
-            # What if the original score is already 0?
             attn_scores = attn_scores.masked_fill(mask_attn_matrix, float('-inf'))
 
         # batch x attn_heads x query_len x keyvalue_len
