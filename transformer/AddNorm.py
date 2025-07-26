@@ -8,3 +8,4 @@ class AddNorm(nn.Module):
 
     def forward(self, x, y):
         return self.layernorm(x + y)
+    
