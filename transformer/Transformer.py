@@ -6,17 +6,18 @@ from transformer import TransformerEncoder, TransformerDecoder
 
 
 class Transformer(nn.Module):
-    def __init__(self, input_vocab_size, output_vocab_size,
-        emb_dim=512, attn_heads=8, ffn_dim=2048, layers=6, max_seq_len=50
+    def __init__(self, input_vocab_size, output_vocab_size, emb_dim=512, attn_heads=8,
+                 ffn_dim=2048, layers=6, max_seq_len=50, pre_norm=False
     ):
         super().__init__()
+        self.prenorm = pre_norm
         self.encoder = TransformerEncoder(
             input_vocab_size, emb_dim=emb_dim, attn_heads=attn_heads,
-            ffn_dim=ffn_dim, layers=layers, max_seq_len=max_seq_len
+            ffn_dim=ffn_dim, layers=layers, max_seq_len=max_seq_len, pre_norm=pre_norm
         )
         self.decoder = TransformerDecoder(
             output_vocab_size, emb_dim=emb_dim, attn_heads=attn_heads,
-            ffn_dim=ffn_dim, layers=layers, max_seq_len=max_seq_len
+            ffn_dim=ffn_dim, layers=layers, max_seq_len=max_seq_len, pre_norm=pre_norm
         )
 
     def forward(self, x, y):
