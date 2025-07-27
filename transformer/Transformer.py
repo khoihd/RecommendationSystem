@@ -30,12 +30,12 @@ class Transformer(nn.Module):
         sequence_output = []
         with torch.no_grad():
             encoder_state = self.encoder(sequence_tokens_batch)
-            print("sequence_tokens_batch", sequence_tokens_batch)
-            print("encoder_state", encoder_state)
+            # print("sequence_tokens_batch", sequence_tokens_batch)
+            # print("encoder_state", encoder_state)
             for _ in range(max_output_len):
-                word_output = self.decoder(decoder_input, encoder_state)
-                word_output = word_output[0,-1,:]
-                next_token_idx = torch.argmax(word_output, dim=-1).item()                
+                sentence_output = self.decoder(decoder_input, encoder_state)
+                sentence_output = sentence_output[0,-1,:]
+                next_token_idx = torch.argmax(sentence_output, dim=-1).item()                
                 decoder_input = torch.concat((decoder_input,
                                              torch.tensor([next_token_idx]).unsqueeze(0)),
                                              dim=-1)
