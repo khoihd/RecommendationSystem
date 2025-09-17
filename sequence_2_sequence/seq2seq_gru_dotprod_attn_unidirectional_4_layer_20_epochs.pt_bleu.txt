@@ -1,0 +1,4057 @@
+a little girl standing in a fountain filled pool . <eos>
+a little girl stands in a puddle outside . <eos>
+0.0
+=======================
+a male drummer and a female singer in a dance performance in a parade . <eos>
+a drummer and guitar player play a show in a dark area . <eos>
+0.0
+=======================
+a young man with a dirty mask is out of the <unk> tank . <eos>
+a shaggy young male with a nose ring brushes his teeth . <eos>
+0.0
+=======================
+two boys playing a game of football . <eos>
+two boys playing a game with <unk> . <eos>
+0.5133450627326965
+=======================
+dog walking around carrying camera dog around . <eos>
+dog in plants crouches to look at camera . <eos>
+0.0
+=======================
+a woman is wearing a tan shawl . <eos>
+a woman is standing and wearing a green and yellow scarf . <eos>
+0.0
+=======================
+a group of children play in the water next to a bridge . <eos>
+a group of children play in the water under a bridge . <eos>
+0.6997522115707397
+=======================
+two bicyclists ride down a road . <eos>
+two bicyclists are racing each other on a dirt track . <eos>
+0.0
+=======================
+a male cop is holding a picture of something on the ground . <eos>
+a policeman stopping a vehicle on the side of the road . <eos>
+0.0
+=======================
+a group of men in costumes play instruments . <eos>
+a group of men in costume play music . <eos>
+0.46713799238204956
+=======================
+a black and white dog wrestle in the water . <eos>
+a black and white dog swimming in clear water . <eos>
+0.4832697808742523
+=======================
+people are walking and dancing in the dark . <eos>
+people are dancing and clapping there hands . <eos>
+0.0
+=======================
+a man and a woman are sitting on the grass in front of the mountain . <eos>
+a man and a woman are sitting on the floor in front of luggage . <eos>
+0.5997820496559143
+=======================
+man standing on a sand near a river under a lake . <eos>
+man standing on a pier next to a boat on a still lake . <eos>
+0.2553522288799286
+=======================
+a man in a green jacket is smiling . <eos>
+a man in a green jacket is smiling . <eos>
+1.0
+=======================
+the man with the white cap has his shoes and face his eyes . <eos>
+the man in the white belt and sunglasses is holding the girl 's hand . <eos>
+0.0
+=======================
+several children are around them wearing helmets , while sitting on a silver board . <eos>
+several children are raising their hands while sitting on a colorful rug in a classroom . <eos>
+0.23182737827301025
+=======================
+two young boys watch a group of girls in the long boat and <unk> two other girls . <eos>
+two boys prepare a small sailboat as two girls watch them from the beach . <eos>
+0.0
+=======================
+girl in a white shirt hula hoops in tennis shoulders . <eos>
+girl in white shirt blowing bubbles in dark room . <eos>
+0.0
+=======================
+street from above shops lined up above two cars . <eos>
+a view of a street lined with large , clean buildings . <eos>
+0.0
+=======================
+a man riding a red and white bike - like truck . <eos>
+a man drives an old - fashioned red race car . <eos>
+0.0
+=======================
+a man is sitting in a chair with a paper out of an orange shirt sitting on a couch . <eos>
+a man sitting on a chair with a beer in his hands <unk> something to eat on a wooden stick . <eos>
+0.19514191150665283
+=======================
+a woman in blue sweatpants is standing looking to the left . <eos>
+a woman wearing a blue uniform stands and looks down . <eos>
+0.0
+=======================
+a lone man in a black shirt is removing his hands while people look in a doorway . <eos>
+a single man in a black t - shirt standing above the crowd at a busy bar . <eos>
+0.1667955219745636
+=======================
+a child dressed as a walks past the <unk> 's edge . <eos>
+a child that is dressed as spiderman is <unk> the <unk> . <eos>
+0.0
+=======================
+a young asian girl is seated inside a striped chair with a green flower outstretched as she sits in a <unk> tree alone . <eos>
+a little girl of asian descent , is sitting in a black bucket eating a <unk> , with a big smile on her face . <eos>
+0.0
+=======================
+four people are in a canoe at a cathedral - like grocery store . <eos>
+4 people are strapped to an amusement park ride <eos>
+0.0
+=======================
+two men on the floor , appear to be enjoying a meal outdoors , while the other sits watches . <eos>
+two men are looking at the screen of a laptop while one types and one points at the screen . <eos>
+0.0
+=======================
+four small children playing with toys on some outdoor stairs . <eos>
+four young kids playing with empty <unk> . <eos>
+0.0
+=======================
+a snow climber digging with a forest in the background . <eos>
+a hot air balloon touching down with a man 's shadow in the background . <eos>
+0.27013686299324036
+=======================
+a man in a red and white striped shirt sitting on a yellow track working on a piece of art . <eos>
+a man in a red and white striped shirts sits on a stool at a hotdog stand . <eos>
+0.3760281801223755
+=======================
+a dancer in a black suit leaps into the water . <eos>
+a dancer in a red suit is jumping in the air . <eos>
+0.24925833940505981
+=======================
+children playing on a rope . <eos>
+children are playing a sport on a field . <eos>
+0.0
+=======================
+runners are taking a ride in the city . <eos>
+runners pass a check point in the city . <eos>
+0.4272870123386383
+=======================
+two women walking down the sidewalk with a large gray umbrella . <eos>
+two women with their baby strollers walking along a leaves covered street . <eos>
+0.0
+=======================
+the woman is <unk> a man by the <unk> streets was in her hands . <eos>
+the woman is placing an orange rose as a <unk> on the man 's suit jacket collar . <eos>
+0.0
+=======================
+a young skier enjoys his drink in the air . <eos>
+a young skier looks at the camera . <eos>
+0.0
+=======================
+cheerleaders dressed up are getting ready to dance . <eos>
+farmers are performing their <unk> during the day . <eos>
+0.0
+=======================
+young kids in winter jackets running in a field . <eos>
+young adults dressed casually walk around in a field . <eos>
+0.3672056198120117
+=======================
+a woman steps her purse with a young girl in a light asian grocery store . <eos>
+a woman talks to a young girl over a counter . <eos>
+0.0
+=======================
+there is a man laying down in snow , holding a green bucket . <eos>
+there is a man wrapped in a blanket of some sort sliding down a hill that is covered in snow . <eos>
+0.14739857614040375
+=======================
+a boy in a two soccer boat with two baseball players . <eos>
+a boy in a park playing with two orange balls . <eos>
+0.26130226254463196
+=======================
+a group of people wearing black and white outfits are carrying red and yellow flags . <eos>
+a group of people in plaid skirts , black vests and white - collared shirts are playing drums . <eos>
+0.17145997285842896
+=======================
+three small dogs stand on <unk> . <eos>
+three small dogs <unk> at something . <eos>
+0.0
+=======================
+two men are using a building to a man leaning against a wall as they watch . <eos>
+two men are painting a building while a third is walking past on his cellphone . <eos>
+0.0
+=======================
+a man sits in the sand surrounded by several large houses . <eos>
+a man sitting in clear shallow water beside a large rock face . <eos>
+0.0
+=======================
+two men in a <unk> , dark - <unk> t - shirt standing with their hands , looking at a bunch of <unk> fish . <eos>
+two men in a foreign country smiling , one standing and one sitting with his legs crossed . <eos>
+0.1190200001001358
+=======================
+man wearing a white t - shirt and black shorts playing basketball while a woman in a purple <unk> watches . <eos>
+man in white shirt and striped shorts playing organ being observed by man wearing yellow shirt <eos>
+0.0
+=======================
+a man is in a recording area while a downtown watches . <eos>
+a man being pushed in a wheelchair through a library . <eos>
+0.0
+=======================
+a group of people playing a guitar and outside . <eos>
+a group of people playing guitars in white . <eos>
+0.4035278558731079
+=======================
+two people looking at flower in a store . <eos>
+two people looking at clothes in a shop window . <eos>
+0.32117030024528503
+=======================
+a young man in a green sweatshirt holding a box at the beach . <eos>
+a young man in a green sweatshirt reads a newspaper on the beach . <eos>
+0.5828233957290649
+=======================
+two men rowing on opposite side of a street corner . <eos>
+two men on opposing teams race toward a soccer ball . <eos>
+0.0
+=======================
+a woman is walking through a city in the evening . <eos>
+a woman peeks into a telescope in the woods . <eos>
+0.0
+=======================
+a man with gray hair is giving a speech . <eos>
+a man picks up a <unk> wet woman happily . <eos>
+0.0
+=======================
+a boy in a red shirt is hugging another man . <eos>
+a boy in a red shirt trying to play a guitar . <eos>
+0.4317280650138855
+=======================
+a small child riding a bike on a trail in the mountains . <eos>
+a young child rides a motorbike through the mud . <eos>
+0.0
+=======================
+the woman wearing a red hat is kiss by performing some food . <eos>
+the lady wearing a black hat is taking a picture while the <unk> . <eos>
+0.0
+=======================
+a man with a golden belt has his arms hand while walking his dog along a dirt path . <eos>
+a man with a <unk> who does n't have legs is walking with another man who is <unk> into a marathon . <eos>
+0.13183313608169556
+=======================
+the <unk> of a hockey team has passed the ball at two <unk> . <eos>
+a carnival game <unk> takes the money of two <unk> contestants . <eos>
+0.0
+=======================
+a person in a green shirt makes a painting of a young man in a gray hat . <eos>
+a person with a purple shirt is painting an image of a woman on a white wall . <eos>
+0.0
+=======================
+two man <unk> with the ball to the other chest with a ball at the edge . <eos>
+two men guard the man with the basketball during a game at dusk . <eos>
+0.0
+=======================
+a man in a yellow shirt standing in the middle of a busy sidewalk . <eos>
+a man in a yellow shirt is standing in the sidewalk measuring . <eos>
+0.4261082708835602
+=======================
+a man waiting for the train at the airport . <eos>
+a male is waiting for the train to arrive at the platform . <eos>
+0.24856238067150116
+=======================
+a man in the city streets , there is a white horse and a man in the middle of it looking down . <eos>
+there is a man in fireman 's gear crossing the road near a white bus and a red semi . <eos>
+0.0
+=======================
+a sculpture is being lifted into a dining area . <eos>
+this is a crowded intersection in a big city at night . <eos>
+0.0
+=======================
+a bride is getting her picture taken at her wedding , which are walking by her wedding <unk> , and the other is covered in flowers . <eos>
+a bride adjust her <unk> flower on his coat as she holds her own bouquet of flowers . <eos>
+0.0
+=======================
+a group of people are gathered around a fence while in a light colored dress . <eos>
+a group of people <unk> around a man in a suit and a little boy . <eos>
+0.21409094333648682
+=======================
+the yellow boat that is full of flowers . <eos>
+the shadow of two men on <unk> . <eos>
+0.0
+=======================
+a balding man wearing a colorful hat is playing with a small crowd of people . <eos>
+a balding man wearing a red life jacket is sitting in a small boat . <eos>
+0.2817595303058624
+=======================
+a man wearing a gray shirt is kneeling down next to a painting of a sports sign . <eos>
+a man wearing a gray shirt resting his head on a table . <eos>
+0.2888983190059662
+=======================
+a barefoot boy with a striped shirt is standing on the beach with his thumb on . <eos>
+a barefoot boy with a blue and white striped towel is standing on the beach . <eos>
+0.442197322845459
+=======================
+two people with white shirts are walking down the sidewalk and looking up . <eos>
+two people with white shirts walking up the sidewalk talking on their <unk> . <eos>
+0.33157962560653687
+=======================
+a little girl is swimming in a pool . <eos>
+a young girl is swimming in a pool . <eos>
+0.7825422883033752
+=======================
+a group of people in blue shirts performing in a school stadium . <eos>
+a group of people in blue shirts at a sporting event . <eos>
+0.49132704734802246
+=======================
+a music worker works on a piece of equipment . <eos>
+a native woman is working on a craft project . <eos>
+0.0
+=======================
+two girls are sitting on a wall looking at a giant phone . <eos>
+two girls sit near a wall and watch a sporting event . <eos>
+0.0
+=======================
+three men on horses climbing a sand link fence . <eos>
+three men on horses during a race . <eos>
+0.2899784445762634
+=======================
+a man <unk> a baby in a bar . <eos>
+a man feeding a baby in a highchair . <eos>
+0.35494810342788696
+=======================
+a man and a woman pose for a group of people on the sidewalk . <eos>
+a man and woman pose together on a cobblestone street . <eos>
+0.0
+=======================
+a man adjusts the back of a car near a lake . <eos>
+a man adjusts the engine of a boat near the water . <eos>
+0.26911091804504395
+=======================
+a child wearing a jacket and jacket walks down a dirty floor . <eos>
+a child wearing a hat and jacket is outside running on a stone surface . <eos>
+0.21446539461612701
+=======================
+a black poodle playing a game in the sand next to a soccer ball . <eos>
+a black poodle plays with another dog in a dry field . <eos>
+0.0
+=======================
+a little girl wearing a dress and sunglasses runs <eos>
+a young girl wearing a dress and sandals runs in the grass . <eos>
+0.29614192247390747
+=======================
+the <unk> is shacking against the fire in front . <eos>
+the skiers are in front of the lodge . <eos>
+0.0
+=======================
+two men are having a conversation while sitting on a wall . <eos>
+two men converse near a wall with graffiti on it . <eos>
+0.0
+=======================
+three men walk down the street in a nighttime . <eos>
+three men are walking on a road in the mountains . <eos>
+0.0
+=======================
+several young adults adults out by adults play their games and adults watch . <eos>
+a bunch of young adults stare in <unk> at their computer monitors as they competitively game . <eos>
+0.0
+=======================
+three people are sitting and one is the others their <unk> , one is very blond and the other is <unk> their way . <eos>
+there are 3 people playing musical instrument and one other person looks like she is singing . <eos>
+0.0
+=======================
+a woman with earmuffs puts her hair before her is face . <eos>
+a <unk> faced woman cleans the floor of her living room . <eos>
+0.0
+=======================
+a woman standing in front of a bunch of flowers and some plants . <eos>
+a woman standing in front of trees and smiling . <eos>
+0.37502288818359375
+=======================
+a woman is getting ready to shoot a piece of stone for the camera . <eos>
+a woman prepares ingredients for a bowl of soup . <eos>
+0.0
+=======================
+three men talking on the patio of a city street in the sun . <eos>
+three men are talking in front of old stairs on the street . <eos>
+0.0
+=======================
+a woman wearing a <unk> is stretching her hand on a wooden fence . <eos>
+a woman hanging from a tree , her leg wrapped in cloth . <eos>
+0.0
+=======================
+a <unk> standing around a pole . <eos>
+a bank <unk> standing at a counter . <eos>
+0.0
+=======================
+a group of <unk> are walking down the street with their right arm and <unk> . <eos>
+a group of <unk> walking down the road with american flags and other military flags . <eos>
+0.24264384806156158
+=======================
+a man wearing a brown shirt with white pants playing his electric guitar . <eos>
+a man with a brown shirt , gray vest and black cap plays an electric bass . <eos>
+0.0
+=======================
+there is a woman sitting behind her with coffee equipment around her . <eos>
+a foreign woman is sitting with a lot of colorful fabric . <eos>
+0.0
+=======================
+with a machine , the <unk> of this worker and a giant number kind on the opposite side of the highway . <eos>
+with a tub resting on its <unk> roof , flags attached , the car is ready to take off for the rally . <eos>
+0.0
+=======================
+man looking on as man walks on sidewalk . <eos>
+man looking at a woman that is smoking on the sidewalk . <eos>
+0.0
+=======================
+a mother and two children posing with their mother . <eos>
+a mother and two children are posing with funny faces . <eos>
+0.41065171360969543
+=======================
+several people standing near an open field near a body of water . <eos>
+several people are standing near trees at dusk . <eos>
+0.0
+=======================
+man in a plaid shirt doing <unk> act into a store . <eos>
+man wearing an purple shirt working in a <unk> lab . <eos>
+0.0
+=======================
+a small child is playing outside on a stone surface . <eos>
+a young child is playing in a water sprinkler . <eos>
+0.0
+=======================
+a man wearing a large baseball cap is sitting on a tree stump . <eos>
+a man wearing a bright , multi - color helmet is sitting on a motorcycle . <eos>
+0.31644997000694275
+=======================
+a group of bicyclists head towards a man in a boat . <eos>
+a pack of bicycle road racers lean through a curve . <eos>
+0.0
+=======================
+two black dogs run together on opposite waves . <eos>
+two black dogs running down either side of a paved pathway <eos>
+0.0
+=======================
+a man is playing an instrument underneath his i - <unk> . <eos>
+a man playing mike <unk> 's <unk> on his computer . <eos>
+0.0
+=======================
+people are riding the dirt - escalator on a dock , near a body of water , walking in the rain . <eos>
+people boating on a lake with the sun through the clouds in the distance . <eos>
+0.0
+=======================
+a chef works with a piece of paper in a living room . <eos>
+a chef working in a kitchen using a knife . <eos>
+0.0
+=======================
+three women are running between water in the tropical . <eos>
+three women run barefoot on the sand towards the water . <eos>
+0.0
+=======================
+a man with a tattoo in a blue chair is playing a violin . <eos>
+a man with a name tag on is sitting in a chair . <eos>
+0.23505206406116486
+=======================
+this is a muzzled , yellow school - aged boy wearing glasses , <unk> - flops around him . <eos>
+a dog 's mouth opens to <unk> its sharp teeth . <eos>
+0.0
+=======================
+the woman is holding a paintbrush . <eos>
+the woman is holding a violin . <eos>
+0.5946035385131836
+=======================
+a woman in a striped shirt , and flip - flops is in the middle of a frame together . <eos>
+a woman in a striped shirt <unk> her arms while standing in a grocery store . <eos>
+0.2660812437534332
+=======================
+a <unk> terrier is in midair at a big <unk> . <eos>
+a racing catamaran is lifted onto one <unk> in the water . <eos>
+0.0
+=======================
+a <unk> in a red jacket is leaving of his class . <eos>
+a female figure skater in a red jacket is practicing her moves . <eos>
+0.31843164563179016
+=======================
+a person in a red and black striped outfit is jumping from a brick sidewalk on a cloudy day . <eos>
+a person wearing a red long - sleeved shirt is lying down on a wall in front of a lamp post in a very unusual manner . <eos>
+0.0
+=======================
+a cowboy tries not to fall off of the bucking cow , while spectators , barely <unk> horse , and another man riding a bicycle . <eos>
+a cowboy <unk> a horse in a rodeo as the horse does a back kick <eos>
+0.0
+=======================
+two nurses , one wearing an official closed , are doing a routine in a park . <eos>
+two female <unk> , one with a purple sports bra , battle it out in an arena . <eos>
+0.0
+=======================
+a man in a blue shirt is holding a sign asking for the <unk> from a stand behind him . <eos>
+a man in a blue shirt is holding a sign that says " come on now <unk> what 's <unk> than tea . " <eos>
+0.38198989629745483
+=======================
+a man in a suit and tie smokes in front of a music stand in the city . <eos>
+a man in a suit and tie in a fancy building is speaking at the podium . <eos>
+0.3665882647037506
+=======================
+a <unk> drunken man uses a <unk> on a <unk> 's shop in the <unk> sun . <eos>
+a man bundled up in the cold weather up in a bucket working on a power line . <eos>
+0.0
+=======================
+a brown and white dog running across a rocky <unk> . <eos>
+a brown a white dog runs down a yellow and blue ramp . <eos>
+0.0
+=======================
+a man with glasses and a little girl wearing a pink shirt are swimming in a fountain . <eos>
+a man with glasses and a little girl with a life jacket swimming in a pool . <eos>
+0.4790714383125305
+=======================
+two girls are walking up a sidewalk holding a camera and a man <eos>
+two girls are wet and behind them is a woman holding an open umbrella . <eos>
+0.0
+=======================
+two children , wearing blue jackets playing in a park . <eos>
+two children in yellow jackets are playing in mud . <eos>
+0.0
+=======================
+a group of people who are posing for their camera in public . <eos>
+a medium sized group of people pose in front of the camera . <eos>
+0.0
+=======================
+a young child standing on a rock , looking like a body of water . <eos>
+a young child is standing alone on some jagged rocks . <eos>
+0.0
+=======================
+a small child eats a meal and <unk> food . <eos>
+a small child eating fruit and drinking a glass of juice . <eos>
+0.0
+=======================
+two men stand outside on stage . <eos>
+two men are standing at telephone booths outside . <eos>
+0.0
+=======================
+a man wearing a purple and red shirt carrying a soccer ball . <eos>
+a man in a wheelchair and wearing a red jogging suit is carrying a torch . <eos>
+0.0
+=======================
+a dog running through a field with a ball in its mouth <eos>
+a dog running across a field with a ball in its mouth . <eos>
+0.6343607902526855
+=======================
+a man is standing on top of a brick wall , looking to the sky . <eos>
+one man standing alone on a sidewalk adjusting his hat . <eos>
+0.0
+=======================
+a man wearing headphones and glasses is talking on the phone . <eos>
+a man wearing an <unk> cap and goggles sits in the road . <eos>
+0.0
+=======================
+people cheer as the people <unk> around the escalator . <eos>
+people are being photographed while mountain climbing or hiking . <eos>
+0.0
+=======================
+a woman wearing a green tank top and a white <unk> hat is putting a trash into her hands . <eos>
+a lady in a purple top and a white skirt is watching a marching parade . <eos>
+0.1536220908164978
+=======================
+a group of people are listening to a man outside playing the cello . <eos>
+a group of people listening to a man talking outside . <eos>
+0.3703047037124634
+=======================
+a young boy standing on a <unk> course of a pond , playing in a garden . <eos>
+a boy stands <unk> in the middle of a social gathering . <eos>
+0.0
+=======================
+a blond woman in a blue t - shirt is taking a picture of her . <eos>
+a blond - haired woman wearing a blue shirt unwraps a hat . <eos>
+0.0
+=======================
+a man examines a small piece of metal using an item to clear up . <eos>
+a man <unk> a <unk> from ingredients in a blue bowl . <eos>
+0.0
+=======================
+a man with a crazy length hair stand near a table , a man on a gray and black sweater . <eos>
+a man with dreadlocks is playing with the hair of a woman who is sitting on a chair on a cobblestone street . <eos>
+0.0
+=======================
+a group of students are having a discussion . <eos>
+a group of scottish officers doing a demonstration . <eos>
+0.0
+=======================
+an older man is peering out of a boat filled with water . <eos>
+an older man is pouring something out of a bag into the water . <eos>
+0.30591949820518494
+=======================
+a group of people are eating in a restaurant . <eos>
+a group of people eating at a restaurant . <eos>
+0.4832697808742523
+=======================
+a black man with a white shirt and black pants stands on an outdoor platform . <eos>
+a <unk> male in a white t - shirt and a black hat sitting on the curb texting . <eos>
+0.0
+=======================
+a guy running a black and white dog in the grass . <eos>
+a guy is running away from a black bull . <eos>
+0.0
+=======================
+a man with no shirt on is throwing his tennis racket at a bowling alley . <eos>
+a man wearing goggles exits a pool by the ladder . <eos>
+0.0
+=======================
+a small child with a mohawk is playing in a band . <eos>
+a toddler in a denim hats plays in a tire . <eos>
+0.0
+=======================
+a small child and a woman are standing together during a train train . <eos>
+a young child and a woman are standing around a caged rooster . <eos>
+0.3850322961807251
+=======================
+two girls are sitting on a coloring - coloring table , is <unk> . <eos>
+two girls are seated at a table and working on craft <unk> . <eos>
+0.0
+=======================
+an older man is having a drink in a <unk> . <eos>
+one older man interviews another in a racing suit . <eos>
+0.0
+=======================
+four middle - aged people walk down a street with four trees in the background . <eos>
+four <unk> looking people walking down a street with trees in the background <eos>
+0.3100712299346924
+=======================
+a young girl plays a guitar and sings into a microphone . <eos>
+a young girl is playing a musical instrument and singing into a microphone . <eos>
+0.350644052028656
+=======================
+a man is laying out of his class , which are surrounded by different colored chairs . <eos>
+a man lounges in his room without eating for <unk> . <eos>
+0.0
+=======================
+two people riding bikes on the street , while carrying bags 's from behind the curb . <eos>
+two bicyclists ride down the street past people while talking . <eos>
+0.0
+=======================
+a bunch of construction workers walk down a sidewalk holding a bunch of <unk> and a banner . <eos>
+some construction workers , there is concrete being mixed in <unk> , they are building or repairing a wall , the wall is wet still . <eos>
+0.0
+=======================
+a couple walks down a pedestrian sidewalk , illuminated day in a city . <eos>
+a couple walks down an <unk> at a store selling art and <unk> books . <eos>
+0.19022083282470703
+=======================
+two men are waiting in the back of a building that is high in front of it on the other side of a city . <eos>
+two men waiting in the backseat of a car while the driver gets in to the driver 's seat . <eos>
+0.0
+=======================
+a woman with pink hair sitting on a bench . <eos>
+a woman with a pink purse is sitting on a bench . <eos>
+0.5030989646911621
+=======================
+group of guys sitting around a table selling various goods on a hike . <eos>
+group of adults sitting around table listening to presentation <eos>
+0.0
+=======================
+a small dog jumps along the street . <eos>
+a small dog jumping on a street . <eos>
+0.0
+=======================
+three men in matching vests are digging through water . <eos>
+three men in suits putting their hands together . <eos>
+0.0
+=======================
+a man working on a billboard . <eos>
+a man is working at a construction site . <eos>
+0.0
+=======================
+a child sitting on top of a crocodile <eos>
+a child sitting on a rock formation . <eos>
+0.3303164541721344
+=======================
+a girl running a dog jump over a hurdle . <eos>
+a girl leads her dog over a hurdle . <eos>
+0.4172261357307434
+=======================
+a woman and child ride a nice lawn ride . <eos>
+a woman and child riding camels near the ocean . <eos>
+0.2790159285068512
+=======================
+a girl , sitting on her father , uses a spoon to give a long - haired woman inside a frame of wagon <eos>
+sitting casually in a public place , a girl reads holding the book open with her hand on which is a butterfly ring . <eos>
+0.0
+=======================
+asian workers in orange costumes using a large piece of cloth . <eos>
+asian woman in postal delivery uniform is pushing a large pile of packages . <eos>
+0.0
+=======================
+man working on sweeping a stone surface . <eos>
+man working on the railroad in a railroad station . <eos>
+0.0
+=======================
+a child walking in the middle of the street . <eos>
+one child is walking ahead of the other . <eos>
+0.0
+=======================
+a closeup of a woman with red - hair . <eos>
+a closeup of a woman with short red - hair . <eos>
+0.7426140904426575
+=======================
+a group of hockey players race . <eos>
+a group of musicians are recording music . <eos>
+0.0
+=======================
+two officers standing at a cafe . <eos>
+two chinese people are standing by a chalkboard . <eos>
+0.0
+=======================
+a man wearing glasses is <unk> his beard on the back of a car . <eos>
+a man wearing glasses at the microphone is looking down at some paper in his hand . <eos>
+0.17781800031661987
+=======================
+young kid in a green shirt prepares a spectacular play with toys around him using a microscope . <eos>
+toddler in a green shirt is brushing his teeth with a yellow toothbrush , while being <unk> by mom . <eos>
+0.14577431976795197
+=======================
+a photographer snaps a quick view of a large building at the bowling market . <eos>
+a photographer taking a photo of a message on a set of doors . <eos>
+0.0
+=======================
+two men , one holding a bag , the other one in an airport is talking to the other woman 's shoulder . <eos>
+two men , one man selling fruit the other inspecting the fruit and conversing with the <unk> . <eos>
+0.1370614469051361
+=======================
+a man is pulling a cart in a motorcycle lot . <eos>
+a man pulling items on a cart . <eos>
+0.0
+=======================
+a guy with long hair is walking down a sidewalk lined with yellow <unk> . <eos>
+a guy with curly hair is skateboarding along a gray ramp with yellow letters . <eos>
+0.0
+=======================
+a white dog with brown spots is jumping through the air in the backyard . <eos>
+a white dog with brown marks jumps from the bank into the water . <eos>
+0.2803950011730194
+=======================
+two men are getting ready to give others on a tree - table watching the speed <eos>
+two men are observing another as he puts the finishing touches on wet cement . <eos>
+0.0
+=======================
+woman in white shirt and orange pants looks at a yellow car . <eos>
+woman with a white shirt and <unk> lounging on a couch inside of a house . <eos>
+0.0
+=======================
+a little asian girl wearing goggles is holding a baby . <eos>
+a young dirty faced asian girl carrying a pillow . <eos>
+0.0
+=======================
+a woman is taking pictures with a large feather on the wall . <eos>
+a woman using a large camera while standing in the street . <eos>
+0.0
+=======================
+a woman dressed in white shorts and a white top , white shorts , walks across a desert . <eos>
+a woman who is wearing white shorts , yellow top and white sandals appears to be throwing a stick . <eos>
+0.0
+=======================
+two women looking at a poster . <eos>
+two woman examine a photograph on a camera . <eos>
+0.0
+=======================
+a woman and a boy on a stage playing a guitar with an older boy outside . <eos>
+a woman and a boy on stage laughing with a tent in the background . <eos>
+0.32225385308265686
+=======================
+here is a picture of a man taking a break from talk while others look on . <eos>
+pottery and cars are shown in a parking lot with a man in a blue outfit is leaning against the front of his car . <eos>
+0.0
+=======================
+a young woman with brown hair and glasses is posing for a picture with her camera . <eos>
+a young woman with brown hair and tank top is taking a picture with a camera . <eos>
+0.48066040873527527
+=======================
+child playing on a skateboard in a skateboard park . <eos>
+child playing on a playground , hanging from bars . <eos>
+0.2790159285068512
+=======================
+men in orange safety vests rounds to <unk> by an american man . <eos>
+men in orange suits watching a machine dig near what looks to be subway tracks . <eos>
+0.0
+=======================
+the black dog jumps over a log with three people in the snow . <eos>
+the black dog jumps above the water towards a frisbee floating near a boat . <eos>
+0.19667814671993256
+=======================
+a little , black boy sits along the side of the steps . <eos>
+a young indian boy sitting down thinking about his <unk> . <eos>
+0.0
+=======================
+a man , <unk> or <unk> is riding a bucking bull in the rocky - lined river . <eos>
+a man on the <unk> staff for <unk> has sunglasses on his head during a football game . <eos>
+0.0
+=======================
+four kids with their heads pose for a photo while the camera are standing with their back . <eos>
+four children carrying backpacks turn to face the camera and smile as they walk down a country road . <eos>
+0.0
+=======================
+young girls playing with some art . <eos>
+several girls are playing with flour . <eos>
+0.0
+=======================
+a woman with a cake on her face is eating a watermelon . <eos>
+a woman in a <unk> mask and <unk> hair is at a party . <eos>
+0.0
+=======================
+kids are competing in a gym race . <eos>
+kids are riding a swinging carnival ride <eos>
+0.0
+=======================
+three men are driving a bright orange bus . <eos>
+three men ride in a dark blue car . <eos>
+0.0
+=======================
+two men in hiking gear strike a <unk> <eos>
+two men wearing martial arts clothing are practicing martial arts . <eos>
+0.0
+=======================
+a dog on a rocky beach looking into the distance . <eos>
+a dog in a grassy field , looking up . <eos>
+0.0
+=======================
+a woman in <unk> green gear is surfing . <eos>
+a woman is rollerblading in a skimpy uniform . <eos>
+0.0
+=======================
+a group of young people are seated at an outside venue . <eos>
+a group of parents are sitting at an outdoor assembly . <eos>
+0.0
+=======================
+<unk> view of people walking in a city square . <eos>
+tourist taken pictures at a building in china . <eos>
+0.0
+=======================
+a man in a black t - shirt is posing in a restaurant kitchen . <eos>
+a man in a black shirt is cooking out of a <unk> in a cluttered kitchen . <eos>
+0.32135340571403503
+=======================
+a little boy wearing a baseball mitt swinging out a into a large sand sculpture . <eos>
+a young boy wearing a <unk> jersey swings a baseball bat at an incoming pitch . <eos>
+0.0
+=======================
+two girls playing volleyball , one sliding to the other . <eos>
+2 girls playing volleyball , one striking the ball . <eos>
+0.3770063817501068
+=======================
+a man wearing a winter apron stands in front of a stand that has various items on it , it 's clothes . <eos>
+a man in an apron standing in front of food beneath a menu . <eos>
+0.0
+=======================
+a man is holding a child , who is walking , sitting , and looking at the camera . <eos>
+a man holds a child on his shoulders as a people walk around him . <eos>
+0.0
+=======================
+a little girl is about to make a drink from a patient . <eos>
+young girl reaches out to pet a deer . <eos>
+0.0
+=======================
+the worker fell his balance and fell during a concert shop . <eos>
+this is some sort of band or symphony practicing . <eos>
+0.0
+=======================
+a family is standing on top of a high tree trunk . <eos>
+a family is standing outdoors on a cloudy day . <eos>
+0.24712443351745605
+=======================
+an older man is walking a dog on a leash with a blue ball . <eos>
+an elderly man is walking a brown dog using a red leash . <eos>
+0.20687206089496613
+=======================
+people are gathered in a crosswalk which has been <unk> <unk> . <eos>
+people protesting age <unk> in an organized street rally . <eos>
+0.0
+=======================
+a man looks at a new sculpture in the mountains . <eos>
+a man is looking at one of his four flat screen computers . <eos>
+0.0
+=======================
+two men are in a large boat that is in the middle of a body of water , possibly it in <unk> . <eos>
+two men are out on a bright , sunny day attempting to catch some fish on the lake . <eos>
+0.0
+=======================
+a man looks around as he stands under a tree near the water . <eos>
+a man is shaving while sitting on the beach in front of the ocean . <eos>
+0.0
+=======================
+a band is playing on the sidewalk . <eos>
+a band playing on a sidewalk . <eos>
+0.0
+=======================
+a teenage boy is doing tricks on a bike . <eos>
+a teenage boy on a bicycle does tricks . <eos>
+0.0
+=======================
+a woman dressed in black with a ponytail in a white jersey is playing a game of checkers . <eos>
+a warmly dressed woman in black kneels with a small tan dog near a crowd of onlookers . <eos>
+0.0
+=======================
+the little girl with the red top is running barefoot towards the water . <eos>
+the little girl with the green necklace is running away from the net . <eos>
+0.32377228140830994
+=======================
+a woman with gray pants , a white shirt and a female signs reaching for a phone picture a man 's front . <eos>
+a woman wearing sunglasses and a blue shirt , selling sea <unk> , looks at an older man wearing a black shirt and a cap . <eos>
+0.0
+=======================
+a dog runs over an obstacle course . <eos>
+a dog running through deep snow pack . <eos>
+0.0
+=======================
+two dogs play with one green toy and a green toy stick . <eos>
+two dogs play with an orange toy in tall grass . <eos>
+0.21972815692424774
+=======================
+a <unk> - skating girl is riding his bicycle . <eos>
+a tattoo artist applying tattoo ink to the skin . <eos>
+0.0
+=======================
+a group of men pulling a line on a big line . <eos>
+a group of men are loading cotton onto a truck <eos>
+0.21401602029800415
+=======================
+a person in a yellow scarf walking with a white bag on the sidewalk . <eos>
+person in a long red coat walking in front of a building . <eos>
+0.0
+=======================
+the guy wearing the ski uniform is getting his flip on a bicycle while standing in the middle of the seashore . <eos>
+the guy with the jean shorts is at the skate park doing tricks on his bike . <eos>
+0.0
+=======================
+a bald man sleeping in his chair on the sidewalk . <eos>
+a half naked man is sleeping on his chair outdoors . <eos>
+0.0
+=======================
+two people are waiting outside at the top of a long body of water . <eos>
+two cyclists cross the street on a very <unk> california day . <eos>
+0.0
+=======================
+a woman standing by her two friends , while standing around a crowd of people . <eos>
+a woman standing next to two people is pointing to the sky . <eos>
+0.0
+=======================
+a baby is sitting on a blue carpet . <eos>
+a baby sitting on a blue convertible . <eos>
+0.35494810342788696
+=======================
+boy getting his picture taken on young boy , with no shirts . <eos>
+a boy getting his hair <unk> off by another boy . <eos>
+0.0
+=======================
+four people are using various <unk> going to various various flags . <eos>
+four people are protesting the treatment of young workers by <unk> . <eos>
+0.0
+=======================
+a young woman singing into a microphone as a man behind him . <eos>
+a young woman stands singing at a microphone while a man behind her holds a guitar . <eos>
+0.0
+=======================
+several people are talking and talking to an old man in a business suits . <eos>
+several people talking and spending time together in a room . <eos>
+0.0
+=======================
+the men are playing cricket . <eos>
+the men fight during the game . <eos>
+0.0
+=======================
+a cyclist in a yellow shirt jumps high in the air with a jump in the air . <eos>
+a biker wearing a yellow shirt pulls of an incredible trick in the air . <eos>
+0.2610490918159485
+=======================
+a woman in a pink shirt passes for a man in a room to make something with a garden . <eos>
+a woman wearing a pink shirt showing a man with a striped sweater how to do some work with yarn . <eos>
+0.0
+=======================
+a soldier is looking into the air in his ring . <eos>
+a soldier is looking at binoculars into the mountainous landscape . <eos>
+0.2864629030227661
+=======================
+a man and a woman are competing in a run on a <unk> - way road . <eos>
+a man and woman taking a nap on a makeshift <unk> . <eos>
+0.0
+=======================
+a group of people on a small dock by a lake <eos>
+a group of people are near a small river in the middle of a city . <eos>
+0.1786014288663864
+=======================
+the man is outside working on some machinery . <eos>
+the man has fallen asleep on the couch . <eos>
+0.0
+=======================
+two people stand outside a building . <eos>
+two people stand in front of a building . <eos>
+0.3894003927707672
+=======================
+a young woman and woman dressed in formal clothing are facing the camera , while two other people look on in the distance . <eos>
+a young woman and older woman wear traditional saris as they spin <unk> , three people are pictured at only the <unk> , and wear modern clothes . <eos>
+0.11118804663419724
+=======================
+two men are talking to each other while a man is looking into the distance . <eos>
+two men talk to each other behind an organ while a lone woman stands to their right . <eos>
+0.0
+=======================
+the girl with the long red outfit is <unk> on the bed hit the ball . <eos>
+the girl with the long ponytail prepared to throw the ball to another player on the field . <eos>
+0.26660606265068054
+=======================
+a white colored dog jumps over a rock to throwing some water . <eos>
+a medium sized white dog is jumping up to catch a small cloth frisbee . <eos>
+0.0
+=======================
+a woman with a yellow shirt and an orange bag walks down the sidewalk . <eos>
+a woman in a yellow t - shirt and sunglasses walks down a sidewalk . <eos>
+0.0
+=======================
+a small child sitting at a table eating a potato <eos>
+a toddler is sitting at a table eating a snack . <eos>
+0.4530516564846039
+=======================
+men and women waiting to cross a wall . <eos>
+men and women are waiting for a train to stop . <eos>
+0.0
+=======================
+the large brown dog has his paw on its bed . <eos>
+a large brown dog is sticking his face in the sprinkler . <eos>
+0.0
+=======================
+a man with a large bundle of plants . <eos>
+a man with a large hat in the bushes . <eos>
+0.4088064432144165
+=======================
+a man doing dirty <unk> in his living room . <eos>
+a man doing some type of public show involving fire . <eos>
+0.0
+=======================
+a group of people in a parade ; a man <unk> the trees . <eos>
+a colorful parade led by a man carrying a red flag . <eos>
+0.0
+=======================
+a man , in mid - style , one man is cleaning a golf club with a female bottle . <eos>
+a uniformed man in the army is training a german shepherd using an arm guard . <eos>
+0.0
+=======================
+a woman in pink is feeding the water she is touching her . <eos>
+a woman in striped tights is being <unk> with strings . <eos>
+0.0
+=======================
+three men walk away , a bull john in a <unk> place . <eos>
+three men walking next to a tent with a billboard sign on it . <eos>
+0.0
+=======================
+a singer singing with their band mate in a nightclub at a nightclub . <eos>
+a singer performing along with the crowd . <eos>
+0.0
+=======================
+a young man with blond - hair wearing a pink headband . <eos>
+a young blond - haired man speaks into a microphone . <eos>
+0.0
+=======================
+a white car <unk> for the people from <unk> . <eos>
+a <unk> car with many firefighters cutting into the car . <eos>
+0.0
+=======================
+a man sitting on the grass playing the guitar . <eos>
+a man sitting on the ground , playing guitar . <eos>
+0.4832697808742523
+=======================
+several people are exiting a john stroller on a nice day , wearing blue warm clothing . <eos>
+there are multiple people going over a loop on an <unk> roller coaster . <eos>
+0.0
+=======================
+a group of children stand at a bar and looking at a bright light . <eos>
+a group of kids sitting in the back of a van together looking at a book . <eos>
+0.0
+=======================
+police <unk> ride by with police cars . <eos>
+roller derby girl skating with others . <eos>
+0.0
+=======================
+a brown dog is running down the grass with a ball in its mouth . <eos>
+a brown dog runs on the sand carrying a stick . <eos>
+0.0
+=======================
+a swimmer swimming in a swimming pool . <eos>
+an swimmer swimming in a swimming pool . <eos>
+0.8633400201797485
+=======================
+a young boy in green clothing passing on a dirty night . <eos>
+a young boy in green practices juggling in a parking lot . <eos>
+0.3438931405544281
+=======================
+a group of volunteers watch a man sitting next to a boy wearing a matching pink shirt . <eos>
+<unk> group of adults at a gathering , one man with tattoos is throwing something . <eos>
+0.0
+=======================
+a man is sleeping on a couch in a green jacket . <eos>
+a man sleeping in a green room on a couch . <eos>
+0.0
+=======================
+woman and man walking across dirt with <unk> over mountain . <eos>
+woman and man walking across wooden rope bridge with a caution sign beside it . <eos>
+0.27013686299324036
+=======================
+a man running running across the river during the water . <eos>
+a man runs through the snow with the aid of snowshoes . <eos>
+0.0
+=======================
+two dark - haired women looking at colorful microscopes in new york city . <eos>
+two brunette women talking to a classroom full of blond children . <eos>
+0.0
+=======================
+an old man holds his dog while walking his dog along the pier . <eos>
+an old man is holding up one dog while his other dog climbs on his lap . <eos>
+0.0
+=======================
+a man sits on the rocks near the ocean . <eos>
+a man sits alone fishing along the shoreline . <eos>
+0.0
+=======================
+people are watching people from a person 's arts story out . <eos>
+people trying out foods from a local bakery at a local <unk> . <eos>
+0.0
+=======================
+a man wearing a gray jacket walking along a mountain trail . <eos>
+a man on a bike in a gray jacket carries foliage . <eos>
+0.0
+=======================
+a man is singing into a microphone on stage . <eos>
+a man cooking burgers on a black grill . <eos>
+0.0
+=======================
+a man in a green shirt about to throw a bowling ball down the lane in a body of water . <eos>
+a man in a green shirt is kissing a crying toddler whilst watching runners in a road race . <eos>
+0.2693466544151306
+=======================
+many <unk> <unk> are gathered and many are at the open lot of the crowd . <eos>
+many of the chairs are empty with only a few people enjoying the sun . <eos>
+0.0
+=======================
+two girls playing with a volleyball on the beach . <eos>
+two girls playing on a tree with their dog . <eos>
+0.0
+=======================
+a woman is holding a black dog . <eos>
+a woman holding a white and black dog . <eos>
+0.36088770627975464
+=======================
+a game of rugby on the shore , while two men dressed in team watch . <eos>
+a soccer game is played as two men attempt to reach the ball before their <unk> opponent . <eos>
+0.0
+=======================
+a group of three friends are talking in a park . <eos>
+a group of three friends are conversing inside of a home . <eos>
+0.44462963938713074
+=======================
+a mother wearing a blue backpack with her two daughters both smiling . <eos>
+a mother in a blue beret and blue shoes with her two sons . <eos>
+0.0
+=======================
+a baseball player wearing a red , white , and blue uniform prepares to get the ball from a member of the opposing blue team . <eos>
+a baseball player with a red helmet and white pants is tagged by the catcher while running to home base . <eos>
+0.0
+=======================
+the new <unk> is <unk> by the old blue team . <eos>
+here is a picture of a teenager trimming his brother 's head hair . <eos>
+0.0
+=======================
+a child wearing a green costume is reading a science object . <eos>
+a child near a blue stage with a colorful creature on it . <eos>
+0.0
+=======================
+a woman in white is playing a black guitar . <eos>
+a woman in white plays a black guitar . <eos>
+0.5877283811569214
+=======================
+a woman is getting her drink in the <unk> before an audience . <eos>
+woman is sewing in order to make a living in her country . <eos>
+0.0
+=======================
+a young boy uses a computer while a customer prepares to make a bow . <eos>
+a little boy using a drill to make a hole in a piece of wood . <eos>
+0.0
+=======================
+three children wearing white and black and black and black run and run on the roof in the summer room . <eos>
+three kids wearing brown shirts and jeans jumping outdoors with leaves on the ground . <eos>
+0.0
+=======================
+a group of young men are running in a marathon . <eos>
+a group of young asian men walking in a marathon . <eos>
+0.5452468991279602
+=======================
+four children are sitting on a step reading . <eos>
+4 kids sit on a ledge and converse . <eos>
+0.0
+=======================
+this child is in a foreign country and the <unk> with a smile for <unk> . <eos>
+this child is in a classroom , finished for the day , maybe <eos>
+0.24078436195850372
+=======================
+a smiling young man is walking in the rain with a blue bucket and his arms outstretched while holding a blue truck . <eos>
+a smiling young man walking on next to the beach wearing a baseball cap , blue t - shirt and jeans . <eos>
+0.13629359006881714
+=======================
+a <unk> man wearing a black <unk> mask is working with wires . <eos>
+a cashier with a black <unk> sweatshirt is <unk> <unk> . <eos>
+0.0
+=======================
+a cyclist is performing a trick in a forest . <eos>
+a biker doing a jump in a forest . <eos>
+0.38163310289382935
+=======================
+two people sit on a bench overlooking a stream . <eos>
+two people sitting on a cement bench chatting over lunch . <eos>
+0.0
+=======================
+a man is shaking makeup out with young kids . <eos>
+one man is making hand <unk> next to two young girls . <eos>
+0.0
+=======================
+a woman in a blue shirt is playing a card game . <eos>
+a woman in a blue shirt is playing an instrument . <eos>
+0.6115380525588989
+=======================
+a crowd of people of people watching people in an african performance . <eos>
+a crowd is outside watching someone in the center of them . <eos>
+0.0
+=======================
+a man in a leather coat holding a drink with his hands . <eos>
+a man is smiling with one hand on his forehead at a crowded bar . <eos>
+0.0
+=======================
+a boy wearing a t - shirt and shorts is jumping up to touch a soccer ball with a rope <eos>
+a boy in a t - shirt and shorts is holding a snowball and facing a snowy mountain . <eos>
+0.32885804772377014
+=======================
+boys practice dancing in a gym gym . <eos>
+boy 's are competing in martial arts . <eos>
+0.0
+=======================
+a person laying on a blanket in front of a plastic music stand <eos>
+a person laying on a bench in front of a water <unk> . <eos>
+0.457231342792511
+=======================
+two teams , one wearing yellow and white uniforms , are playing on a soccer field . <eos>
+two teams , one in pink and one in white , play lacrosse on a field . <eos>
+0.23287896811962128
+=======================
+two middle - aged men talking to a business dressed in a pink tank top . <eos>
+two middle - aged men in a room with music equipment speak with each other . <eos>
+0.2744348347187042
+=======================
+an orange bus flies through the air beside a few people around a red and white track . <eos>
+a red plane flying over a boat as it trails pink smoke . <eos>
+0.0
+=======================
+a woman is getting ready to hit the golf ball that is in a red and red <unk> - lit air . <eos>
+a female getting a face tattoo of black lines and <unk> . <eos>
+0.0
+=======================
+a team of soccer players dressed in white and red are performing a game . <eos>
+a football player in red and white is talking to a coach . <eos>
+0.0
+=======================
+three people on grass 's edge and two horses are coming down the grass . <eos>
+three people on two dirt - bikes and one four - wheeler are riding through brown grass . <eos>
+0.0
+=======================
+a biker riding his bike on the dirt road in the desert . <eos>
+a bicycler rides his bike on the road next to rocks with snow . <eos>
+0.21152545511722565
+=======================
+a man in a black shirt is singing into a microphone . <eos>
+a man in a black shirt is singing into a microphone . <eos>
+1.0
+=======================
+some people are standing on a cement area . <eos>
+several people standing on a subway platform . <eos>
+0.0
+=======================
+two hikers walk to an elderly female figure . <eos>
+a couple of hikers taking a break to take a picture . <eos>
+0.0
+=======================
+an elderly woman rings in a room with the big three window down the sidewalk . <eos>
+an elderly woman using a pink umbrella to shade herself from the sun . <eos>
+0.0
+=======================
+a man with a white beard and a thin mustache is selling painting a large grill outside of a building . <eos>
+a man in a white apron and hat is selling meat on a busy street . <eos>
+0.0
+=======================
+these two young people are watching a little girl swims . <eos>
+here are 2 moms listening to a toddler . <eos>
+0.0
+=======================
+a woman in pink walks past a white colored city with some figures . <eos>
+a woman in a colorful outfit is walking by a white truck filled with bottles . <eos>
+0.0
+=======================
+two asian children , one young and a mother with a mother talking . <eos>
+two asian children , a boy and a girl , are standing on the floor next to a tree . <eos>
+0.15346412360668182
+=======================
+a woman in a black shirt is tending to a billboard store . <eos>
+a woman wearing a black t - shirt appears to being going up a escalator . <eos>
+0.0
+=======================
+a man places his shoes as he leads a bull into the air . <eos>
+a man pulls on his sweater as a kayak lays at his feet . <eos>
+0.0
+=======================
+a skier flies high in the air to land while the police <unk> takes the picture . <eos>
+a snow skier flies through the air , while other skiers going up the tow rope look on . <eos>
+0.0
+=======================
+a boy in blue is playing soccer and splashing his two blue ball . <eos>
+a boy in a blue , playing soccer , about to kick the ball . <eos>
+0.0
+=======================
+men in blue pants sit on a bus . <eos>
+men wearing blue uniforms sit on a bus . <eos>
+0.5555238127708435
+=======================
+a man wearing a gray shirt <unk> his arms from a bin into the kitchen of a cooking - food sign . <eos>
+a man in a gray t - shirt works the <unk> to start a fire on a brick oven inside a wooden shed . <eos>
+0.0
+=======================
+a man wearing orange overalls is holding a large stick on a leash . <eos>
+a man on a boat wearing orange pants holding a rope . <eos>
+0.0
+=======================
+a bride and groom dance at their wedding reception . <eos>
+a bride and a groom at their wedding kissing <eos>
+0.0
+=======================
+two women in blue jackets sit in the stoop of a tent , with goats on the walls , the feet bus . <eos>
+two women in blue suits are sitting on the cement outdoors with concrete and long shaped glass windows behind them . <eos>
+0.1370614469051361
+=======================
+a man and a woman ice skating on the beach . <eos>
+a man and woman fishing at the beach . <eos>
+0.31702330708503723
+=======================
+two young girls are playing a red , white ball game while one in the background is playing an instrument . <eos>
+two young girls playing basketball , one in white attempting a <unk> while the other in red defends . <eos>
+0.0
+=======================
+the big brown dog is running through water . <eos>
+the large brown dog is running through shallow water . <eos>
+0.48959144949913025
+=======================
+a young hispanic woman and an older man talking on a cellphone . <eos>
+a <unk> young woman and an older man stand by a bar . <eos>
+0.334286630153656
+=======================
+two dogs are playing with a ball . <eos>
+two dogs playing with a blue and green ball . <eos>
+0.0
+=======================
+a child is standing by a painted table with a paper and toy . <eos>
+a child standing by a stroller and holding a toy sword . <eos>
+0.0
+=======================
+someone in an orange vest is sitting and holding a purple bag . <eos>
+someone in asian costume is sitting down and holding a sword . <eos>
+0.0
+=======================
+a group of people stand in front of a group of people in a line . <eos>
+a group of people standing in front of a hut in a parking lot . <eos>
+0.3405205011367798
+=======================
+a man sings into a microphone as the other man watches . <eos>
+a man is singing into a microphone while his band plays . <eos>
+0.0
+=======================
+several people are standing around a man in an orange shirt near a sandy beach . <eos>
+several people standing around a bowl , in which one man is <unk> a brown object . <eos>
+0.0
+=======================
+a woman sings into a microphone as a man in a gray suit watches . <eos>
+a woman singing into a microphone while a man plays drums in the background . <eos>
+0.0
+=======================
+a man in a white shirt and plaid pants speaks into the microphone . <eos>
+a man in white shirt and dark shorts is working outside . <eos>
+0.0
+=======================
+a brown - haired man in a brown collared shirt is talking to a shirtless audience at the city market . <eos>
+a <unk> male in a brown blazer talking to an audience at a <unk> show . <eos>
+0.0
+=======================
+four boys are playing various instruments , one young is shooting what is using them . <eos>
+four boys posing while one boy sets his drink down . <eos>
+0.0
+=======================
+a child sitting on the inside of a car parked in the woods . <eos>
+a child sitting on her dad 's shoulders in a crowd . <eos>
+0.21023696660995483
+=======================
+a man with his arms raised , he is showing his <unk> to a seated stove . <eos>
+a man with dreadlocks is plugging his ear to hear a phone call . <eos>
+0.0
+=======================
+a man and a woman walk past a circular orange and white <unk> . <eos>
+a man and woman are walking up a stone staircase , looking at a video camera . <eos>
+0.0
+=======================
+some people are sitting in a boat that has been skateboards with some <unk> in the background . <eos>
+some men are sitting on a boat near a beach covered in stacked logs and sticks . <eos>
+0.0
+=======================
+two women in gray and black <unk> a fighting <unk> near a court . <eos>
+two women wearing red and a man coming out of a port - a - <unk> . <eos>
+0.0
+=======================
+two employees of asian descent are giving a cart together . <eos>
+two emergency <unk> workers are putting blocks underneath a train . <eos>
+0.0
+=======================
+a hair <unk> is putting a wet water into a pool and wearing the pink sun leaves . <eos>
+a golden <unk> is swimming through water with a red toy in its mouth . <eos>
+0.0
+=======================
+semi - aged boy in yellow uniforms plays with other people on stage . <eos>
+<unk> in blue and white uniforms are on the field playing baseball . <eos>
+0.0
+=======================
+a woman sits on the edge of a wooden bench at night . <eos>
+a woman is sitting by her dried flower display at an outside market . <eos>
+0.0
+=======================
+two men , one in black and the other wearing white , are playing a musical instrument for the band <eos>
+two men , one black and one white , play their guitars and sing into microphones as they stand outdoors . <eos>
+0.15085545182228088
+=======================
+two construction workers are maneuvering a piece of metal from a piece of metal along an escalator . <eos>
+two construction workers <unk> in the loading of a dump truck at an urban construction site . <eos>
+0.0
+=======================
+a teenager in a knight hat holding a video camera in his lap at a street vendor . <eos>
+a teenager reading a book in class with notes on her desk looking bored . <eos>
+0.0
+=======================
+a young woman with a brown hair , holding a white bag , holding a microphone , walks away from a city square . <eos>
+a young dark - haired woman with red sun visor holding an open white umbrella amidst a crowd of people <eos>
+0.0
+=======================
+a man in a black jacket and black hat plays a saxophone . <eos>
+one man in a black jacket and black hat is playing a trumpet . <eos>
+0.536066472530365
+=======================
+a child in a red and gray coat crying at the snowy beach . <eos>
+a child wearing a red sweatshirt is hanging upside down from a tree . <eos>
+0.0
+=======================
+kids running around a relay game . <eos>
+children chasing the ball in a soccer game . <eos>
+0.0
+=======================
+a man balances a one on the ground . <eos>
+a man is balancing a metal ball on his arm . <eos>
+0.0
+=======================
+two children get <unk> on a tire swing for an adult 's sky . <eos>
+two children are preparing to go on an elephant ride . <eos>
+0.0
+=======================
+four people are trying to catch a frisbee in a park . <eos>
+4 people trying to fix a bike on a park <eos>
+0.0
+=======================
+football players watch the <unk> of an older football player as the referee watches . <eos>
+football players struggle to get plays through a <unk> line . <eos>
+0.0
+=======================
+a black dog swimming with a swimming pool in the snow . <eos>
+a black dog swimming in the water with a tennis ball in his mouth <eos>
+0.23073676228523254
+=======================
+a group of asian people looking at something over a project while listening to a gentlemen perform . <eos>
+a group of asian people at an <unk> show stare and take picture of a new vehicle . <eos>
+0.23210911452770233
+=======================
+two men are reading outdoors next to a building . <eos>
+two men smoking outside of a park . <eos>
+0.0
+=======================
+a man with a shaved head stands and <unk> on a wall with blue flowers . <eos>
+a man wearing headphones walks past a wall with red and purple graffiti . <eos>
+0.0
+=======================
+paddlers 's climbing of a rock face at sunset . <eos>
+<unk> on a very cold day hiking . <eos>
+0.0
+=======================
+a little girl in a purple dress stares at the little woman 's shoe in a garden . <eos>
+a little girl in a dotted dress looks back towards a woman in a black dress . <eos>
+0.2554318606853485
+=======================
+a guy with the back of a green bandanna has his arm around a few people around a red and white motorcycle . <eos>
+a guy in a bright green hoodie is crossing a crosswalk while looking at an accident between some cars and a bike . <eos>
+0.0
+=======================
+middle - aged man with glasses sitting in front of a big tree . <eos>
+an unkempt frowning old man with white hair is sitting in front of a chain - <unk> fence . <eos>
+0.2319929599761963
+=======================
+two people , one dressed in light blue , one in light light clothing , are walking down a corridor , with a cloudy sky - up elephant . <eos>
+two people , one dressed as a nun and the other in a <unk> <unk> t - shirt , running in a foot race past onlookers in a wooded area . <eos>
+0.14598320424556732
+=======================
+a dog walks alone in a fenced area through a grassy area . <eos>
+a dog walking through a small stream with a rag in his mouth . <eos>
+0.0
+=======================
+panel of an african tribe works on a piece of equipment on a sunny day . <eos>
+beach goers look at a heart left in the sky by a sky <unk> . <eos>
+0.0
+=======================
+man in a <unk> jungle <unk> with a crab chain in it . <eos>
+a man in a <unk> <unk> jersey is <unk> with his friends . <eos>
+0.24739977717399597
+=======================
+a woman in a blue tank top riding a bike . <eos>
+a woman in a blue shirt is riding a bicycle . <eos>
+0.4063798189163208
+=======================
+young adults in formal costumes raise a " bar " sign , <unk> <unk> " . <eos>
+young adults wearing red , yellow , and black shirts in a straight line perform a sketch . <eos>
+0.0
+=======================
+a group of <unk> and holding the head of a few people who is trying to catch the pole of them . <eos>
+a group of beach - goers are holding hands forming a line facing the water , down the beach . <eos>
+0.0
+=======================
+the <unk> driver <unk> his names at what appears to be his <unk> . <eos>
+the bike leader pedals for his life as competing <unk> <unk> his tail . <eos>
+0.0
+=======================
+two large dogs are running in a field of grass . <eos>
+two large dogs frolic in a grassy field . <eos>
+0.0
+=======================
+a man and a woman walking down a gravel path , next to a tree . <eos>
+a man and woman are walking down a waterside path toward a suspension bridge . <eos>
+0.0
+=======================
+three girls jump <unk> the baseball floor , with excitement looking in the sky . <eos>
+three girls are horseback riding with the focus on the <unk> girl . <eos>
+0.0
+=======================
+two people playing golf in a fenced area . <eos>
+two people play water volleyball in a pool . <eos>
+0.0
+=======================
+a man sitting in the steps of a building . <eos>
+a man is sitting on door steps in front of a house . <eos>
+0.0
+=======================
+two people are running on a sunny day . <eos>
+two people are running at the top of a mountain . <eos>
+0.2658155858516693
+=======================
+a couple of food enjoy a pole in a messy restaurant . <eos>
+some men are looking at a computer screen in an office . <eos>
+0.0
+=======================
+a road rider wearing colorful pants is riding on a tractor . <eos>
+a matador in a colorful outfit is riding a bull <eos>
+0.0
+=======================
+a baby is looking at the railings from a little girl 's day <eos>
+baby looking at the leaves on a branch of a tree . <eos>
+0.0
+=======================
+a person in scuba gear prepares a flip with their gear over a large rock . <eos>
+a person dressed in winter clothes poses with a snowman surrounded by snow covered landscape . <eos>
+0.0
+=======================
+a man wearing sunglasses looks away with a child holding a flag . <eos>
+a man with sunglasses is helping a child with sunglasses slide down a slide . <eos>
+0.0
+=======================
+man with a girl and a girl hat on a beach with rainbow . <eos>
+a man with a bucket and a girl in a hat on the beach . <eos>
+0.0
+=======================
+young women and kids in a classroom watching someone to different things for a fountain . <eos>
+young women and children in a village , with a single woman focused on the camera . <eos>
+0.0
+=======================
+a young woman , dressed in casual clothing , pulls a <unk> package as she walks on a wooden path . <eos>
+a young woman in " street clothes " and boots by a lake performing a ballet move . <eos>
+0.0
+=======================
+a man and a boy are sitting at a bank of tree , some and some looking at a vendor . <eos>
+a man and a boy are sitting at an <unk> both are holding <unk> . <eos>
+0.34193727374076843
+=======================
+a man , in green , rides a skateboard on a sidewalk . <eos>
+a man dressed in green snowboarding on a bench . <eos>
+0.0
+=======================
+asian people in uniform , wearing a blue and red suit , seem to be celebrating to the world amongst a group of onlookers . <eos>
+street scene of blond woman in gold coat and pink mini - skirt in front of a rear - facing police motorcycle . <eos>
+0.0
+=======================
+a man is diving into water during a race . <eos>
+a man wakeboards in the water . <eos>
+0.0
+=======================
+two men are outside taking the boat as the other people are watching . <eos>
+two boxers are ready for their fight as the crowd watches with <unk> . <eos>
+0.0
+=======================
+two older boys are playing a guitar . <eos>
+a pair of older boys play guitars . <eos>
+0.0
+=======================
+large black dog drinking in the air . <eos>
+a large black dog is digging in the deep snow . <eos>
+0.0
+=======================
+a four piece of four band music . <eos>
+a band of four playing a gig . <eos>
+0.0
+=======================
+a <unk> terrier catches a face in <unk> and performing by the sea . <eos>
+a kickboxer lands a flying knee into the face of his opponent . <eos>
+0.0
+=======================
+an older man wearing wild clothing sits on the street next to a car . <eos>
+an elderly man , wearing navy blue , is sitting on a bench along the street . <eos>
+0.0
+=======================
+two women selling flowers on their wedding head . <eos>
+two women look out at many houses below . <eos>
+0.0
+=======================
+a man is shaving his hair by while a woman watches . <eos>
+a man licking the face of a woman wearing glasses . <eos>
+0.0
+=======================
+a very young <unk> child using a toy and toy stand in the ring with beautiful green and blue eyes . <eos>
+a very young child is sitting in the sink with paint on his body and face and is playing with the kitchen <unk> . <eos>
+0.0
+=======================
+man in yellow shirt standing in front of a <unk> <unk> crowd , which is in front of a wooded area . <eos>
+a man in a yellow top stand in front of a small shack , as viewed from above through wire mesh . <eos>
+0.15083365142345428
+=======================
+a gentleman peering out at a store display . <eos>
+a gentleman coming out of a laundromat . <eos>
+0.0
+=======================
+three girls , one of which is standing and one of them is reading a newspaper in a grassy area . <eos>
+three girls make faces as one takes a drink while they stand in a busy street . <eos>
+0.0
+=======================
+a little , barefoot girl with a helmet rides his scooter through a busy city . <eos>
+a young barefoot girl wearing a helmet walks down a <unk> covered fallen down tree . <eos>
+0.0
+=======================
+a girl is being <unk> by another girl , as they are buried up , and looks at it . <eos>
+a frisbee is being thrown to the girl while the other girl appears to be asking for it . <eos>
+0.0
+=======================
+a dog walks across a <unk> area hanging in the dirt . <eos>
+a dog treads through a shallow area of water located on a rocky mountainside . <eos>
+0.0
+=======================
+a group of friends lies on the floor with their feet up . <eos>
+a group of friends lay <unk> out on the floor enjoying their time together . <eos>
+0.25504377484321594
+=======================
+a man climbs a steep rock wall <unk> is doing some work . <eos>
+a man is climbing a steep rock wall with a safety harness on <eos>
+0.22718709707260132
+=======================
+a man is laying on the edge of a large pile of logs , <unk> which is <unk> too the world . <eos>
+a man lays down on a snowbank that has piled up high around the front door of his house . <eos>
+0.0
+=======================
+a little blond girl in a pink shirt is spinning a toy toy in her hair . <eos>
+a little blond girl with a polka dot shirt is giving a stuffed animal a " bath " in a sink . <eos>
+0.1559634953737259
+=======================
+a man wearing <unk> <unk> paint a cigarette gives a female time as he takes a photo . <eos>
+a man in blue and red face paint poses for a picture with a woman . <eos>
+0.0
+=======================
+a man holding a microphone about <unk> to eat . <eos>
+a man holding a drinking glass at the camera . <eos>
+0.2790159285068512
+=======================
+boy in yellow bathing suits leaning on a yellow railing while some men are watching . <eos>
+swimmers in a lake being watched by a boy sitting on a wall . <eos>
+0.0
+=======================
+a person with brown hair and a gray shirt is looking through a telescope . <eos>
+a person with neon pink hair and yellow shirt is looking out across a beach . <eos>
+0.0
+=======================
+two dogs with their heads swimming stick in the snow . <eos>
+two dogs are laying in the snow with their mouths open . <eos>
+0.0
+=======================
+two men with graying beards share a rooftop on a sunny day . <eos>
+two men in <unk> 's have a discussion in an outdoor market . <eos>
+0.0
+=======================
+a man looks at a sculpture that is being <unk> by the water and beach . <eos>
+a man stare at a passing couple while walking down the block . <eos>
+0.0
+=======================
+two people holding a " free truck " sign , above the water of a boat , with large buildings behind it . <eos>
+two people are holding a large upside - down earth <unk> , about 4 ' in <unk> , and a child appears to be jumping over <unk> . <eos>
+0.0
+=======================
+a child is upside down in the kitchen . <eos>
+a child snowboarder coming to a stop <eos>
+0.0
+=======================
+two men are walking down a wet path . <eos>
+two men walking down a dirt path . <eos>
+0.0
+=======================
+a woman with blond - hair is drinking food . <eos>
+a woman with blond - hair is drinking out of a glass . <eos>
+0.5648427605628967
+=======================
+children making <unk> and waiting for traffic . <eos>
+kids conversing and learning in class . <eos>
+0.0
+=======================
+two men sitting outside talking at a table stroll near a sign hanging <unk> . <eos>
+two men sitting outside having a conversation by a free <unk> sign . <eos>
+0.20687206089496613
+=======================
+a man standing holding a man in front of a man holding a guitar . <eos>
+a standing man holds a microphone in front of a man holding a guitar . <eos>
+0.6339704394340515
+=======================
+the closeup of a small , blue - haired child inside a white and blue house . <eos>
+a closeup of a child 's face eating a blue , heart shaped lollipop . <eos>
+0.0
+=======================
+a dog jumps to catch a red ball item . <eos>
+a dog jumps for a yellow and black ball . <eos>
+0.0
+=======================
+a man in a white shirt is doing work on a colorful railing in front of the ocean . <eos>
+a man in a white t - shirt painting in the middle of a stone paved road . <eos>
+0.23588448762893677
+=======================
+a smiling woman with a scarf holds up a broom . <eos>
+a smiling woman in a peach tank top stands holding a mountain bike <eos>
+0.0
+=======================
+a man in a hat is playing an acoustic guitar while at the cafe 's cafe . <eos>
+a man in a hat plays an unusual instrument for cash next to the metro exit . <eos>
+0.2462395280599594
+=======================
+a band plays on a <unk> field at the cold winter day . <eos>
+a band playing in an outdoor theater , along the river . <eos>
+0.0
+=======================
+a youth practicing <unk> in the back of a bicycle <eos>
+a kid on skating ramp practicing cool moves . <eos>
+0.0
+=======================
+two women in bikini walk down a crowded street . <eos>
+two women in spotted dresses walking down a sidewalk . <eos>
+0.0
+=======================
+a woman is sitting on a chair . <eos>
+a woman sitting on a public bench . <eos>
+0.0
+=======================
+a lady in a multicolored tank top hands a cheese out of a fish stand . <eos>
+a lady in a bright pink shirt is pulling a hot food cart . <eos>
+0.17694973945617676
+=======================
+a man wearing a <unk> costume sits around the corner of a forest , while people stand around in the middle of a street . <eos>
+one man , wearing a hooded sweatshirt , sitting at a fountain watching the people of the city . <eos>
+0.0
+=======================
+man with <unk> juggling as he t - shirt shaking his tennis racket . <eos>
+man with <unk> <unk> beads around his neck holding pole with banner <eos>
+0.0
+=======================
+a man wearing a white t - shirt and a baseball cap looks out into the distance . <eos>
+a male in a black shirt and brown cargo pants holding a shovel above his head . <eos>
+0.0
+=======================
+i is being photographed , while a man and a son prepare each other , prepare to prepare a hotdog service . <eos>
+i see a bearded man and elderly lady sharing a bowl of food . <eos>
+0.0
+=======================
+many people are gathered spread for a protest time at the dinner time . <eos>
+many people have gathered to look at something that is not in the photo . <eos>
+0.0
+=======================
+a man and a woman are dressed in old - style , a man 's hat on a horse . <eos>
+a man and a woman are holding up signs at a protest . <eos>
+0.25916415452957153
+=======================
+a band is playing on stage in a concert . <eos>
+a band is playing music on stage at a concert . <eos>
+0.47085195779800415
+=======================
+<unk> in a police outfit walking along a tree . <eos>
+man on phone in business suit walking down a busy street . <eos>
+0.0
+=======================
+a man in a two - piece piece of men standing with a two men holding red . <eos>
+a black man in a chef 's coat is on the phone while two other men in aprons laugh . <eos>
+0.0
+=======================
+two children jumping on top of a dinosaur that 's covered in mud . <eos>
+two children jumping on a screened in blue and black trampoline while outside surrounded by trees . <eos>
+0.17212745547294617
+=======================
+the man in the his cap has a boy 's face who is being <unk> by the african arm . <eos>
+the man wearing the cap is handing a freshly caught fish to the boy in the purple hat . <eos>
+0.0
+=======================
+a gathering of a music scene . <eos>
+a nighttime street scene of a restaurant . <eos>
+0.0
+=======================
+the white and brown dog is running through the grass . <eos>
+the white and brown dog runs across the grass . <eos>
+0.5310725569725037
+=======================
+a group of people are completing a man on a car . <eos>
+a group of people waving to a person on a balcony . <eos>
+0.26911091804504395
+=======================
+a group of kids are rock climbing on rock and eating . <eos>
+a group of kids sat around and played their instruments . <eos>
+0.23901088535785675
+=======================
+a young football player prepares to make a baseball out in a rodeo home . <eos>
+a young football player is setting up for a field goal . <eos>
+0.18922404944896698
+=======================
+a man hits a volleyball ball . <eos>
+a man is in the middle of hitting a red , white and blue volleyball . <eos>
+0.0
+=======================
+people in a crowded city area <unk> for people . <eos>
+people in a produce store picking produce to buy <eos>
+0.0
+=======================
+a very brown and black dog is flying through the water . <eos>
+a very wet brown dog is emerging from the water . <eos>
+0.26911091804504395
+=======================
+a lone person is flying through the air on a course of a surfboard . <eos>
+a single person parachutes through a peaceful sunset . <eos>
+0.0
+=======================
+old woman looking at camera hanging in the middle of a snowy field . <eos>
+this old asian woman rests and fans herself on an <unk> hot day in the city . <eos>
+0.0
+=======================
+a man appears to be performing for a music stand before the audience . <eos>
+at some sort of carnival , a man is making cotton candy . <eos>
+0.0
+=======================
+two people are riding bicycles on a dirt road in the fall . <eos>
+two people are riding their bicycles on a dirt road <eos>
+0.457231342792511
+=======================
+a man in a striped shirt pouring some fruit during a small child . <eos>
+a man in a black and white striped shirt photographing a woman by a fountain . <eos>
+0.20036356151103973
+=======================
+woman with long hair holding her head around her neck . <eos>
+woman with two medals around her neck , holding up seven fingers . <eos>
+0.0
+=======================
+a boy in an orange shirt is smiling as a boy in a blue jacket who looks on . <eos>
+a boy with an orange shirt smiles , while a boy in a blue shirt looks on . <eos>
+0.3836841583251953
+=======================
+a <unk> - <unk> team is performing on stage . <eos>
+<unk> <unk> is performing at a concert . <eos>
+0.0
+=======================
+a dog running through the high leaves at the beach . <eos>
+a dog runs through the grass towards the camera . <eos>
+0.0
+=======================
+a group of people are doing exercises in a gym . <eos>
+a group camps in a desolate area . <eos>
+0.0
+=======================
+a man wearing all blue holding his head to his mouth . <eos>
+a man wearing olive <unk> clothing is holding himself up off the ground with his hands . <eos>
+0.0
+=======================
+the <unk> driver walked to his <unk> while waiting for the man in the yellow shirt . <eos>
+the <unk> driver listens to the workman in the green hard hat while the equipment to ship is being loaded . <eos>
+0.0
+=======================
+an asian woman is sitting in front of a computer . <eos>
+an asian woman sitting outside an outdoor market stall . <eos>
+0.0
+=======================
+many people dressed in colorful clothing are walking on a city street on a clear day . <eos>
+a lot of people walking on a dirt road , wearing summer clothes on a sunny day . <eos>
+0.0
+=======================
+a small brown dog runs through the grass . <eos>
+a little brown dog is running on the grass . <eos>
+0.2937716543674469
+=======================
+a yellow car is flying through the air on a dirt bike . <eos>
+a yellow car speeds along a snowy field . <eos>
+0.0
+=======================
+a woman <unk> food performer in the public . <eos>
+a woman is barbecuing tasty looking food in the park . <eos>
+0.0
+=======================
+a construction worker in a yellow vest <unk> working on <unk> . <eos>
+a construction worker in an orange vest lays down <unk> . <eos>
+0.2891784906387329
+=======================
+many people in white clothing gathered in a parade . <eos>
+many people in a stadium dressed in white are conversing with each other . <eos>
+0.0
+=======================
+a child getting ready to grab a face . <eos>
+a child is getting ready to read a book . <eos>
+0.0
+=======================
+a balding man wearing sunglasses and a gray shirt is outside talking on a street . <eos>
+a balding man in red sunglasses wearing a green shirt standing in front of a building . <eos>
+0.0
+=======================
+a woman is laying down with her <unk> . <eos>
+a woman is <unk> on her game of curling . <eos>
+0.0
+=======================
+a person riding a motorcycle down a dirt road . <eos>
+a person rides a motorbike down a dirt hill . <eos>
+0.0
+=======================
+a man photographs a mountain in the snow with his parachute . <eos>
+a man takes a photograph of a lake with mountains in the background . <eos>
+0.0
+=======================
+a man on stage with a guitar in the background . <eos>
+one man on stage , playing a guitar with lights in the background . <eos>
+0.3716357350349426
+=======================
+a woman with black hair and a red , black , black sweater , and an oversized short , is juggling herself . <eos>
+a woman with black hair , wearing a black top and a red skirt is shaking her fist at somebody . <eos>
+0.23114660382270813
+=======================
+an old man walks with a cane in his hands . <eos>
+an old man walking with a <unk> in his hand <eos>
+0.0
+=======================
+two gentlemen playing a game of baseball . <eos>
+two people playing a game facing each other . <eos>
+0.0
+=======================
+a fluffy white dog jumps as he is catching a flying fence . <eos>
+a white fluffy dog is jumping and catching a toy . <eos>
+0.0
+=======================
+a black dog jumps over a jump - like fence . <eos>
+a black dog is jumping over a multicolored barrier . <eos>
+0.0
+=======================
+a little girl smiles and points as she turns from a bar in the bathroom and flowers . <eos>
+a young girl smiles and sticks her thumb up while posing in front of a turtle . <eos>
+0.0
+=======================
+a african american man in a brown hat and glasses is standing by the wall . <eos>
+an african american man in a tan hat , suit , and sunglasses is standing by a brick wall . <eos>
+0.2957471013069153
+=======================
+a man in brown pants is talking on the phone while another man in a blue sweatshirt films something with a nearby garden . <eos>
+one man in shorts is talking to another man in blue jeans in front of a sink . <eos>
+0.0
+=======================
+four men in orange and orange uniform stand behind a dark box of <unk> . <eos>
+four men dressed in t - shirts and shorts are looking out a window <unk> the street below . <eos>
+0.0
+=======================
+a young man rides his bike on a city street . <eos>
+a young man rides a self built bicycle across the street . <eos>
+0.29167550802230835
+=======================
+dog on a leash carrying water in the sand <eos>
+dog on leash <unk> into snow in rural area . <eos>
+0.0
+=======================
+a black dog leaps through the water and catches a stick in its mouth . <eos>
+a black dog is jumping through some water , while holding a stick in his mouth . <eos>
+0.0
+=======================
+a young girl stands on a grassy hill . <eos>
+a young girl standing in a grassy field . <eos>
+0.0
+=======================
+two young asian boys gated with their hands . <eos>
+two young asian boys <unk> with each other . <eos>
+0.32466790080070496
+=======================
+a boy sitting on a rock looking into the mirror and looking at yellow telescope . <eos>
+a boy is sitting on a rock , looking at the valley below . <eos>
+0.21925346553325653
+=======================
+a man is singing into a microphone and a black hat is holding a microphone . <eos>
+a man sings into a microphone while holding a guitar . <eos>
+0.0
+=======================
+people waiting in the city streets at a crosswalk . <eos>
+people on the street at a block party . <eos>
+0.0
+=======================
+two people are sitting on a red scooter posing for a picture , with some buildings in it . <eos>
+two people are talking near a red phone booth while construction workers rest nearby . <eos>
+0.0
+=======================
+a construction worker in a black shirt and jeans is pointing on the job . <eos>
+a construction worker wearing a black shirt and jeans , sets up his ladder . <eos>
+0.33649325370788574
+=======================
+two children lay on the ground covered in snow . <eos>
+two children on their <unk> lay on the ground under a pipe . <eos>
+0.2413499653339386
+=======================
+a young asian woman is carrying a football in her left hand . <eos>
+a young asian woman is jumping midair in a crowded city part . <eos>
+0.325596421957016
+=======================
+a woman playing an acoustic guitar . <eos>
+a female playing a song on her violin . <eos>
+0.0
+=======================
+people are standing together in front of a store that sells " cream and <unk> flags for sale . <eos>
+people are all standing together in front of a statue of an animal , and they are all wearing cool - weather clothing . <eos>
+0.23252417147159576
+=======================
+a man holds a small child walking in a street . <eos>
+a man holding a small child who is wearing a backpack . <eos>
+0.0
+=======================
+a person with pink hair is standing behind a white truck is parked . <eos>
+a person with long blue hair standing behind a large crowd of people . <eos>
+0.0
+=======================
+a small little girl rides down a blue wall . <eos>
+a little girl peering over a blue wall . <eos>
+0.4172261357307434
+=======================
+a man wearing a red plaid shirt and black clothing stands in front of a mural . <eos>
+a man in a red hoodie with a white apron stands in front of a mural . <eos>
+0.45830342173576355
+=======================
+a lady in a purple bikini top does a flip in the sand . <eos>
+a lady in a bikini doing a cartwheel in the sand . <eos>
+0.4333207607269287
+=======================
+two men in orange vests working on a yellow fence . <eos>
+two men wearing shorts are working on a blue bike . <eos>
+0.0
+=======================
+a girl , performing a dance for a crowd of <unk> , <unk> her or <unk> . <eos>
+a girl competing in gymnastics performs a <unk> routine as she <unk> the audience . <eos>
+0.0
+=======================
+two older children dressed in casual clothing watch an older gentleman in a black costume . <eos>
+two indian children in formal costume happily performing a ritual dance . <eos>
+0.0
+=======================
+here 's the image of a young boy wearing a blue plaid shirt at a crowded lot of candy . <eos>
+a boy wearing a green shirt on a bicycle reflecting off a store window . <eos>
+0.0
+=======================
+a man and a woman repairing an escalator . <eos>
+a man and woman walk across an empty street . <eos>
+0.0
+=======================
+a person , with several people , and some people in the face are laughing . <eos>
+a boat with people and their belongings is in the water . <eos>
+0.0
+=======================
+a group of dancers are doing yoga in a race . <eos>
+multiple bodies collide in a soccer match . <eos>
+0.0
+=======================
+a person hiking in the ocean on the ocean . <eos>
+a person is hang gliding in the ocean . <eos>
+0.3393251597881317
+=======================
+a young woman is playing a keyboard in an empty subway station . <eos>
+a young woman practices a string instrument indoors . <eos>
+0.0
+=======================
+two men are standing on the road , with several movie . <eos>
+two men are standing on the street covered in graffiti . <eos>
+0.4280321002006531
+=======================
+a young children dressed in a big colorful robe smiles as they wait for children . <eos>
+a boy smiles for the camera in a group of sitting children . <eos>
+0.0
+=======================
+a male is using tools applied . <eos>
+a seated man is working with his hands . <eos>
+0.0
+=======================
+woman standing on a rock wall is smiling . <eos>
+woman standing on a brick wall and taking a picture <eos>
+0.2630501687526703
+=======================
+a woman is being interviewed at a stopped table . <eos>
+a woman being entertained by a clown at a local fair . <eos>
+0.0
+=======================
+a performer performer and music in black sings while wearing a tan costume . <eos>
+a female performer sings and plays the guitar in front of a microphone . <eos>
+0.0
+=======================
+a group of young boys performing a lawn high - jump on a sunny day . <eos>
+a group of young boys race on a snowy day . <eos>
+0.31466615200042725
+=======================
+a woman wearing a black dress and high heels is walking down the street . <eos>
+a woman in a black dress and fluffy earmuffs walking down the street . <eos>
+0.4935579001903534
+=======================
+a boy and a man dressed in snowsuits are standing in shallow sand . <eos>
+a boy and a man dressed as rodeo clowns standing in sand <eos>
+0.3850322961807251
+=======================
+a young asian girl running down the city sidewalk during a rainy event . <eos>
+a small asian girl runs into focus down a brick street . <eos>
+0.0
+=======================
+two women in pink t - shirt wearing pink t - shirt are wearing sunglasses working on a microphone . <eos>
+two women wearing pink t - shirts and blue jeans converse outside clothing store . <eos>
+0.1536220908164978
+=======================
+two young men wearing blue and white clothing holding a bag walking down the street . <eos>
+two young men in blue jeans and sneakers cross an urban street . <eos>
+0.0
+=======================
+women walking down the dirt streets going in a giant puddle . <eos>
+women walking through deep snow and down a steep hill . <eos>
+0.0
+=======================
+a man standing at a food or gathering the inside of a van . <eos>
+a man stands in a mobile food stand , looking out the half - door . <eos>
+0.0
+=======================
+two women are smiling at a food stand . <eos>
+two women are smiling at an event . <eos>
+0.45180100202560425
+=======================
+several men walking along a road with a city in the background behind a building . <eos>
+several men standing on a parade float traveling through a street crowded with people . <eos>
+0.0
+=======================
+little brown and white dog running on the sidewalk <eos>
+little brown and white dog running on the sidewalk . <eos>
+0.817612886428833
+=======================
+a man on a beach juggles . <eos>
+a man on a beach building a sand castle . <eos>
+0.40866464376449585
+=======================
+a little boy in a yellow shirt jumps from a shot while other people sit around . <eos>
+a young boy in yellow t - shirt hanging from a ring with other kids around . <eos>
+0.0
+=======================
+a bald man in a striped shirt is holding his arm out towards another man 's head . <eos>
+a bearded bald man in a tan striped shirt rests his head on another man 's arm . <eos>
+0.24122866988182068
+=======================
+three women sitting on a couch with one of them holding up the feet on the other and yellow feet . <eos>
+three women are sitting on a blanket on the ground with a baby , and are talking and having a good time . <eos>
+0.0
+=======================
+people are gathered and <unk> <unk> under the <unk> tent . <eos>
+people <unk> and gardening the areas around the walkway . <eos>
+0.0
+=======================
+a waitress in a white t - shirt being <unk> by a seated performer in a store . <eos>
+a waitress in a white t - shirt serving <unk> at a restaurant . <eos>
+0.4194685220718384
+=======================
+man with white shirt and <unk> pants laying on top of a tree in the snow . <eos>
+a man in a white shirt and khaki pants crouches on a fallen tree trunk . <eos>
+0.0
+=======================
+a woman and two boys looking at a good screen . <eos>
+a woman and two boys looking at an information station . <eos>
+0.5706745982170105
+=======================
+a person sitting on a chair in front of a crowd . <eos>
+a person sitting on chair in front of a crowd . <eos>
+0.7611606121063232
+=======================
+a group of musicians playing music in the street . <eos>
+a group of musicians playing music in the street . <eos>
+1.0
+=======================
+this is a man who is having a conversation while a man reaches to take a photograph . <eos>
+here is a picture of a woman and her husband and child taking a stroll by the parking lot . <eos>
+0.0
+=======================
+four women have ready in this club with empty <unk> . <eos>
+four women dressed up in funny costumes . <eos>
+0.0
+=======================
+a man and a woman are sitting together in front of a <unk> st. tree vendor . <eos>
+a man and woman sit across from each other at a restaurant table . <eos>
+0.0
+=======================
+a little boy is carrying a pink and white striped toy while standing in a city . <eos>
+a young boy carries a green , white , and red flag and walks next to a woman . <eos>
+0.0
+=======================
+a woman sitting at a microphone . <eos>
+a woman sits at a dark bar . <eos>
+0.0
+=======================
+a bride and two men smiling while looking at a few tree <eos>
+a bride and groom are taking pictures while two men stand nearby . <eos>
+0.0
+=======================
+two girls walking down a street . <eos>
+two girls walking down the street . <eos>
+0.5
+=======================
+a native woman <unk> her body into a body of water . <eos>
+a competitive runner taking her first <unk> in a competition . <eos>
+0.0
+=======================
+a team of <unk> players stand by the shoulders and pose with a gravel stick . <eos>
+a team of soccer players is huddled and having a serious discussion . <eos>
+0.0
+=======================
+young people are in a kitchen filled with food . <eos>
+black people are at the grocery store to get there food . <eos>
+0.0
+=======================
+a military student cleans up a cement wall in her clothing . <eos>
+a janitor about to mop in a train station . <eos>
+0.0
+=======================
+three men stand near a large truck holding a newspaper . <eos>
+three men stand around a cart near some motorcycles . <eos>
+0.0
+=======================
+two men are walking by a small statute street with a light blue sign behind them . <eos>
+two men behind a circular bar in a room filled with people . <eos>
+0.0
+=======================
+four children playing on the sidewalk with their or all all around and all the same all on them . <eos>
+four children are playing on their front porch while their father looks on . <eos>
+0.0
+=======================
+this man does the <unk> of a man who just got <unk> from a house on this house . <eos>
+this man seems to be trying to make some kind of political <unk> in a busy city . <eos>
+0.0
+=======================
+a man wearing a gray shirt is fishing . <eos>
+a man in a gray t - shirt rests . <eos>
+0.0
+=======================
+a young woman appears to be in casual clothing . <eos>
+a young woman is making rugs in the rain forest <eos>
+0.0
+=======================
+a little baby wearing a pink sweater is using a <unk> and computer . <eos>
+a little baby in a pink hat lying naked and sleeping . <eos>
+0.0
+=======================
+two men in red uniforms performing a <unk> street <eos>
+two men in red robes performing martial arts . <eos>
+0.29071539640426636
+=======================
+a woman is pulling a wagon on a girl <eos>
+a woman is putting a helmet on a small girl . <eos>
+0.0
+=======================
+the <unk> of a hockey bike being pulled by a bull . <eos>
+an atv attempts to get out of a ditch . <eos>
+0.0
+=======================
+a woman with dark hair , a white shirt and bikini bottoms holds out her fingers at a table while she is receiving of <unk> . <eos>
+a dark - haired woman wearing a blue blouse and sunglasses holds a banner while a young girl with braided hair writes on the banner . <eos>
+0.0
+=======================
+an old man in a black jacket is looking at something on his computer . <eos>
+an old man wearing a black jacket is looking on the table <eos>
+0.32377228140830994
+=======================
+an older man sits outside a storefront accompanied by a man 's fishing pole , in front of a large cityscape . <eos>
+an older man is sitting outside on a bench in front a large banner that says , " <unk> <unk> <unk> <unk> . " <eos>
+0.0
+=======================
+a man in a gray and white plaid shirt gives a female blond - hair . <eos>
+a man in green and a woman in black stretching . <eos>
+0.0
+=======================
+a little boy is jumping into the water . <eos>
+a young boy jumps into water . <eos>
+0.0
+=======================
+a man watches a woman walk towards a slide that is made a dish of <unk> . <eos>
+a man watching as a woman fires a gun with a smile at a firing range . <eos>
+0.0
+=======================
+three dogs are playing around in the snow . <eos>
+three dogs playing in the snow . <eos>
+0.46713799238204956
+=======================
+an older asian man , sweating , is flipping a pancake face while cooking . <eos>
+an older , overweight man flips a pancake while making breakfast . <eos>
+0.0
+=======================
+a dark - haired <unk> is standing on the floor of a piano and is hanging off the floor . <eos>
+a well built black man stands in the subway , listening to headphones . <eos>
+0.0
+=======================
+a woman wearing white is holding a <unk> . <eos>
+a woman in white is holding a bouquet of roses . <eos>
+0.29060691595077515
+=======================
+man in suit , holding a burning , building suit and running on a street . <eos>
+man in a suit smoking a cigar and reading a paper walking on the street . <eos>
+0.0
+=======================
+a brunette with a dark green <unk> is <unk> a brown carved statue . <eos>
+a brunette woman in a <unk> 's egg blue apron is <unk> a brown animal . <eos>
+0.20571130514144897
+=======================
+several people stand and are standing in a room . <eos>
+several people are standing in a room eating . <eos>
+0.4497331976890564
+=======================
+a woman and a young child are posing for a picture . <eos>
+a woman and a young child has fun while playing a board game . <eos>
+0.3779635429382324
+=======================
+a man in a blue jacket is crossing the snow past two <unk> . <eos>
+a man in a blue coat is <unk> on his sled by two dogs . <eos>
+0.2893952429294586
+=======================
+a woman and a young boy are wearing a cowboy hat . <eos>
+a woman and little boy share a chair . <eos>
+0.0
+=======================
+two women stand in the water with umbrellas . <eos>
+two women are standing with ski poles in deep snow . <eos>
+0.0
+=======================
+a young man skateboarding on a rail swing . <eos>
+a young man is skateboarding on a cement block wall . <eos>
+0.0
+=======================
+mother and daughter dancing in this photo with a mother <eos>
+mother and daughter wearing <unk> in <unk> <unk> are posing for a picture . <eos>
+0.0
+=======================
+people and an art races in the distance . <eos>
+people and camels taking a break in the desert . <eos>
+0.0
+=======================
+two men are fighting <unk> together playing soccer . <eos>
+two men in the military are playing baseball . <eos>
+0.0
+=======================
+a large crowd of people are standing behind some vehicles with red and green flags outside . <eos>
+a large crowd stand watching with a large buildings in the background . <eos>
+0.0
+=======================
+young man at work getting do a tattoo . <eos>
+a young man is getting something to eat at a <unk> concession stand . <eos>
+0.0
+=======================
+a lone fisherman is taking a photo of a large statue of the firetruck . <eos>
+a lone firefighter helps <unk> a large fire . <eos>
+0.0
+=======================
+the woman is holding the statue of a man who is hanging against the statue . <eos>
+the women is holding the boy while looking across the street . <eos>
+0.0
+=======================
+a man in a blue shirt skateboarding on a balcony hanging go - items . <eos>
+a man in a blue shirt rides a unicycle with flaming batons in hand . <eos>
+0.34899812936782837
+=======================
+a crowd of people are standing at the top of a hill , <unk> flags . <eos>
+a crowd <unk> near the start of a marathon . <eos>
+0.0
+=======================
+two women walking down the path between two trees surrounded by fast . <eos>
+two women are walking down the beach carrying boards and <unk> . <eos>
+0.0
+=======================
+a woman in a yellow jacket is talking to two women . <eos>
+a woman in a yellow jacket following two other women . <eos>
+0.49735674262046814
+=======================
+a woman in black pants looking at something in the distance . <eos>
+a woman in black pants is looking at her cellphone . <eos>
+0.3706866502761841
+=======================
+a man wearing a tank top is sitting on a bench in a street vendor . <eos>
+a tattooed man wearing overalls on a stage holding a microphone . <eos>
+0.0
+=======================
+several men on stage are playing a card game . <eos>
+colorful costumed men in a performance . <eos>
+0.0
+=======================
+an elderly woman wearing a dark jacket , gloves and sunglasses is pushing a cart . <eos>
+an elderly asian woman is wearing a beret , sunglasses , a yellow scarf , and a plaid jacket . <eos>
+0.0
+=======================
+a black man is looking back at another man , while in the background is doing something . <eos>
+a black man is watching another black man playing in the waterfall . <eos>
+0.18107198178768158
+=======================
+a man and many men are having something to their right <unk> as a group of people look on . <eos>
+man and women look through milk crates full of records or pictures on sale . <eos>
+0.0
+=======================
+a blond - haired boy wearing a blue shirt is sitting by a man with blond - hair . <eos>
+a blond boy in a blue shirt is sitting with a woman wearing glasses . <eos>
+0.2518750727176666
+=======================
+two old men in hats are in the outdoor shop . <eos>
+two old men in hats <unk> in the sun outside . <eos>
+0.4063798189163208
+=======================
+a group of men , women and women on the steps , laughing . <eos>
+a group of men , women , and children , all wearing hats , talk on the beach . <eos>
+0.30009883642196655
+=======================
+a middle - aged woman wearing a traditional <unk> jacket standing in front of a rocky mountain . <eos>
+an elaborate costumed figure is in front of a brightly decorated structure . <eos>
+0.15071676671504974
+=======================
+a cyclist is doing a jump in a competition . <eos>
+a bicyclist is doing a trick in midair . <eos>
+0.0
+=======================
+a man in a white t - shirt sitting on a curb . <eos>
+a man in a white shirt is sitting on a crate . <eos>
+0.40016016364097595
+=======================
+they are posing for a picture . <eos>
+they are posing for a picture . <eos>
+1.0
+=======================
+several japanese people wearing colorful skirts are standing in white bed with they watching . <eos>
+several performers dressed in white clothing and maroon hats are lined up facing each other . <eos>
+0.0
+=======================
+some people are swimming in a body of water . <eos>
+several people swim in a body of water . <eos>
+0.5900468826293945
+=======================
+children are filling 3 <unk> in the window of a red window . <eos>
+children are staring out the window of a blue building with red <unk> . <eos>
+0.23649264872074127
+=======================
+a man with a backpack sits on a tree amid a forest in the background . <eos>
+a man with a backpack is sitting in a dirt road and pointing toward the horizon . <eos>
+0.2538262605667114
+=======================
+<unk> from <unk> at the <unk> day waiting for the <unk> . <eos>
+lemonade <unk> worker setting up shop for the day . <eos>
+0.0
+=======================
+two people dressed in fencing hero clothing sit on a stage in a public area . <eos>
+two people in full body solid color spandex suits sit in chairs in an audience . <eos>
+0.0
+=======================
+a worker working on a tree . <eos>
+a worker <unk> to a tree . <eos>
+0.41113364696502686
+=======================
+two children photograph their <unk> of an asian woman between flowers while walking down the sidewalk . <eos>
+two children are putting their faces into a knight and <unk> woman 's picture . <eos>
+0.0
+=======================
+three children stand by a blue fence under the ocean . <eos>
+three children standing near each other and next to a tall blue wooden post . <eos>
+0.0
+=======================
+people walking on a sidewalk in front of a billboard statue . <eos>
+people walk on a metropolitan sidewalk in front of a bar and grill . <eos>
+0.32631105184555054
+=======================
+a girl with a white uniform and black shorts playing with hula - hoops . <eos>
+a girl wearing a white shirt , black shorts , and a headband is playing volleyball . <eos>
+0.0
+=======================
+a blue <unk> canoe uniform surrounded by trees . <eos>
+a blue jeep drive into deep , muddy water . <eos>
+0.0
+=======================
+a young female student <unk> her birthday cake as she poses . <eos>
+a young clerk looking for new <unk> from <unk> . <eos>
+0.0
+=======================
+a woman is smiling next to a man and a man smiling on her back . <eos>
+a woman is smiling next to man who is also smiling while holding cotton candy cone . <eos>
+0.3159289062023163
+=======================
+a person wearing a hat and glasses is looking to the side . <eos>
+a person wearing a hat and scarf looks to the right . <eos>
+0.4324227571487427
+=======================
+two brown dogs playfully wrestle on the snowy ground . <eos>
+two brown dogs wrestle on the grassy hill . <eos>
+0.0
+=======================
+a man is taking a picture in the middle of the same and white . <eos>
+a man takes pictures of white and yellow tulips . <eos>
+0.0
+=======================
+a person in a yellow shirt doing some work in a gym . <eos>
+a person dressed in a yellow <unk> costume in a public area . <eos>
+0.0
+=======================
+a group of girls playing a game of hopscotch . <eos>
+a group of girls playing a game on horseback . <eos>
+0.6315552592277527
+=======================
+two dogs race across a field , while tall <unk> , an adult <unk> . <eos>
+two dogs run in a field looking at an unseen frisbee . <eos>
+0.0
+=======================
+group of people dancing for a dancing performance in asia . <eos>
+group of people dancing at a club or party in a costume . <eos>
+0.22932876646518707
+=======================
+two little girls , wearing pink dresses , are sitting in the middle of a big brown and gray bus . <eos>
+two young girls dressed in pink pajamas sit on the floor in front of large windows playing house . <eos>
+0.0
+=======================
+the car racing racing racing dirt path during a race . <eos>
+the car leaves a dust trail as it goes around the dirt track . <eos>
+0.0
+=======================
+a woman throws a tennis ball as a dog in a pool has her ears in its mouth . <eos>
+a woman <unk> a frisbee to a dog as a baseball player in uniform runs behind her . <eos>
+0.0
+=======================
+a little girl walks along a set of yellow flowers . <eos>
+a young girl walking along side a small creek <eos>
+0.0
+=======================
+a soldier <unk> a group of people who are sitting on or putting up a soldier 's <unk> . <eos>
+a <unk> guard soldier leading a group of other <unk> guard soldiers singing the <unk> <unk> . <eos>
+0.0
+=======================
+the young girl is trying to surf with two young people who are looking at the same line . <eos>
+the young girl is given rabbit ears by the young boy behind her . <eos>
+0.15316824615001678
+=======================
+a middle - aged man in a <unk> uses his hands on a pay phone at a grocery store . <eos>
+a middle - aged man is taping up the knee of a younger football player who is sitting on a <unk> table . <eos>
+0.2064427137374878
+=======================
+people playing in the air in a courtyard . <eos>
+people play in a fountain at twilight . <eos>
+0.0
+=======================
+a <unk> works on a man 's face while a second man watches . <eos>
+an <unk> working on a patient , while a man holds the light . <eos>
+0.0
+=======================
+several people wait for the camera are being <unk> by a mural in a dimly lit room . <eos>
+several people wait to checkout inside a store with a warehouse looking ceiling . <eos>
+0.0
+=======================
+a baby in a baby and another boy is on some outdoor stairs . <eos>
+a baby in a bouncy seat and a standing boy surrounded by toys . <eos>
+0.21023696660995483
+=======================
+men in white are carrying flags to their <unk> . <eos>
+men in white outfits are holding up their hands . <eos>
+0.0
+=======================
+a man wearing a gray t - shirt is doing an ollie on a skateboard next to a tree . <eos>
+a man wearing a gray shirt is doing a skateboard trick on stairs . <eos>
+0.2758747935295105
+=======================
+there are many people in a market and some of them are eating something . <eos>
+there are many people in a building with some people cooking food . <eos>
+0.34899812936782837
+=======================
+a band is playing outside on a street while spectators are talking . <eos>
+a group is playing music on stage in front of a crowd of people . <eos>
+0.0
+=======================
+a young woman with a cane standing in front of a building talking . <eos>
+there is a young woman with a bag smiling in front of a building . <eos>
+0.49615779519081116
+=======================
+a tan dog jumps and swimming in a pool with a yellow ball . <eos>
+a tan and white dog jumps up with a yellow ball in its mouth . <eos>
+0.24088051915168762
+=======================
+a man in blue rides a bicycle down a slope . <eos>
+a man in blue is riding a bicycle on a track . <eos>
+0.2714346647262573
+=======================
+two women and one younger man are having fun . <eos>
+two women with short hair are facing each other and the blond one is talking . <eos>
+0.0
+=======================
+a man with a guitar is speaking to a group of people . <eos>
+a man holding a microphone speaking to a group of people outside . <eos>
+0.4428500235080719
+=======================
+there are two people gathered around talking , while one man walks , who are a lot of other people watch . <eos>
+many people are gathered to watch two men who are an instrument and holding a sign . <eos>
+0.0
+=======================
+two teenage women hold a yellow and yellow mask while standing other we are doing something . <eos>
+two teenage girls hold a card <unk> to <unk> as they smile . <eos>
+0.0
+=======================
+a man in a long blue long - sleeved shirt is shoveling an icy walkway . <eos>
+a man in a long blue cape walks into an old stone building . <eos>
+0.3263598084449768
+=======================
+the tennis player wears a blue shirt and yellow <unk> . <eos>
+the tennis player is wearing a yellow and blue shirt and a blue headband . <eos>
+0.0
+=======================
+a street scene where people are riding in front of a line of people on a concrete road . <eos>
+a city street has many signs in chinese . <eos>
+0.0
+=======================
+a hispanic women with her hair , smiles as she writes with a turkey . <eos>
+heavyset woman blowing her hair with a hair dryer smiling all happy <eos>
+0.0
+=======================
+here looks like a couple , with <unk> displayed , looks like it . <eos>
+looks like a farmers market , a few tables with various items displayed . <eos>
+0.0
+=======================
+two children are on a swing fight . <eos>
+two children playing on a jungle gym . <eos>
+0.0
+=======================
+a male chef sits at his work desk in a primitive chair at a station station . <eos>
+a vendor sits in the middle of a display of glasses at a street market in an asian country . <eos>
+0.0
+=======================
+a boy is enjoying a afternoon at a carnival . <eos>
+a boy prepares to kick a goal shot <eos>
+0.0
+=======================
+two little girls walking through the woods . <eos>
+two small girls walk along the leaves . <eos>
+0.0
+=======================
+firetrucks line their luggage through a large , <unk> on a large carpet . <eos>
+<unk> stand at the top of a <unk> to a large boat . <eos>
+0.0
+=======================
+a snowboarder jumps high in the air on his snowboard . <eos>
+a snowboarder is jumping in the air next to the ski lift . <eos>
+0.0
+=======================
+a black man in white pants and a black and white shirt is pulling a cart full of plants while others are also walking nearby . <eos>
+a dark - skinned man in white shirts and a black sleeveless shirt flips his skateboard on a cement surface surrounded by tall buildings and palm trees . <eos>
+0.0
+=======================
+a little girl lies on the floor drinking her out on her lap . <eos>
+a small girl is lying on the floor while her younger sister is pretending to be a nurse . <eos>
+0.0
+=======================
+a man in a black t - shirt playing a string instrument at a playground . <eos>
+a man wearing a black t - shirt is playing seven string bass a stage . <eos>
+0.2948994040489197
+=======================
+a boy in green and yellow clothing floaties . <eos>
+a boy in green and yellow dress is learning boxing . <eos>
+0.4760352373123169
+=======================
+a woman carrying a large bag on her head while walking down the sidewalk . <eos>
+on a busy street a lady carries goods on her head . <eos>
+0.0
+=======================
+people crossing a street in front of a tall building . <eos>
+people are crossing a tree lined street in front of a building . <eos>
+0.4039323925971985
+=======================
+people sit , watching a person standing up above some stairs while another person is standing by them . <eos>
+people are seated among some pillars while another person walks by . <eos>
+0.0
+=======================
+the man in the blue shirt is in the middle of a small crowd . <eos>
+the man in the blue shirt is walking with the man in red . <eos>
+0.4333207905292511
+=======================
+a sculpture works on a <unk> light . <eos>
+an artist working on an ice sculpture <eos>
+0.0
+=======================
+people in line line to line a bus for a train . <eos>
+people in line getting ready to board a bus . <eos>
+0.0
+=======================
+a little blond girl holds a baby <eos>
+a small blond girl is holding a sandwich . <eos>
+0.0
+=======================
+a boy in a black shirt is walking beside two boys wearing a black jacket and smiling . <eos>
+a boy in a black shirt carries a blue bucket while walking with men dressed in white . <eos>
+0.2966090440750122
+=======================
+blond man in a button - down shirt is swinging a tattoo . <eos>
+blond - haired man wearing a black fleece jacket sculpting . <eos>
+0.0
+=======================
+a male and female hiker are competing in a bicycle race in a bus . <eos>
+a son and his parents are taking a group picture in a church . <eos>
+0.0
+=======================
+two men on motorcycles are completing a science turn on a police board . <eos>
+two men on fast motorcycle speeding around a corner on a racetrack . <eos>
+0.0
+=======================
+a white woman and black running along a road along the road . <eos>
+a white woman and black man walking down the street . <eos>
+0.3161487579345703
+=======================
+three women are sitting and talking and laughing . <eos>
+three women smiling and sitting down . <eos>
+0.0
+=======================
+two women , one older and one female appear to be doing a dance at a competition . <eos>
+2 females , 1 from <unk> and 1 from china , compete in a wrestling match on a mat . <eos>
+0.0
+=======================
+a man wearing a black tank top holds a large white dog 's face while walking down the sandy beach . <eos>
+at a bowling alley , a man in a black shirt is holding a bowling ball and looking down the lane . <eos>
+0.0
+=======================
+an older artist prepares to take a small hand out of mud . <eos>
+a older japanese man trying to fix a small red and gray machine . <eos>
+0.0
+=======================
+a man in a canoe is jumping over a wooden rock car . <eos>
+a man in a harness climbing a rock wall <eos>
+0.20448006689548492
+=======================
+the boy is jumping with his skateboard on his skateboard . <eos>
+the boy leaps of his bed with a karate kick . <eos>
+0.0
+=======================
+a brown dog is nibbling at a large praying shop . <eos>
+a brown dog chewing on a large piece of wood . <eos>
+0.0
+=======================
+a man is eating a meal in the restaurant . <eos>
+a man in a restaurant having lunch . <eos>
+0.0
+=======================
+a man is taking a picture with another man who is not wearing a <unk> shirt , as he walks down the <unk> . <eos>
+a man is taking a photo of another man and his two dogs on some grassy hills <eos>
+0.16767849028110504
+=======================
+man and boy play on a beach , with a rainbow in the air . <eos>
+man and boy play with dog at sunset on a beach . <eos>
+0.25336548686027527
+=======================
+a young white man in a winter hat is carrying a large backpack . <eos>
+a young white male is sweeping a porch with a large broom . <eos>
+0.0
+=======================
+there is a woman on a street either with no shirts going to the next to the pole . <eos>
+there is a woman riding a bike down the road , and she <unk> a wheelie . <eos>
+0.15316824615001678
+=======================
+a goalie doing a kick after the <unk> of the soccer game . <eos>
+a youth football game <unk> three youths are fighting for a football . <eos>
+0.0
+=======================
+the sun is in the white building , some buildings . <eos>
+the street is crowded with many people with coats on . <eos>
+0.0
+=======================
+a woman in a red coat , in a stance , pulls a pink hula bag , which is out in the middle of a dry room . <eos>
+a lady in a red coat , holding a <unk> hand bag likely of asian descent , jumping off the ground for a <unk> . <eos>
+0.164755180478096
+=======================
+people at a celebration event in the middle of a clothing event . <eos>
+people attending a <unk> <unk> <unk> challenge . <eos>
+0.0
+=======================
+a man selling flowers from his cart as they work on a train . <eos>
+a man reaches up to work with cables above a desk . <eos>
+0.0
+=======================
+two men wearing <unk> <unk> are working together . <eos>
+two men wearing sombrero 's in new york city . <eos>
+0.0
+=======================
+a young boy with glasses and a gray shirt is standing on a farm in a parking lot . <eos>
+a boy with glasses wearing a bright yellow shirt is standing in a parking lot . <eos>
+0.3737097978591919
+=======================
+a man in a white and gray shirt looks at his cellphone while the other men in cowboy hats sit on the steps . <eos>
+a man in a <unk> white shirt gazes into the woman 's eyes while holding on to the back of her black and pink dress . <eos>
+0.12558545172214508
+=======================
+a young man gets ready to catch a snowball . <eos>
+a young man gets ready to kick a soccer ball . <eos>
+0.48834994435310364
+=======================
+a man in a red shirt stands with girl in front of a brick building talking with two people . <eos>
+a man in a red shirt is standing with two <unk> in front of an old structure . <eos>
+0.3324684500694275
+=======================
+two girls face under a green tent and smile while standing around . <eos>
+two girls are eating cake and one has blue <unk> on her face . <eos>
+0.0
+=======================
+a disk jockey holds a child 's arm while they look at something . <eos>
+a military man holding a camera , showing a child the film on the camera . <eos>
+0.0
+=======================
+semi - haired band members in a football uniform playing with a dancing dance by the ocean . <eos>
+<unk> in uniforms march in a parade while playing flute - like instruments . <eos>
+0.0
+=======================
+a store clerk is waiting for the customers to pass the customers . <eos>
+a rickshaw <unk> waiting for his next <unk> . <eos>
+0.0
+=======================
+a person in blue jeans and a person laying down outside while a cat is skiing . <eos>
+a person wearing blue jeans and a red sweater us turning the corner of a brick wall . <eos>
+0.17699049413204193
+=======================
+a girl wearing sunglasses sits behind her smiling at the same time . <eos>
+a girl with face paint and an orange sweater stands with her party . <eos>
+0.0
+=======================
+a person is carrying many tattoos . <eos>
+a person is carrying many bags . <eos>
+0.5946035385131836
+=======================
+a lady with a blue bag is riding a scooter . <eos>
+a white blond lady wearing a blue bag riding a scooter . <eos>
+0.41249144077301025
+=======================
+a young girl is walking through a park clutching some kind of blue flowers . <eos>
+a young girl running by herself in a park . <eos>
+0.0
+=======================
+a mounted officer is walking past a man working on a light blue car . <eos>
+a mounted policeman on a dappled horse <unk> a crowd . <eos>
+0.0
+=======================
+a woman wearing a blue blue and white helmet is jumping in front of a basket of water that has graffiti on it . <eos>
+a woman in a blue hat and yellow skirt is jumping in an area with <unk> . <eos>
+0.0
+=======================
+a woman in a green shirt reads a <unk> customer 's front of the counter . <eos>
+a woman dressed in a green shirt reads off of a projector to her class . <eos>
+0.28855377435684204
+=======================
+man holding a shovel above his head , another man uses a machine to check out . <eos>
+a man , hand on head , <unk> a bank of america advertisement . <eos>
+0.0
+=======================
+a large group of people watching a man on a bicycle . <eos>
+a large group of people watching a performer on a stage . <eos>
+0.5659119486808777
+=======================
+a girl in a black dress with a white headscarf is covering her face and lots of people standing around both talking to each other in the background . <eos>
+a girl in a black tank with cargo shorts to what appears to be dancing with several people around . <eos>
+0.14966431260108948
+=======================
+a man in a construction shirt is talking into a microphone . <eos>
+a man in an army uniform speaks into a microphone . <eos>
+0.38677066564559937
+=======================
+a singer is in the middle of a crowd of people . <eos>
+a singer doing a stage dive into the crowd . <eos>
+0.0
+=======================
+an older man with a lei on his head and a crowd is in the middle of a crowded street . <eos>
+an older man with tattoos and biker <unk> <unk> a moment on a city street . <eos>
+0.17509132623672485
+=======================
+person digging air in the water underwater . <eos>
+a person rowing in their boat in the water . <eos>
+0.0
+=======================
+small boy in <unk> rain pajamas playing with the vacuum . <eos>
+little boy in <unk> crawling on brown floor <eos>
+0.0
+=======================
+a group of four people being pulled by a train . <eos>
+a group of four people are being photographed from a car . <eos>
+0.3572280704975128
+=======================
+a man is operating fire . <eos>
+a man practices boxing <eos>
+0.0
+=======================
+a police officer in full gear is using an axe . <eos>
+a police officer in his uniform wearing an ear piece . <eos>
+0.2620251178741455
+=======================
+a young man and woman hug with headphones in a bus . <eos>
+a boy and an old man with a cane are talking . <eos>
+0.0
+=======================
+a boy does a trick on his skateboard at a skate park . <eos>
+a boy does a skateboard trick off a metal plank . <eos>
+0.23397625982761383
+=======================
+three kids are watching a man playing a guitar on a park bench . <eos>
+three children watch a man on stage playing guitar . <eos>
+0.0
+=======================
+a man in a red baseball cap is climbing a cliff on a concrete wall . <eos>
+a man in a red baseball cap is leaning against a light pole . <eos>
+0.46366462111473083
+=======================
+a woman holds a baby in her hands and the other is <unk> her shoes . <eos>
+a woman carrying another woman wearing matching exercise attire on her back . <eos>
+0.0
+=======================
+three people stand below the one side of the shoreline while others walk by . <eos>
+three people are on the beach kneeling or standing near the water . <eos>
+0.0
+=======================
+a young boy wearing goggles sitting on a desk by him <eos>
+a boy wearing headphones sits on a woman 's shoulders . <eos>
+0.0
+=======================
+three people hiking on a snow covered mountain . <eos>
+a trio of people are hiking throughout a heavily <unk> path . <eos>
+0.0
+=======================
+a woman with a red dress and black dress is standing in front of a chart . <eos>
+a woman in a red dress with red - hair standing before a bright , multicolored home . <eos>
+0.0
+=======================
+here is a picture of a man and women at the wedding <unk> station as they do something . <eos>
+the image shows the reflection of a man and woman located at a terminal of some sort . <eos>
+0.15774546563625336
+=======================
+a person is hiking through a large body of water . <eos>
+a person is parasailing over a large body of water . <eos>
+0.6340466737747192
+=======================
+a man is walking down the sidewalk next to a street . <eos>
+a man is walking down the sidewalk next to a street . <eos>
+1.0
+=======================
+a man is speaking at a podium in an asian restaurant . <eos>
+a man in a cluttered office is using the telephone <eos>
+0.0
+=======================
+photographers taking a break on a board board . <eos>
+photographers at a site making a <unk> . <eos>
+0.0
+=======================
+three dogs play in the water . <eos>
+three dogs are playing in the water . <eos>
+0.5247357487678528
+=======================
+a <unk> in a plaid coat gives a thumbs up a sign . <eos>
+a <unk> <unk> man wearing a trench coat pushing a load of luggage . <eos>
+0.0
+=======================
+two men wearing black and white practicing with a yellow car in the back . <eos>
+two men in black clothes with blue and red bowties are performing in front of a crowd . <eos>
+0.0
+=======================
+man in a yellow boat paddling with a small wave . <eos>
+man in a small white boat on a lake . <eos>
+0.0
+=======================
+a tractor decorated as a float for his day . <eos>
+a tractor is moving dirt to help build up a <unk> wall . <eos>
+0.0
+=======================
+a boy is throwing a football at a dog during a game . <eos>
+a boy who is taking a stick from a girl in the middle of a race . <eos>
+0.0
+=======================
+a motocross rider is in the air pulling down on a dirt bike in the rain . <eos>
+a motocross rider is slightly airborne on a competition circuit jump . <eos>
+0.18167255818843842
+=======================
+a group of police standing in front of a building . <eos>
+a bunch of police officers are standing outside a bus . <eos>
+0.0
+=======================
+young man <unk> trash on charcoal area with wire . <eos>
+a young man sets up pool balls , on a purple <unk> <unk> . <eos>
+0.0
+=======================
+a young man wearing a large costume in a fancy lot of brown hair . <eos>
+a young man is carrying something in a large black plastic garbage bag . <eos>
+0.0
+=======================
+person with a red backpack walks up stairs . <eos>
+person with a red <unk> going for a hike . <eos>
+0.28266575932502747
+=======================
+five men , wearing white hats , are standing in a fenced area area from the bathroom van . <eos>
+five men all of whom are wearing white coats are standing next to <unk> in an enclosed area <eos>
+0.0
+=======================
+a cute little child looks at another child . <eos>
+a cute baby is smiling at another child . <eos>
+0.45180100202560425
+=======================
+a man in orange stands on a ledge , has his helmet as the walk . <eos>
+an old man dressed in <unk> - evil clothing holds an axe while standing on a hill . <eos>
+0.0
+=======================
+a group of synchronized cheering as they do their way . <eos>
+a group of go - cart riders are racing around a go - cart track . <eos>
+0.0
+=======================
+a man walking a two two two two horses in a band . <eos>
+a man is leading two small <unk> on a walk at a park . <eos>
+0.0
+=======================
+a waitress is standing behind a couple of asian <unk> . <eos>
+a waitress stands behind a counter full of cakes . <eos>
+0.0
+=======================
+a sidewalk artist working in some food . <eos>
+an artist is painting outside . <eos>
+0.0
+=======================
+three women wearing baseball caps and glasses are talking to a man writing on a vehicle . <eos>
+three women in dark shawls and hats talk on a brick street while a dog sits next to them . <eos>
+0.0
+=======================
+a girl with blue hood is sitting on the side of a street . <eos>
+a girl with blue dreadlocks is sitting on the side of the road . <eos>
+0.5303624868392944
+=======================
+a group of people sitting at an outdoor table eating food and drinking alcoholic work machine . <eos>
+a group of people are sitting at a table outside having drinks and talking . <eos>
+0.1920953392982483
+=======================
+two women dressed in black , with knee - dresses are walking on the street . <eos>
+two women dressed in all white and wearing high heels are walking on the street . <eos>
+0.49628227949142456
+=======================
+two young boys playing with some kind of orange and orange feet . <eos>
+two little black boys are playing with plastic bottles and having a lot of fun . <eos>
+0.0
+=======================
+a young girl in a pink floral print sundress <unk> a sports club . <eos>
+a little girl in a pink tutu practices dancing with scarves . <eos>
+0.2033344954252243
+=======================
+girls in black shirts playing tennis <eos>
+girls in black bikinis playing beach volleyball . <eos>
+0.0
+=======================
+four dogs play around with a green and white dog . <eos>
+four dogs are playing in a circle and one black dog is walking away . <eos>
+0.0
+=======================
+a girl , wearing a pink shirt , and the other wearing a white shirt , are practicing for a ball . <eos>
+a girl in a red and white shirt and blue shorts is getting ready to throw a ball . <eos>
+0.14728212356567383
+=======================
+two men , one wearing blue and the other wearing blue , are playing basketball on a pool . <eos>
+two men , one in blue and one in red , compete in a boxing match . <eos>
+0.17124730348587036
+=======================
+man on a concrete - paved sidewalk trying to jump from a metal rope . <eos>
+male on a skateboard , using an empty pool as a ramp on a very pretty day . <eos>
+0.0
+=======================
+there is a grown , <unk> because being balls in the woods . <eos>
+there is a tennis match being played at night in this stadium . <eos>
+0.0
+=======================
+a child wearing a green shirt is holding a red bowling ball up with its mouth . <eos>
+a child with a green shirt is holding a red ball against its mouth . <eos>
+0.517078697681427
+=======================
+an older man and a younger woman wearing costumes . <eos>
+an elderly indian man and woman in their home . <eos>
+0.0
+=======================
+three small children standing around a fire hydrant . <eos>
+three young children stand around a blue and white barrel . <eos>
+0.0
+=======================
+an old man is repairing the opposite side of the camera while holding a sign . <eos>
+an old man sweeps the floor as a lady walks away from the camera . <eos>
+0.0
+=======================
+two males are wrestling on a mat and the top of a body of water . <eos>
+two man are wrestling on a yellow and blue floor . <eos>
+0.1829565465450287
+=======================
+a man shovels tools while another man watches . <eos>
+a man jumps rope while a crowd of people watch him . <eos>
+0.0
+=======================
+the large brown dog and the black dog are in the middle of a street . <eos>
+big brown and white spotted dog laying on a jacket on the street . <eos>
+0.0
+=======================
+standing watch , a man walks away from a boat while the dog looks over . <eos>
+cop wrestle one man with his hand sticking up in the air as other <unk> watch . <eos>
+0.0
+=======================
+a man in a suit is talking on the street . <eos>
+a man in a coat talking on his phone on the street . <eos>
+0.4772091507911682
+=======================
+a young boy and a girl are having a good time while the other is playing a <unk> game . <eos>
+a young boy and girl are laughing together as the girl holds up a hand sign . <eos>
+0.1624355912208557
+=======================
+a woman and four children are walking a passing street . <eos>
+a woman and four children are crossing a busy street . <eos>
+0.5452468991279602
+=======================
+swimmers and their riders seen in the lap of a large window with the <unk> clouds in the lap . <eos>
+swimmers stand on various <unk> of a large diving board complex in a room with figures from <unk> painted on the wall . <eos>
+0.0
+=======================
+a man wearing a gray cap and plaid shirt who is laying down with a wrench . <eos>
+a man in a gray hat and tank top with black shorts doing a handstand . <eos>
+0.0
+=======================
+a little boy is laying on a wooden floor with his feet around a christmas tree . <eos>
+a young boy laying on a hospital bed with his leg over the side . <eos>
+0.0
+=======================
+a crowd of people standing in front of the road on a busy sidewalk . <eos>
+a crowd of people stand in street in front of a series of white tents . <eos>
+0.2380148470401764
+=======================
+a man wearing brown is holding a sign . <eos>
+a man dressed in brown holding a light <unk> . <eos>
+0.0
+=======================
+a couple of people on a boat looking very excited as the number <unk> clouds . <eos>
+some men appear to be discussing something on a boat or ship . <eos>
+0.0
+=======================
+a brown dog is running behind a black volleyball <eos>
+a brown dog is running after the black dog . <eos>
+0.3866252601146698
+=======================
+a fit woman with body hour cleans into a tent with a blue star - up shirt . <eos>
+a fit young woman is kickboxing with a red punching bag at a gym . <eos>
+0.0
+=======================
+two shirtless children are sitting near a pile of <unk> on the beach . <eos>
+two children without shirts on sit at the edge of a fountain . <eos>
+0.0
+=======================
+a boy in black is climbing a rock on the beach . <eos>
+a boy in black clothes is doing a cartwheel on the beach . <eos>
+0.47163814306259155
+=======================
+a mother and her son are smiling as they go over the ocean . <eos>
+a mother and son smiling as they sled downhill . <eos>
+0.0
+=======================
+the hockey group members <unk> for an event during the day . <eos>
+a crew of cycling member getting ready for a race . <eos>
+0.0
+=======================
+a woman in a green shirt walking down a street . <eos>
+a woman in a green shirt is walking down a crowded street . <eos>
+0.5383782982826233
+=======================
+three white males wearing jerseys jumping into the air . <eos>
+three white men in t - shirt jump into the air . <eos>
+0.3364425599575043
+=======================
+a big black dog runs over a snow covered grass . <eos>
+a large black dog runs along a fence in the grass . <eos>
+0.0
+=======================
+a girl is carrying a large white umbrella using some furniture . <eos>
+a girl is wearing a large blue and red hat . <eos>
+0.0
+=======================
+a motocross rider wearing a green riding down a street . <eos>
+a trailer drives down a red brick road . <eos>
+0.0
+=======================
+a man and two women dressed in black , walking down a street <eos>
+one man and two women wearing shorts , walk down the street . <eos>
+0.2114214152097702
+=======================
+a group of people wearing yellow and black t - shirts stand in the middle of a hockey field . <eos>
+a group of people in purple shirts and tan pants all walking in the same direction . <eos>
+0.1624355912208557
+=======================
+a man wearing a bandanna and glasses is holding a partially cup . <eos>
+a man in a suit and glass has an object in his hands . <eos>
+0.0
+=======================
+a man is in an alleyway as he looks at a new york machine . <eos>
+a man in his living room ponders packing for a trip . <eos>
+0.0
+=======================
+the three children in a fake toy . <eos>
+the three children are in a cage . <eos>
+0.0
+=======================
+street vendors are partially <unk> with their carts on them . <eos>
+street vendor <unk> merchandise on the table . <eos>
+0.0
+=======================
+children <unk> in an school <unk> . <eos>
+kids being <unk> around in a glass spinner . <eos>
+0.0
+=======================
+a baseball player <unk> himself while his teammate is <unk> by the opposing player in his mitt . <eos>
+a baseball player kicks up dirt sliding in front of a catcher . <eos>
+0.0
+=======================
+a young gentleman wearing sunglasses and a black sweater is playing a keyboard . <eos>
+a young adult wearing jeans and a camouflage t - shirt playing a black electric guitar . <eos>
+0.0
+=======================
+three people are running on a trail up the water . <eos>
+three people are running a race around a red track . <eos>
+0.2620251178741455
+=======================
+a person is standing beside a tree has hanging off the ground . <eos>
+a person is standing next to a wooden fence with <unk> trees nearby . <eos>
+0.20458072423934937
+=======================
+a child does a handstand on a rock wall . <eos>
+a child is doing a back flip whilst jumping on a trampoline . <eos>
+0.0
+=======================
+a 5 man is performing on a stage . <eos>
+a three man band is performing on stage . <eos>
+0.0
+=======================
+three older people , in a museum , one in an office , taking a nap to be placed on the steps . <eos>
+three older women in a living room , decorated for christmas , a " <unk> " notebook is the center of attention . <eos>
+0.0
+=======================
+a hiker poses for a photo at a wedding in a colorful outfit . <eos>
+a hiker posing for a photo in an arid mountain landscape . <eos>
+0.0
+=======================
+a group of girls play in a lake during the day . <eos>
+a group of girls are playing in a water fountain in the sun . <eos>
+0.23073676228523254
+=======================
+a boy with a large flag is peeking out at a park . <eos>
+a boy with a mohawk chasing geese in a park . <eos>
+0.3555670380592346
+=======================
+a group of young people lounging in the sand on a rocky day . <eos>
+a group of young people posing in the air on a sandy beach . <eos>
+0.34460732340812683
+=======================
+a woman celebrating by a couple 's picture . <eos>
+a woman is taking a picture with her camera . <eos>
+0.0
+=======================
+six people in a group of six people holding a bow . <eos>
+six people are in a gymnasium working on repairing some bicycles . <eos>
+0.0
+=======================
+a man in a blue shirt swinging at a baseball . <eos>
+a man in a blue shirt blowing a trumpet . <eos>
+0.4832697808742523
+=======================
+an elderly man in blue and white coat writing on a brick wall . <eos>
+an older male in blue jeans and brown coat is resting against an orange building . <eos>
+0.0
+=======================
+a black dog stands in the grass holding a green bird in the background . <eos>
+a black dog standing in some grass holding a white plastic item in its mouth . <eos>
+0.0
+=======================
+two soccer teams , one in white , the other wearing blue , walking along a field . <eos>
+two <unk> , one red and one white , are making a big splash in the water . <eos>
+0.0
+=======================
+a man and a woman are playing a game . <eos>
+a man and woman playing a game outside . <eos>
+0.0
+=======================
+a woman in yellow pants and a man wearing a yellow shirt walking across a waterfront area filled with brown houses . <eos>
+a woman in yellow with a stroller , and a man in a blue shirt with a backpack are walking on a busy city block . <eos>
+0.15594473481178284
+=======================
+a person is walking down the street , <unk> of the <unk> safety clothing . <eos>
+a person crosses the street and <unk> the <unk> of paint . <eos>
+0.0
+=======================
+small boy in an orange uniform standing on a cement platform surrounded by tall trees . <eos>
+small dog in costume stands on hind legs to reach <unk> flowers . <eos>
+0.0
+=======================
+three large dogs are running around the shore in the ocean . <eos>
+three large dogs enjoy a <unk> in the snow . <eos>
+0.0
+=======================
+two motorcyclist spray something onto a tree bridge . <eos>
+two motorcyclists racing neck and neck around a corner . <eos>
+0.0
+=======================
+a man in a bowtie and goggles is fishing with flowers on top of him . <eos>
+a man in a skirt is jumping while juggling knives . <eos>
+0.17694973945617676
+=======================
+a man and a woman are sitting on a bench overlooking the ocean , while two people watch . <eos>
+a man and woman sit on a bench , watching a boat go by . <eos>
+0.0
+=======================
+there is a young boy , dressed in red and white , and a boy with a soccer head are practicing for a goal . <eos>
+there is a young woman dressed in green and red with a mexican flag face - painted on her cheek . <eos>
+0.14153943955898285
+=======================
+four people outside in purple and black are standing outside . <eos>
+four people in casual clothing are standing outside holding garbage bags . <eos>
+0.0
+=======================
+two little girls in blue dresses are hula hooping . <eos>
+two little girls in blue dresses laugh . <eos>
+0.5193071961402893
+=======================
+a group of men wearing colorful clothing and hats perform together outside . <eos>
+a group of women dances <unk> style in colorful outfits and makeup . <eos>
+0.0
+=======================
+a boy is sitting in a swing . <eos>
+a boy rides a swing . <eos>
+0.35494810342788696
+=======================
+a group of people walking on a train track . <eos>
+a group of people running a <unk> marathon . <eos>
+0.2899784445762634
+=======================
+a person hiking on a ski board . <eos>
+a person <unk> on the crest of a wave . <eos>
+0.0
+=======================
+two running soccer run across the field . <eos>
+two poodles are running through the snow . <eos>
+0.0
+=======================
+a woman wearing a pink helmet is using a machine . <eos>
+a woman wearing a yellow helmet is using a <unk> . <eos>
+0.4659538269042969
+=======================
+there is a football team wearing white and red , white , and red . <eos>
+this football team wears red shirts and red helmets . <eos>
+0.0
+=======================
+a young blond boy is climbing onto the bed . <eos>
+a young blond boy is jumping from bed to bed . <eos>
+0.42846977710723877
+=======================
+a guy spray something on a wire cliff behind some stairs . <eos>
+a guy grinds a windowsill near an old <unk> <eos>
+0.0
+=======================
+two boys are kicking a green ball to kick the net , while kicking leaves in an urban setting . <eos>
+two boys inside a fence jump in the air while holding a basketball . <eos>
+0.0
+=======================
+two children are using grinding into the ground . <eos>
+<unk> children dig holes in the dirt . <eos>
+0.0
+=======================
+boy does skateboard trick on a skateboard <eos>
+boy doing tricks on a skateboard <eos>
+0.3655552268028259
+=======================
+many asian children are performing an arts together on a concrete wall . <eos>
+many asian children made a train under a <unk> <unk> sign . <eos>
+0.0
+=======================
+two children are dancing at a martial arts class . <eos>
+two kids dancing at a dance <unk> . <eos>
+0.0
+=======================
+the little brown dog in the <unk> snow and has pink goggles . <eos>
+the small brown dog is amidst the potted plants and fallen leaves . <eos>
+0.0
+=======================
+a blond woman wearing a multicolored sundress makes a flip as he walks across the fountain . <eos>
+a blond women in a brown cowboy hat makes an <unk> gesture toward the camera . <eos>
+0.0
+=======================
+a snowboarder is performing a trick . <eos>
+a snowboarder is doing a trick . <eos>
+0.5
+=======================
+a little girl plays with a pink and gold - hoop out that is filled with toys to <unk> . <eos>
+a little girl plays with an miniature electric circuit consisting of three light <unk> and a battery . <eos>
+0.21377722918987274
+=======================
+a woman is reading a newspaper while sitting at the table as another man uses a step platform to stop in the photo . <eos>
+a woman is reading a card while sitting on an end of a couch , while another woman is standing next to her holding a glass to drink . <eos>
+0.15901444852352142
+=======================
+a man in a bright orange shirt standing in the middle of a road as he comes in the background . <eos>
+a man in a brightly - colored ski jacket stands with others on a european street . <eos>
+0.13364127278327942
+=======================
+a flock of people walking across the woods . <eos>
+a mass of people walk through the park . <eos>
+0.0
+=======================
+a boy is holding onto another boy onto the check . <eos>
+one boy <unk> another boy up on his back . <eos>
+0.0
+=======================
+a man dressed in black with a brown bandanna and a bandanna is in the middle of a move . <eos>
+a <unk> - and - <unk> - haired man with beard and glasses wearing black sits on the grass . <eos>
+0.0
+=======================
+person driving a <unk> ski dirt bike high in the air . <eos>
+a person on a snowmobile in mid jump . <eos>
+0.0
+=======================
+a couple sitting on a bench watching a woman with purple dog <eos>
+a couple sits on a bench talking , while a woman walks a dog in the background . <eos>
+0.0
+=======================
+a man is asleep in front of a wall . <eos>
+a man crouches in front of a yellow wall . <eos>
+0.37817904353141785
+=======================
+a little girl is <unk> a <unk> bubble in the <unk> room to play an ice cream cone . <eos>
+a little girl <unk> to the <unk> army near a storefront with white , plastic containers . <eos>
+0.0
+=======================
+a man is checking a guitar to put on a grill in the park while reading a newspaper . <eos>
+a man <unk> in a chair on a city sidewalk girl watching . <eos>
+0.0
+=======================
+three people sitting at a table outside of a store at night . <eos>
+three people are sitting outside at a table with artwork leaning against it . <eos>
+0.0
+=======================
+a busy outdoor market with young children and adults <unk> with their hands , <unk> as they play inside the water . <eos>
+a room full of sitting and standing adults and children , and eight pink and black balloons hanging from the ceiling . <eos>
+0.0
+=======================
+a woman with reddish hair and a man in <unk> wear are dancing . <eos>
+a woman with purple hair and a man in military <unk> . <eos>
+0.3703047037124634
+=======================
+three men are competing in a fencing of race . <eos>
+three men competing in a hurdle race . <eos>
+0.0
+=======================
+a boy and a girl dressed in black each suits are standing in front of a girl dressed in yellow wearing white in a bowling alley . <eos>
+a boy and girl in black jumpsuits stand facing a girl in a pink jacket , with adults in the background . <eos>
+0.0
+=======================
+an old man sits on a stool with his hands . <eos>
+an old man sits with a tray in his lap . <eos>
+0.2790159285068512
+=======================
+women in african garb are playing with light . <eos>
+women in ethnic clothing sing together . <eos>
+0.0
+=======================
+boys and girls enjoying a day in a <unk> day . <eos>
+boys and girls from an eastern <unk> smiling in a field . <eos>
+0.0
+=======================
+the man is talking on the cellphone in front of a brick building . <eos>
+the man is talking on his cellphone in front of a sports store . <eos>
+0.5303624868392944
+=======================
+two men are sitting down having a conversation . <eos>
+two men sit around a shiny grill . <eos>
+0.0
+=======================
+two women sitting on the steps in public area look out at a crowded public area . <eos>
+two women sitting in silver chairs waiting for a train or subway in an indoor station . <eos>
+0.0
+=======================
+a little girl in a striped dress is playing with her ball in a large puddle by water . <eos>
+a little girl in a checkered dress plays with her big blue ball near a mesh fence . <eos>
+0.24688498675823212
+=======================
+an elderly woman with a blue hat is sitting on the sidewalk , and the passenger is on a wall looking at something . <eos>
+an elderly woman wearing a blue hat is sitting on the sidewalk chopping something yellow on a board beside her . <eos>
+0.3774154782295227
+=======================
+an extreme biker flies over the ocean on a snowy trail . <eos>
+a helmeted biker flying off a ramp in the woods . <eos>
+0.0
+=======================
+a yellow , <unk> worker holds a line as he stands in front of a golden expanse of snow . <eos>
+scene of a person shoveling snow citizens walking around in a cold winter environment <eos>
+0.0
+=======================
+people walk on a sidewalk past a painted tree . <eos>
+people are walking down a sidewalk where there is an outdoors market . <eos>
+0.0
+=======================
+a little boy with a red and red striped shirt plays with a toy puppy . <eos>
+a toddler boy with a pacifier and a red shirt plays with a garden hose . <eos>
+0.257722944021225
+=======================
+a group of people are running in a marathon in the country . <eos>
+a group of people running a marathon in the winter . <eos>
+0.40016016364097595
+=======================
+girl sitting in the floor with a smile . <eos>
+girls sitting with their hands on their laps <eos>
+0.0
+=======================
+several people walk along a long - white set of a lady in a running walk . <eos>
+several people are walking beside a white fence in a foreign country . <eos>
+0.0
+=======================
+a group of people in a boat on a large body of water . <eos>
+a group of people are in a boat on a large body of water . <eos>
+0.8196501135826111
+=======================
+this man is wearing a white hard hat , scarf , and blue scarf . <eos>
+this man is wearing a white cap or hat . <eos>
+0.34899812936782837
+=======================
+a man with orange shoes stands behind the camera . <eos>
+a man is wearing a gold outfit while standing with his gold bike . <eos>
+0.0
+=======================
+two people are eating together as they are <unk> around in a metal or shop . <eos>
+two people eat hamburgers on lawn chairs while a third drinks a can of soda . <eos>
+0.0
+=======================
+a black man wearing a hat is sitting on a wheel . <eos>
+a black man , wearing a cap , is sitting in a bus . <eos>
+0.0
+=======================
+two men are rowing in a boat on a tall tree boat with tall trees . <eos>
+two man are paddling a kayak along a river with green trees on either side . <eos>
+0.0
+=======================
+man in a blue helmet riding a dirt bike that is in a helmet . <eos>
+man wearing blue helmet <unk> into traffic on a bicycle . <eos>
+0.0
+=======================
+a man is throwing <unk> to the little boy , who is trying to swing off . <eos>
+a man plays a drum and a little boy hits his own , little drum . <eos>
+0.0
+=======================
+a <unk> and a track <unk> are taking a break from jumping over the water . <eos>
+a man and woman <unk> checking on a very large tiger laying on the ground . <eos>
+0.0
+=======================
+a boy in a swimming pool holds a fishing stick . <eos>
+a boy in a hoodie is throwing an object into a dirty swimming pool . <eos>
+0.21139352023601532
+=======================
+a man is standing on a ladder to spray paint a truck . <eos>
+a man stands on scaffolding painting a wall in a <unk> color . <eos>
+0.0
+=======================
+people are gathered at what appears to be playing and at night . <eos>
+these are people gathered around the table playing jenga . <eos>
+0.0
+=======================
+a man wearing a helmet and a helmet walk down a street , with spectators watching a soccer ball . <eos>
+a man wearing riding boots and a helmet is riding a white horse , and the horse is jumping a hurdle . <eos>
+0.0
+=======================
+a woman getting ready to snap a photo at a train station . <eos>
+a woman getting a bag of ice at a store . <eos>
+0.0
+=======================
+young people are swimming with a kiss . <eos>
+young people are engaged in a game . <eos>
+0.0
+=======================
+a child on the beach , looks out at the window on a sunny day . <eos>
+a child that is on the bank of a lake pointing something out in the sky . <eos>
+0.0
+=======================
+four men standing near a yellow truck . <eos>
+four men standing near a yellow car . <eos>
+0.660632848739624
+=======================
+man and woman wearing black , walking on the sidewalk . <eos>
+man and woman in black stand close together on the street . <eos>
+0.0
+=======================
+a soccer player in a black uniform is running through the field . <eos>
+a soccer team player in a green shirt is running off the field . <eos>
+0.29155510663986206
+=======================
+a person is riding a go - wheel wave that does ready . <eos>
+a person is riding his dirt bike . <eos>
+0.2114214152097702
+=======================
+a group of people stand in a line on a dirt trail . <eos>
+a group of people stand in a loose line on a brick ground . <eos>
+0.5336129665374756
+=======================
+a man <unk> a rock over some water . <eos>
+a man is rolling a circular table across the floor . <eos>
+0.0
+=======================
+a man in a white t - shirt playing the sidewalk <eos>
+a man in a white shirt plays the violin on the streets . <eos>
+0.3018135726451874
+=======================
+a man and two children are crossing a street . <eos>
+a man and two children crossing a street . <eos>
+0.7016879320144653
+=======================
+a young child swings a red bat at his feet . <eos>
+a small child swings back a red baseball bat . <eos>
+0.0
+=======================
+a little baby wearing yellow is smiling as she poses for a picture . <eos>
+a young baby , dressed in a pink fleece outfit , smiles while laying in autumn leaves . <eos>
+0.0
+=======================
+a woman and child sitting at a table together with a large white and yellow balloon as they can be seen , taking pictures . <eos>
+a woman and a child sit together in a door frame along a gray sidewalk , as a man and two women walk past . <eos>
+0.0
+=======================
+a woman wearing a white t - shirt and black pants is making a drink together for a crowd of people . <eos>
+a woman in a white shirt and black pants hula hoops as a large group of people look on . <eos>
+0.17106762528419495
+=======================
+a man and a woman , both in hats , are walking by some stairs in urban winter . <eos>
+a man and woman pushing strollers are walking by some people who are selling items in tents . <eos>
+0.20313747227191925
+=======================
+two people laying on a wooden bench with a backpacks . <eos>
+two people are climbing a rock wall with a rope . <eos>
+0.0
+=======================
+two street hockey girls play on stage . <eos>
+two <unk> play on the wood floor of their home . <eos>
+0.0
+=======================
+a man in an orange suit happily gathering . <eos>
+a man in an orange robe sweeping outside . <eos>
+0.45180100202560425
+=======================
+two young ladies walking down a street in high clothes . <eos>
+two youths walk down an inclined street . <eos>
+0.0
+=======================
+this is one of those on the east blue team , and <unk> clothing on the east side as an <unk> moment before him . <eos>
+an asian fruit and vegetable vendor 's selection of bananas , oranges , melons and more in his small boat . <eos>
+0.0
+=======================
+there is a man on a ladder either working with the bag of the man 's left on the door . <eos>
+there is a cafe on a street corner with an <unk> painting on the corner of its building . <eos>
+0.0
+=======================
+man jumping down a concrete railing on the edge of a mountain . <eos>
+man sliding down stair <unk> on a bike . <eos>
+0.0
+=======================
+a happy football player , with an injured - <unk> , standing in the background , with a <unk> look on his face . <eos>
+a rollerblading monk with some nice sunglasses <unk> before doing some <unk> tricks . <eos>
+0.0
+=======================
+a <unk> 's <unk> with a closed sign , his <unk> player and a watch right in the right . <eos>
+a male metal worker using a welding tool in his right hand , while holding the mask in his left hand , in a mid - lower or lower class neighborhood . <eos>
+0.0
+=======================
+a man holds a baby while leaning on a fence . <eos>
+a man holds an infant while leaning against a building . <eos>
+0.0
+=======================
+a woman wearing a white and white swim uniform leaps through the air . <eos>
+a woman in a white tennis outfit is jumping up to hit the ball . <eos>
+0.0
+=======================
+two men building a small <unk> in a grassy field . <eos>
+two men setting up a blue ice fishing hut on an iced over lake <eos>
+0.0
+=======================
+a crowd of men walk down the street in a dark city . <eos>
+a couple of men walking on a public city street . <eos>
+0.0
+=======================
+the brown dog is wearing a black t - shirt . <eos>
+the brown dog is wearing a black collar . <eos>
+0.5706745982170105
+=======================
+the people are marching <unk> in an arena and the canadian <unk> . <eos>
+the people are dressed in heavy layered clothing , and are <unk> together . <eos>
+0.0
+=======================
+a <unk> cyclist rides down the street in a large <unk> of dirt . <eos>
+a <unk> rides a large green tractor down the road during a parade . <eos>
+0.0
+=======================
+a man sits in a <unk> chair behind a building entrance , a business - like business . <eos>
+a man sits at brightly colored green and blue booth with <unk> behind him on the street . <eos>
+0.0
+=======================
+a man with a beard and leather jacket is sitting in a folding chair with a exposed cart . <eos>
+a bearded man in a heavy jacket sits in a corner with a paper cup . <eos>
+0.0
+=======================
+a woman and her two kids are at the beach getting caught in the water <eos>
+a woman and her two kids are on the beach and the woman is leaping high into the air . <eos>
+0.317024290561676
+=======================
+a group of people waiting , as the bus behind them . <eos>
+a group of people wait behind a barricade and look toward the right . <eos>
+0.211885467171669
+=======================
+a yellow dog is jumping in the air on a beach , in a fenced field . <eos>
+a yellow dog carries a ball in its mouth on the beach . <eos>
+0.0
+=======================
+an asian girl in a green hat and colorful apron at fish . <eos>
+an asian girl in a green hat and apron is serving drinks on a tray . <eos>
+0.46470412611961365
+=======================
+a woman in a restaurant is conversing with a <unk> sign . <eos>
+a woman in a restaurant is drinking out of a coconut , using a straw . <eos>
+0.32406744360923767
+=======================
+a child in an orange shirt is jumping while other children are looking at hay . <eos>
+a child in an orange shirt jumps off bales of hay while other children watch . <eos>
+0.39846810698509216
+=======================
+a man , who is not , is working on the <unk> of his boat , which he is in midair , near an empty bar . <eos>
+a man that looks like he has been hit is lying on the ground in front of some junk . <eos>
+0.0
+=======================
+woman in a grocery store at <unk> in front of a mountain <eos>
+woman in coat outside a house while snowing <eos>
+0.0
+=======================
+a little , redheaded girl in a karate competition in a field . <eos>
+a little redheaded girl wears a spider - man suit while riding a play horse . <eos>
+0.0
+=======================
+a brunette woman stands on the sidewalk looking down at the road . <eos>
+a brunette woman is standing on the sidewalk looking down the road . <eos>
+0.5333505272865295
+=======================
+two women are sitting on a bench outside in front of a cafe . <eos>
+two women sitting on a bench at night in front of a store <eos>
+0.3703047037124634
+=======================
+many people are standing by a blue awning that is on a playground set with bright gold . <eos>
+many people standing by a fountain underneath a blue and white umbrella . <eos>
+0.0
+=======================
+a man is playing a keyboard while singing into a microphone . <eos>
+a man playing a keyboard and singing into a microphone . <eos>
+0.5266404151916504
+=======================
+an older looking woman is looking through the distance as they chat . <eos>
+a elderly white - haired woman is looking inside her register and looking through her glasses . <eos>
+0.0
+=======================
+a fitness class , including a woman before a class as he takes a nap . <eos>
+a scuba diving class taking a picture during class time . <eos>
+0.0
+=======================
+a man with a camera on his shoulder videotaping a food food in a police store . <eos>
+a man with a tattoo on his arm cooking something in a frying pan . <eos>
+0.20105373859405518
+=======================
+a man is pushing a shopping cart on the street . <eos>
+a man is pushing chairs on a busy street . <eos>
+0.3264971077442169
+=======================
+a man without a shirt on is doing a skateboard trick on a skateboard . <eos>
+shirtless male <unk> doing trick at a skate park . <eos>
+0.0
+=======================
+a young boy is showing his <unk> full of <unk> . <eos>
+a young boy shows his brown and green bead necklace . <eos>
+0.0
+=======================
+women in formal clothing compete in a game of volleyball . <eos>
+women in beach bikinis play volleyball in the sunny weather . <eos>
+0.0
+=======================
+a man with a blue hat is holding a glass standing on the sidewalk . <eos>
+a man with a blue backpack reads the paper while waiting to board the subway . <eos>
+0.25576359033584595
+=======================
+a group of people walking . <eos>
+a group of people are running . <eos>
+0.4238365590572357
+=======================
+a crowd of people at a skate park and some mountains . <eos>
+a crowd of people at a city festival with smoke and fireworks <eos>
+0.40896016359329224
+=======================
+a group of workers are gathered at the bank of a few line . <eos>
+a group of workers are listening to <unk> from a <unk> . <eos>
+0.29256126284599304
+=======================
+a group of people are enjoying a meal at a carnival outdoors . <eos>
+several people are enjoying a cigarette near an <unk> . <eos>
+0.2114214152097702
+=======================
+a young , yellow , <unk> youth in the air as he thrown off the other in a field <eos>
+a young helmeted biker in blue takes to the air while going over small hills . <eos>
+0.0
+=======================
+man looking into a microphone as a man in headphones watches . <eos>
+man looks on as woman is talking while at a bar . <eos>
+0.0
+=======================
+a older lady in an orange sweatshirt is smiling for a picture . <eos>
+an older lady in a gray and red sweater is cooking on a meal . <eos>
+0.0
+=======================
+a man giving a speech in front of a crowd of people <eos>
+a man is giving a presentation in front of a crowd . <eos>
+0.3805803060531616
+=======================
+in an open area , a man <unk> away <unk> as a yellow car <unk> on the rope . <eos>
+soft large <unk> are being stacked on a <unk> in an industrial environment by one man as another looks on . <eos>
+0.0
+=======================
+two <unk> sit in a classroom that involves <unk> in the american hands , involves their hands out on the <unk> . <eos>
+two <unk> sit perched on horses , dressed in <unk> ceremonial wear , each holding a <unk> in their right hand , <unk> to the horse in their left . <eos>
+0.0
+=======================
+a man and a woman on a scooter . <eos>
+a man and woman sleeping on a bench . <eos>
+0.0
+=======================
+men in yellow and yellow uniforms are on stage holding a drum , <unk> to the man . <eos>
+men wearing yellow suits are on stage with a piano and one man is playing an upright bass . <eos>
+0.0
+=======================
+one man hands another man in a bowling alley . <eos>
+a man tackles another man while playing football . <eos>
+0.0
+=======================
+two men are performing dance moves on the same floor . <eos>
+two men are setting up some electronic <unk> <eos>
+0.0
+=======================
+a little blond - haired girl is standing on a blanket and relaxing on the floor . <eos>
+a young blond girl standing on a pillow on a bed smiling with her eyes closed . <eos>
+0.0
+=======================
+a large dog jumping in a crowd while a man wearing a black shirt has thrown something . <eos>
+a large dog is jumping in a fountain while a man in a black t - shirt and vest stands nearby . <eos>
+0.0
+=======================
+a blond - haired boy in a blue shirt is standing in front of an asian style building , with <unk> looking out over the background . <eos>
+a blond boy in a blue t - shirt stands smiling before a craft of green <unk> fabric . <eos>
+0.12500762939453125
+=======================
+two hockey players are preparing to get the puck as the puck in this match and puck at the goal . <eos>
+two hockey players ready to start the game with the ref by them about to drop the puck . <eos>
+0.0
+=======================
+a man is sitting in a metal chair . <eos>
+a man is parked while inside of a <unk> truck . <eos>
+0.0
+=======================
+a bird flies through the water . <eos>
+a bird flies across the water . <eos>
+0.5
+=======================
+a man steps through his shoulder as he is <unk> a woman 's drink . <eos>
+a man moving flowers while a woman makes a gesture at him . <eos>
+0.0
+=======================
+a man in a white shirt doing <unk> . <eos>
+a man in a white shirt is making shish <unk> . <eos>
+0.5387551188468933
+=======================
+construction workers are working on a scene of an orange construction truck . <eos>
+there are construction workers working hard on a project . <eos>
+0.0
+=======================
+a kid is about to be thrown out in a backyard kitchen . <eos>
+a child is <unk> about to bite into a mushroom . <eos>
+0.0
+=======================
+an african american woman wearing a plaid dress holding a microphone as a man standing by . <eos>
+an african - american woman sits at a brown table , wearing a purple dress , pink shoes , and black sunglasses . <eos>
+0.0
+=======================
+a man and a woman are talking , while standing next to a tree that is covered behind . <eos>
+a man and a woman talk while standing next to a tree . <eos>
+0.44476088881492615
+=======================
+a woman standing on a dock over a tree , while throwing the <unk> . <eos>
+a woman standing on a high cliff on one leg looking over a river . <eos>
+0.2934712767601013
+=======================
+two people are walking across a street . <eos>
+two people walking across a street . <eos>
+0.660632848739624
+=======================
+a man in a black wetsuit surfs in a wave . <eos>
+a man in a black wetsuit is surfing on a wave . <eos>
+0.5833510756492615
+=======================
+a woman at graduation is doing yoga on the railroad tracks . <eos>
+a woman working on her deck on the <unk> . <eos>
+0.0
+=======================
+an indian man sits in a chair next to a restaurant . <eos>
+an indian man sits outside of a restaurant at a table . <eos>
+0.26911091804504395
+=======================
+two dogs running in the snow . <eos>
+two dogs are running and playing in the snow <eos>
+0.0
+=======================
+construction workers stand upon a rail . <eos>
+construction workers standing on top of a piece of machinery . <eos>
+0.0
+=======================
+a woman carries a baby in her hand while another boy carries a net on her lap . <eos>
+a woman applies face paint while a boy with a mohawk holds a mirror . <eos>
+0.0
+=======================
+an indian man walking away from the bike past a sign that look from . <eos>
+an indian man walks past a temple on his way to pray . <eos>
+0.0
+=======================
+a man in a light green shirt is playing a trumpet . <eos>
+a man in a bright shirt is playing trumpet . <eos>
+0.3574046492576599
+=======================
+kids splashing in shallow water . <eos>
+children <unk> in water from large drums . <eos>
+0.0
+=======================
+a group of soccer players in blue shirts play in a snowy area . <eos>
+a group of black people performing in orange shirts in front of a fenced off park . <eos>
+0.0
+=======================
+a person throws a pink and white surfboard over a snow volleyball . <eos>
+a person about in the middle of throwing a green bowling ball down a bowling lane . <eos>
+0.0
+=======================
+a woman wearing a crown begins to form - like material in front of a school van . <eos>
+a woman carrying a <unk> joe 's grocery bag has fallen asleep on the train . <eos>
+0.0
+=======================
+a woman in a blue shirt and sneakers pants weaving a newspaper . <eos>
+a woman in a blue shirt and jeans is throwing something away in a dumpster . <eos>
+0.3965587615966797
+=======================
+a guy taking a picture in a park <eos>
+a guy is doing a bike trick in a park . <eos>
+0.0
+=======================
+a band is performing for a crowd of people in front of a fired band . <eos>
+a band plays a rock show to a bar audience . <eos>
+0.0
+=======================
+a little boy throws water into a swimming pool . <eos>
+a young boy , throwing a stone into calm water . <eos>
+0.0
+=======================
+a waiting vending <unk> is showing off what i <unk> is an <unk> . <eos>
+a boy band and no one even matches someone should have <unk> a <unk> . <eos>
+0.0
+=======================
+a brown , black and white dog is on a dirt path . <eos>
+a brown , black , and white dog barking up a tree . <eos>
+0.2942095696926117
+=======================
+two women stand in front of a bus and a wheelbarrow <unk> next to them . <eos>
+two women are standing in front of a class of children talking about a book . <eos>
+0.1992340385913849
+=======================
+the girl and the boy are sitting , waiting for a kiss . <eos>
+the girl and boy are kissing whilst sitting on a wooden bench . <eos>
+0.0
+=======================
+several men are using back of us to walk and other men talking to them . <eos>
+several men are praying while standing at the end of a table of food . <eos>
+0.0
+=======================
+five string school band members playing a game . <eos>
+five members of a band are playing a song . <eos>
+0.0
+=======================
+a long - haired man is <unk> his hair in the long room . <eos>
+a long - haired mail is swinging his wet hair around in the ocean . <eos>
+0.2251952439546585
+=======================
+a street performer wearing a <unk> is being <unk> while judges on a street . <eos>
+a street performer in an orange jumpsuit rides a tall unicycle as a crowd watches <eos>
+0.0
+=======================
+a woman in a black dress tries to cross a snow <unk> with a road scene . <eos>
+a woman in a black dress is pushing a cart with <unk> down a paved walkway . <eos>
+0.3293406069278717
+=======================
+a man and a woman are looking at a map on a barbecue . <eos>
+a man and woman enjoying dinner at a party . <eos>
+0.0
+=======================
+a young woman in a pink shirt is trying to throw a softball into a teammate . <eos>
+a young woman in a pink shirt attempting to rope a calf at the rodeo . <eos>
+0.38053709268569946
+=======================
+a man and a woman are getting married during a competition . <eos>
+a man and woman are working on <unk> a bike tire tube . <eos>
+0.0
+=======================
+a dog jumps in midair to catch a frisbee . <eos>
+a dog is jumping in the air to catch an orange frisbee . <eos>
+0.0
+=======================
+a girl and two girls getting out of their bag . <eos>
+a couple and two girls are looking over a clear railing . <eos>
+0.0
+=======================
+a man in the distance <unk> at a train station . <eos>
+a man off in the distance by a buddhist temple . <eos>
+0.0
+=======================
+<unk> is going to dry , while several people watch . <eos>
+green traffic <unk> light up as people look at motorcycles . <eos>
+0.0
+=======================
+a man and a woman are embracing on the street . <eos>
+a man and a woman hug on a street . <eos>
+0.4366835355758667
+=======================
+two boys in a kitchen getting money together at a party . <eos>
+two boys in a tent smile for the camera . <eos>
+0.22997520864009857
+=======================
+the big brown dog is chasing a small white dog outside . <eos>
+the large brown dog is chasing after the little brown dog . <eos>
+0.24712443351745605
+=======================
+0.24712443351745605

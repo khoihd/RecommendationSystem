@@ -1,0 +1,4057 @@
+ein kind auf dem fahrrad , die <unk> <unk> . <eos>
+ein jugendlicher übt <unk> <unk> auf einer skateboardrampe . <eos>
+0.0
+=======================
+ein junge in einem roten hemd versucht , etwas zu spielen . <eos>
+ein junge in einem roten t-shirt versucht , gitarre zu spielen . <eos>
+0.5266404151916504
+=======================
+zwei erwachsene , ein mit einem badekappe mit badekappe in einem <unk> kämpfen <eos>
+zwei <unk> , von denen eine einen lilafarbenen sport-bh trägt , kämpfen in einer arena . <eos>
+0.0
+=======================
+ein männliches junge mit einem roten kopfbedeckung und einem roten oberteil spielt in einem <unk> . <eos>
+ein kleiner junge mit einem schnuller und einem roten t-shirt spielt mit einem <unk> . <eos>
+0.27694132924079895
+=======================
+ein mann führt zwei kleine kinder auf einem grünen park . <eos>
+ein mann führt zwei kleine <unk> in einem park spazieren . <eos>
+0.3882726728916168
+=======================
+ein junge schaukelt auf einer schaukel . <eos>
+ein junge sitzt auf einer schaukel . <eos>
+0.5946035385131836
+=======================
+zwei braune hunde laufen auf dem gepflegten untergrund . <eos>
+zwei braune hunde ringen miteinander auf dem grasbewachsenen hügel . <eos>
+0.0
+=======================
+eine gruppe von <unk> sitzt bei einem zelt . <eos>
+eine gruppe von eltern sitzt bei einer versammlung im freien . <eos>
+0.0
+=======================
+ein älterer mann trägt eine schwarze schwarze schwarze <unk> . <eos>
+blonder mann in einer schwarzen <unk> formt eine skulptur . <eos>
+0.0
+=======================
+eine frau mit einer rosafarbenen rock sitzt auf einer bank . <eos>
+eine frau mit pinkfarbener tasche sitzt auf einer bank . <eos>
+0.5310725569725037
+=======================
+ein blauer schwimmer spritzt wasser im wasser wasser . <eos>
+ein blauer jeep fährt in tiefes , schlammiges wasser . <eos>
+0.0
+=======================
+ein schwarzer mann sieht einem anderen mann , der andere im stadtbrunnen spielt . <eos>
+ein schwarzer mann sieht einem anderen schwarzen mann beim baden im wasserfall zu . <eos>
+0.3850322961807251
+=======================
+ein mann wartet auf dem frau und zeichnen auf dem frau . <eos>
+mann beobachtet eine frau , die auf dem gehweg raucht . <eos>
+0.0
+=======================
+ein foto macht ein foto für ein foto . <eos>
+die teilnehmer eines <unk> machen ein foto während des <unk> . <eos>
+0.0
+=======================
+ein schwimmer schwimmt in einem schwimmbecken . <eos>
+ein schwimmer schwimmt in einem swimmingpool . <eos>
+0.5946035385131836
+=======================
+ein mädchen macht bei einem <unk> ein fußtritt macht vor den <unk> . <eos>
+ein mädchen bei einem <unk> vollführt eine <unk> übung und <unk> <unk> das publikum . <eos>
+0.0
+=======================
+eine junge frau mit einer maske lächelt vor einem gebäude . <eos>
+eine junge frau mit einer tasche steht vor einem gebäude und lächelt . <eos>
+0.4039323925971985
+=======================
+eine frau mit zwei taschen um zwei händen mit beiden händen und händen um ihren köpfen . <eos>
+frau mit zwei medaillen um den hals hält sieben finger nach oben . <eos>
+0.0
+=======================
+ein städtischen stadt bei einer städtischen städtischen stadt in der stadt . <eos>
+das ist eine belebte kreuzung in einer großstadt bei nacht . <eos>
+0.0
+=======================
+ein <unk> hält ein kamera und ein erwachsener zeigt auf das kamera die . <eos>
+ein <unk> hält eine kamera und zeigt einem kind den film auf der kamera . <eos>
+0.0
+=======================
+zwei mädchen gehen die straße entlang . <eos>
+zwei mädchen gehen eine straße entlang . <eos>
+0.5
+=======================
+viele personen in einem restaurant , viele menschen sind zu sehen . <eos>
+da sind viele menschen in einem gebäude und ein paar menschen kochen etwas zu essen . <eos>
+0.0
+=======================
+zwei männer in blauen anzügen und blauen hemden treten vor einer menschenmenge vor . <eos>
+zwei schwarz gekleidete männer mit einer grünen und einer roten fliege treten vor einer menschenmenge auf . <eos>
+0.17727121710777283
+=======================
+das bild eines mann bei einer frau und die frau mit <unk> die <unk> . <eos>
+das bild zeigt das spiegelbild eines mannes und einer frau an irgendeiner art von <unk> . <eos>
+0.0
+=======================
+ein blonder junge springt von seinem bett auf . <eos>
+ein kleiner blonder junge hüpft von bett zu bett . <eos>
+0.0
+=======================
+ein junger junger junger junger <unk> fliegt in die luft , um um er fliegt zu fangen . <eos>
+ein junger , <unk> fahrradfahrer in blau wird bei der fahrt über kleine hügel in die luft getragen . <eos>
+0.0
+=======================
+ein mann klettert mit einer <unk> mit einer <unk> hoch . <eos>
+ein mann klettert mit <unk> <unk> eine steile felswand hinauf <eos>
+0.24384181201457977
+=======================
+ein mann mit einem sweatshirt , der sitzt an einem brunnen sitzt , schaut in die sonne . <eos>
+ein mann mit einem <unk> sitzt an einem springbrunnen und beobachtet die menschen der stadt . <eos>
+0.21479173004627228
+=======================
+ein mann isst ein baby in einem baby . <eos>
+ein mann füttert ein baby in einem hochstuhl . <eos>
+0.35494810342788696
+=======================
+zwei kinder tanzen bei einer <unk> . <eos>
+zwei kinder tanzen bei einer <unk> . <eos>
+1.0
+=======================
+zwei bauarbeiter arbeiten mit einer <unk> in einem geschäftigen <unk> in der baustelle . <eos>
+zwei bauarbeiter helfen beim beladen eines <unk> auf einer <unk> baustelle . <eos>
+0.0
+=======================
+zwei hunde laufen auf einem feld und schauen sich zu schauen . <eos>
+zwei hunde rennen über ein feld und blicken dabei auf eine <unk> frisbeescheibe . <eos>
+0.0
+=======================
+eine frau in blauem hemd spielt ein instrument . <eos>
+eine frau in einem blauen t-shirt spielt ein instrument . <eos>
+0.47538524866104126
+=======================
+ein mann in einem blauen mantel macht sich mit zwei <unk> zwei <unk> . <eos>
+ein mann in einer blauen jacke wird auf seinem schlitten von zwei hunden gezogen . <eos>
+0.0
+=======================
+frauen gehen durch einen wald und einen <unk> und bergen . <eos>
+frauen gehen durch den tiefschnee einen steilen abhang hinunter . <eos>
+0.0
+=======================
+ein kleiner junge hebt <unk> <unk> <unk> . <eos>
+ein kleiner junge zeigt seine <unk> <unk> . <eos>
+0.43167001008987427
+=======================
+ein hund auf dem wiese , die nach unten blickt . <eos>
+ein hund auf einem grasbewachsenen feld blickt nach oben . <eos>
+0.0
+=======================
+ein kind sitzt auf seinen <unk> auf einer menschenmenge auf . <eos>
+ein kind sitzt in einer menschenmenge auf den schultern seines vaters . <eos>
+0.0
+=======================
+ein <unk> führt einen <unk> einen <unk> entlang . <eos>
+drei menschen wandern auf einem stark verschneiten weg . <eos>
+0.0
+=======================
+eine person in einem rosafarbenen oberteil malt eine bild mit einem weißen oberteil an . <eos>
+eine person in einem lilafarbenen oberteil malt ein bild von einer frau auf eine weiße wand . <eos>
+0.19303788244724274
+=======================
+ein mädchen , das sorgfältig um einen <unk> <unk> zu steigen klettert . <eos>
+ein kleines mädchen streckt die hand aus , um ein reh zu streicheln . <eos>
+0.0
+=======================
+eine frau in einem grünen oberteil , der ein <unk> eines <unk> <unk> . <eos>
+eine frau in einem grünen shirt liest vor ihrer klasse etwas von einem projektor ab . <eos>
+0.24763549864292145
+=======================
+ein kleines kind isst sich und isst ein strohhalm . <eos>
+ein kleines kind isst obst und trinkt ein glas saft . <eos>
+0.2737677991390228
+=======================
+männer und frauen warten auf einen <unk> . <eos>
+männer und frauen warten darauf , dass ein zug hält . <eos>
+0.25433140993118286
+=======================
+ein mann in <unk> in <unk> macht ein <unk> aus . <eos>
+ein mann überlegt in seinem wohnzimmer , was er für eine reise <unk> soll . <eos>
+0.0
+=======================
+die männer machen den spiel des . <eos>
+die männer kämpfen während des spiels . <eos>
+0.0
+=======================
+menschen überqueren einen <unk> , auf dem ein gebäude ein gebäudes vorbei zu überqueren . <eos>
+menschen überqueren eine <unk> straße vor einem gebäude . <eos>
+0.0
+=======================
+demonstranten machen ihre arbeit für den zug . <eos>
+<unk> an einem <unk> bereitet laden für den tag vor . <eos>
+0.0
+=======================
+ein mann am <unk> eines <unk> auf einem <unk> . <eos>
+ein mann stellt in der nähe des wassers den motor eines boots ein . <eos>
+0.0
+=======================
+ein <unk> hund springt in einem gelben ball in dem gelben maul . <eos>
+ein <unk> hund springt mit einem gelben ball im maul hoch . <eos>
+0.2942095696926117
+=======================
+eine menschenmenge steht bei der eines platz eines rennens . <eos>
+eine menschenmenge steht am <unk> eines marathons herum . <eos>
+0.0
+=======================
+der braune hund trägt einen schwarzen hund . <eos>
+der braune hund trägt ein schwarzes halsband . <eos>
+0.35494810342788696
+=======================
+ein älterer asiatischer mann bläst einen hammer , macht <unk> . <eos>
+ein älterer , übergewichtiger mann wendet einen pfannkuchen , während er frühstück macht . <eos>
+0.0
+=======================
+eine frau in schwarz spielt auf einer schwarzen gitarre . <eos>
+eine frau in weiß spielt auf einer schwarzen gitarre . <eos>
+0.7016879320144653
+=======================
+eine asiatische frau sitzt draußen im freien im <unk> . <eos>
+eine asiatin sitzt vor einem marktstand . <eos>
+0.0
+=======================
+drei frauen , die <unk> lachen . <eos>
+drei frauen sitzen da und lächeln . <eos>
+0.0
+=======================
+ein kleines mädchen geht neben einem kleinen <unk> . <eos>
+ein kleines mädchen geht an einem kleinen bach entlang <eos>
+0.32466790080070496
+=======================
+ein mann <unk> mit einem <unk> durch eine <unk> . <eos>
+ein mann wird in einem rollstuhl durch eine bibliothek geschoben . <eos>
+0.0
+=======================
+eine gruppe von chirurgen führt eine operation . <eos>
+eine gruppe schottischer offiziere gibt eine vorführung . <eos>
+0.0
+=======================
+ein mann und eine frau schauen auf einer party etwas . <eos>
+ein mann und eine frau genießen ein abendessen bei einer feier . <eos>
+0.3468625843524933
+=======================
+ein mann sitzt auf einer bank vor einem verlassenen gebäude . <eos>
+ein mann sitzt auf den stufen vor einer haustür . <eos>
+0.27091991901397705
+=======================
+drei männer fahren bei pferden bei einem rennen . <eos>
+drei männer auf pferden während eines rennens . <eos>
+0.0
+=======================
+in einer stadtstraße voller <unk> voller <unk> . <eos>
+an einer straße in der stadt befinden sich viele schilder auf <unk> . <eos>
+0.0
+=======================
+die rugbyspieler schauen sich den rücken zu den himmel an den <unk> . <eos>
+<unk> blicken auf ein herz , das von einem <unk> am himmel <unk> wurde . <eos>
+0.0
+=======================
+eine frau in einem blauen oberteil und jeans gießt etwas in ein <unk> . <eos>
+eine frau in einer blauen bluse und jeans wirft etwas in einen müllcontainer . <eos>
+0.0
+=======================
+ein mann in einer <unk> spricht in ein mikrofon . <eos>
+ein mann in einer <unk> spricht in ein mikrofon . <eos>
+1.0
+=======================
+ein mann isst sich in einem <unk> mit <unk> isst . <eos>
+ein mann liegt mehrere <unk> in seinem zimmer herum , ohne etwas zu essen . <eos>
+0.0
+=======================
+zwei große hunde springen auf einer wiese . <eos>
+zwei große hunde tollen auf einem grasbewachsenen feld . <eos>
+0.0
+=======================
+ein mädchen in einem roten oberteil und mit einem weißen ball macht sich bereit zum ball vor . <eos>
+ein mädchen in einem rot-weißen t-shirt und blauen shorts macht sich bereit , einen ball zu werfen . <eos>
+0.21479173004627228
+=======================
+zwei kinder , eines eines gras , eines die blauen , , , , , , , , , , liegen , liegen . <eos>
+zwei kinder springen auf einem <unk> blau-schwarzen trampolin , das von bäumen umgeben ist . <eos>
+0.0
+=======================
+ein mann mit brille hält sich in der hand etwas an der <unk> . <eos>
+ein mann mit brille am mikrofon blickt auf irgendein <unk> hinunter . <eos>
+0.2033344954252243
+=======================
+junge frauen und frauen sitzen in einer <unk> und mit ihnen ist die bild in die kamera . <eos>
+junge frauen und kinder in einem dorf , wobei eine einzelne frau in die kamera blickt . <eos>
+0.0
+=======================
+eine frau zeigt eine tasche in einem laden . <eos>
+eine frau holt sich eine tüte eis bei einem laden . <eos>
+0.2658155858516693
+=======================
+eine gruppe von männern macht musik . <eos>
+eine gruppe von musikern macht <unk> . <eos>
+0.0
+=======================
+ein kleine mädchen fährt mit seifenblasen . <eos>
+<unk> fährt mit anderen rollschuh . <eos>
+0.0
+=======================
+zwei frauen stehen vor einer gruppe von zwei frauen und unterhalten eine bild . <eos>
+zwei frauen stehen vor einer schulklasse und sprechen über ein buch . <eos>
+0.29256126284599304
+=======================
+ein mann in einem roten jacke , der jacke trägt . <eos>
+ein mann in einer grauen jacke transportiert laub auf einem fahrrad . <eos>
+0.0
+=======================
+ein kleines kind mit einem rosafarbenen hut , auf dem blumen isst . <eos>
+ein kleines baby mit einer rosafarbenen mütze liegt <unk> da und schläft . <eos>
+0.0
+=======================
+bauarbeiter arbeiten an einem projekt . <eos>
+bauarbeiter arbeiten hart an einem <unk> . <eos>
+0.0
+=======================
+eine person fährt einen geländemotorrad auf einem <unk> hinunter . <eos>
+eine person fährt auf einem motorrad einen erdhügel hinunter . <eos>
+0.0
+=======================
+die menschen in <unk> oder weißer kleidung haben sich und machen zusammen . <eos>
+die menschen sind <unk> in mehrere schichten gekleidet und machen gemeinsame bewegungen . <eos>
+0.0
+=======================
+eine person in einem gelben gewand in einem öffentlichen raum . <eos>
+eine person in einem gelben <unk> in einem öffentlichen bereich . <eos>
+0.4659538269042969
+=======================
+ein kleiner hund springt auf einer straße . <eos>
+ein kleiner hund springt auf einer straße . <eos>
+1.0
+=======================
+zwei hunde spielen mit einem grünen ball . <eos>
+zwei hunde spielen mit einem blau-grünen ball . <eos>
+0.5969492197036743
+=======================
+der weiß-braune hund rennt durchs gras durchs gras . <eos>
+der weiß-braune hund rennt durch das gras . <eos>
+0.37991783022880554
+=======================
+ein bärtiger mann mit schwarzem hemd steht auf dem menschenmenge und eines menschen auf die menschenmenge . <eos>
+ein einzelner mann in einem schwarzen t-shirt <unk> die anderen menschen in einer gut besuchten bar . <eos>
+0.0
+=======================
+zwei hunde spielen mit einem weißen hund in der rasen . <eos>
+zwei hunde spielen im hohen gras mit einem orangen spielzeug . <eos>
+0.0
+=======================
+ein älterer mann sitzt auf einem großen <unk> im freien mit einem großen <unk> , im <unk> ist ist ist . <eos>
+ein älterer mann sitzt im freien vor einem großen banner mit der aufschrift „ <unk> <unk> <unk> <unk> “ auf einer bank . <eos>
+0.1633918732404709
+=======================
+ein mädchen jagt <unk> über einen hindernis . <eos>
+ein mädchen führt seinen hund über eine hürde . <eos>
+0.0
+=======================
+zwei männer stehen draußen im freien im freien . <eos>
+zwei männer stehen an telefonzellen im freien . <eos>
+0.37991783022880554
+=======================
+ein alter mann lässt sich die kamera eines kamera während lächelt dabei . <eos>
+ein alter mann wischt den boden , während sich eine dame von der kamera entfernt . <eos>
+0.0
+=======================
+ein mann , der eine mann anhat , ist einen fluss von einem <unk> <unk> zu springen . <eos>
+da ist ein mann , der in irgendeine decke gewickelt ist und einen schneebedeckten hügel <unk> . <eos>
+0.1667955219745636
+=======================
+<unk> <unk> in einer <unk> . <eos>
+bunt kostümierte männer bei einer aufführung . <eos>
+0.0
+=======================
+eine gruppe von menschen befindet sich auf einem großen gewässer im gewässer . <eos>
+eine gruppe von menschen in einem boot auf einem großen gewässer . <eos>
+0.4271802604198456
+=======================
+zwei männer lächeln draußen im bier . <eos>
+zwei männer rauchen außerhalb eines parks . <eos>
+0.0
+=======================
+ein junger mann macht sich beim einen <unk> zu fangen . <eos>
+ein junger mann macht sich bereit , einen fußball zu schießen . <eos>
+0.3572280704975128
+=======================
+ein <unk> springt in einem <unk> in einem <unk> . <eos>
+ein motocrossfahrer wird bei einem sprung auf einer rennstrecke leicht durch die luft getragen . <eos>
+0.0
+=======================
+eine frau und ein kind lächeln monopoly beim spielen . <eos>
+eine frau und ein kleines kind haben spaß bei einem brettspiel . <eos>
+0.241770401597023
+=======================
+eine frau in einem blauen hut und mit blauer hose mit zwei augen . <eos>
+eine mutter mit einer blauen baskenmütze und blauen schuhen und ihren zwei söhnen . <eos>
+0.0
+=======================
+ein mann mit sonnenbrille und ein kind mit sonnenbrille fällt eine treppe . <eos>
+ein mann mit sonnenbrille hilft einem kind mit sonnenbrille eine rutsche <unk> . <eos>
+0.2942095696926117
+=======================
+eine dunkelhäutige frau und ein mann gehen die straße entlang . <eos>
+eine weiße frau und ein schwarzer mann gehen eine straße entlang . <eos>
+0.32279202342033386
+=======================
+eine älterer mann , der eine <unk> in einem rollstuhl zusammen . <eos>
+ein älterer mann interviewt einen anderen in einem <unk> . <eos>
+0.0
+=======================
+ein mann und eine frau küssen am strand am strand . <eos>
+ein mann und eine frau fischen am strand . <eos>
+0.5310725569725037
+=======================
+zwei kinder in gelben jacken spielen im freien spielen . <eos>
+zwei kinder mit gelben jacken spielen im schlamm . <eos>
+0.31702330708503723
+=======================
+mehrere leute auf einer party auf einer u-bahn . <eos>
+einige menschen stehen auf einem <unk> . <eos>
+0.0
+=======================
+ein mann in einem schwarzen hemd kocht in einem <unk> aus <unk> aus . <eos>
+ein mann in einem schwarzen t-shirt kocht in einer unaufgeräumten küche aus einem <unk> . <eos>
+0.3294721245765686
+=======================
+drei ältere frauen in einem kleidern , die einen <unk> “ : : „ <unk> “ “ . <eos>
+drei ältere frauen in einem <unk> geschmückten wohnzimmer , im zentrum der aufmerksamkeit steht ein <unk> . <eos>
+0.23830413818359375
+=======================
+ein kind in einem grünen hemd hält einen grünen ball im grünen mund . <eos>
+ein kind mit einem grünen shirt hält einen roten ball an seinen mund . <eos>
+0.0
+=======================
+eine frau in einem weißen bikini springt nach dem ball nach ball . <eos>
+eine frau in weißer tenniskleidung springt hoch , um den ball zu schlagen . <eos>
+0.0
+=======================
+zwei alte männer mit sonnenbrillen stehen im freien im freien . <eos>
+zwei alte männer mit hüten dösen draußen in der sonne . <eos>
+0.25211936235427856
+=======================
+zwei <unk> jungen spielen zusammen . <eos>
+zwei ältere jungen spielen gitarre . <eos>
+0.0
+=======================
+der junge springt mit einem bett mit seinem bauch . <eos>
+der junge springt mit einem <unk> aus dem bett . <eos>
+0.4172261357307434
+=======================
+ein alter mann in einer schwarzen jacke betrachtet das tisch an . <eos>
+ein alter mann in einer schwarzen jacke blickt auf den tisch <eos>
+0.5008718371391296
+=======================
+eine gruppe von menschen in blauen hemd bei einer veranstaltung . <eos>
+eine gruppe von menschen in blauen t-shirts bei einer sportveranstaltung . <eos>
+0.515662670135498
+=======================
+ein <unk> führt einen großen feuer . <eos>
+ein einzelner feuerwehrmann hilft bei der <unk> eines großen <unk> . <eos>
+0.0
+=======================
+leute stehen vor einem wochenmarkt und haben kleidung und tragen kleidung vor <unk> und <unk> . <eos>
+menschen stehen zusammen vor einer <unk> und sind alle für <unk> wetter gekleidet . <eos>
+0.0
+=======================
+eine blonde frau mit einem <unk> <unk> <unk> um die kamera . <eos>
+eine blonde frau mit braunem cowboyhut macht eine <unk> geste in richtung der kamera . <eos>
+0.22958533465862274
+=======================
+ein paar und zwei kleine kinder blicken über einen geländer . <eos>
+ein paar und zwei mädchen blicken über ein <unk> geländer . <eos>
+0.34172332286834717
+=======================
+ein mann in einem weißen t-shirt und mit weißen baseballkappe auf einem <unk> . <eos>
+ein mann in einem weißen t-shirt und khakihosen kauert auf einem umgestürzten baumstamm . <eos>
+0.4814400374889374
+=======================
+<unk> an einem kalten tag . <eos>
+<unk> beim wandern an einem sehr kalten tag . <eos>
+0.33101752400398254
+=======================
+eine frau winkt bei <unk> <unk> . <eos>
+eine frau konzentriert sich auf ihr <unk> . <eos>
+0.0
+=======================
+mehrere <unk> <unk> in einem platz gegeneinander . <eos>
+mehrere körper prallen bei einem fußballspiel aufeinander . <eos>
+0.0
+=======================
+eine asiatin in einem blonden kleid , einer kleid und einer roten kleid , einer rock und rosafarbenem haar . <eos>
+eine afroamerikanische frau sitzt an einem braunen tisch und trägt ein lilafarbenes kleid , pinkfarbene schuhe und eine schwarze sonnenbrille . <eos>
+0.0
+=======================
+ein mädchen im grünen hemd wird in einem <unk> <unk> mit <unk> <unk> <unk> <unk> . <eos>
+kleines kind in einem grünem shirt putzt sich unter <unk> aufsicht mit einer gelben zahnbürste die zähne . <eos>
+0.0
+=======================
+ein mann der ein schwarzes t-shirt spielt , spielt auf einer band bassgitarre . <eos>
+ein mann in einem schwarzen t-shirt spielt einen <unk> bass auf einer bühne . <eos>
+0.0
+=======================
+ein junger blonder mann spricht in ein mikrofon . <eos>
+ein junger mann mit blondem haar spricht in ein mikrofon . <eos>
+0.4902608394622803
+=======================
+eine lächelnde frau in rosa bluse und rock tanzt vor einem <unk> . <eos>
+straßenszene mit einer blonden frau in <unk> mantel und minirock vor einem <unk> , das von hinten zu sehen ist . <eos>
+0.0
+=======================
+mädchen in grauen bikinis spielen beachvolleyball . <eos>
+mädchen in schwarzen bikinis spielen beachvolleyball . <eos>
+0.5946035385131836
+=======================
+ein junge in <unk> gestreiften kleid beim <unk> . <eos>
+ein junge in <unk> kleidung lernt boxen . <eos>
+0.31239399313926697
+=======================
+ein hellhäutiger mann in einer braunen jacke spricht mit einer <unk> bei einer <unk> . <eos>
+ein braunhaariger mann in einem braunen blazer spricht vor publikum bei einer <unk> . <eos>
+0.28787878155708313
+=======================
+ein mann und eine frau gehen auf einer brücke eine <unk> hinunter . <eos>
+ein mann und eine frau gehen einen uferweg entlang auf eine hängebrücke zu . <eos>
+0.38739213347435
+=======================
+ein bild zeigt eine frau und eine frau , blumen einen fahrzeug an einem fahrzeug . <eos>
+das ist das bild einer frau mit ihrem mann und ihrem kind , die einen spaziergang beim parkplatz machen . <eos>
+0.0
+=======================
+eine gruppe mädchen spielt ein spiel auf . <eos>
+eine gruppe von mädchen spielt ein spiel zu pferd . <eos>
+0.3229365050792694
+=======================
+die frau hält eine <unk> . <eos>
+die frau hält eine geige . <eos>
+0.488923043012619
+=======================
+ein junge und ein junge im vordergrund stehen sich im sand . <eos>
+ein junge und ein mann , die als <unk> verkleidet sind , stehen im sand <eos>
+0.19619767367839813
+=======================
+ein junge lächelt in einer schaukel in einer gruppe von freunden . <eos>
+ein junge in einer gruppe von sitzenden kindern lächelt für die kamera . <eos>
+0.2491862177848816
+=======================
+eine frau in einer roten jacke und zwei frauen <unk> . <eos>
+eine frau in einer gelben jacke folgt zwei anderen frauen . <eos>
+0.2790159285068512
+=======================
+ein lächelndes baby lächelt ein anderen kind . <eos>
+ein süßes baby lächelt einem anderen kind zu . <eos>
+0.0
+=======================
+ein mann mit hut spielt neben einem <unk> geige , spielt eine <unk> geige . <eos>
+ein mann mit einem hut spielt am <unk> für geld auf einem ungewöhnlichen instrument . <eos>
+0.0
+=======================
+ein junge und ein junge mit einem grauen mann unterhalten sich . <eos>
+ein junge und ein alter mann mit einem stock unterhalten sich . <eos>
+0.43527716398239136
+=======================
+eine person liegt vor einer bank vor einem <unk> . <eos>
+eine person liegt auf einer bank vor einem <unk> . <eos>
+0.7016879320144653
+=======================
+zwei männer unterhalten sich hinter einer tisch , während eine eine frau hinter ihnen steht hinter ihnen hinter ihnen steht . <eos>
+zwei männer unterhalten sich hinter einer orgel , während rechts eine einzelne frau steht . <eos>
+0.3070257008075714
+=======================
+ein mann macht einem anderen mann einem anderen <unk> <unk> . <eos>
+ein mann greift bei einem footballspiel einen anderen mann an . <eos>
+0.0
+=======================
+eine frau in einem schwarzen oberteil und schwarzen oberteil führt einen große menschenmenge mit zuschauern . <eos>
+eine frau in einem weißen t-shirt und schwarzen hosen tanzt hula-hoop , während ihr eine große gruppe von menschen zusieht . <eos>
+0.14846697449684143
+=======================
+ein mann in einem weißen oberteil und hosen , der von einem anderen hemd mit weißen hemd begleitet . <eos>
+mann in weißem t-shirt und gestreiften shorts spielt orgel und wird dabei von einem mann in einem gelben t-shirt beobachtet <eos>
+0.0
+=======================
+mehrere personen stehen in einem raum raum . <eos>
+mehrere menschen stehen in einem raum und essen . <eos>
+0.3301008343696594
+=======================
+ein mann und eine frau liegen auf dem kleinen , , , liegenden liegenden boden auf dem boden . <eos>
+ein <unk> und eine <unk> untersuchen einen sehr großen tiger , der auf dem boden liegt . <eos>
+0.0
+=======================
+ein mann in gelbem hemd steht auf dem bürgersteig . <eos>
+ein mann in einem gelben hemd steht auf dem gehweg und nimmt <unk> vor . <eos>
+0.2400440126657486
+=======================
+ein afrikaner geht an einem <unk> vorbei , um einen <unk> zu gehen . <eos>
+ein indischer mann geht auf dem weg zum <unk> an einem tempel vorbei . <eos>
+0.0
+=======================
+ein mädchen in einem schwarzen hemd und mit <unk> hose ist , um sich mit vielen personen herum zu . <eos>
+ein mädchen in einem schwarzen trägershirt mit <unk> scheint zu tanzen und ist dabei von mehreren anderen menschen umgeben . <eos>
+0.2341812402009964
+=======================
+ein mann in einem <unk> mit <unk> dreht seine freunden mit freunden . <eos>
+ein mann in einem <unk> <unk> macht ein <unk> mit seinen freunden . <eos>
+0.3907380700111389
+=======================
+ein mann mit einer weißen mütze und <unk> verkauft auf einer belebten straße . <eos>
+ein mann mit einer weißen schürze und hut verkauft fleisch an einer belebten straße . <eos>
+0.48176103830337524
+=======================
+ein hund springt nach einem gelben und ball . <eos>
+ein hund springt einem gelb-schwarzen ball hinterher . <eos>
+0.0
+=======================
+ein <unk> führt eine <unk> mit <unk> <unk> mit <unk> für <unk> die <unk> . <eos>
+ein soldat der <unk> führt eine gruppe anderer <unk> an , die die <unk> singen . <eos>
+0.0
+=======================
+eine frau , die mit einem sonnenbrille und ein sonnenbrille mit einem rucksack mit einem rucksack mit einem rucksack mit rucksack rucksack , laufen . <eos>
+eine frau in gelb mit einem kinderwagen und ein mann mit blauem hemd und rucksack gehen durch ein <unk> <unk> . <eos>
+0.0
+=======================
+eine menschenmenge bei einer menschenmenge mit <unk> und rauch . <eos>
+eine menschenmenge bei einem <unk> mit rauch und feuerwerk <eos>
+0.0
+=======================
+ein mann verkauft auf einem <unk> auf einem grünen sweatshirt und sieht sich . <eos>
+ein mann lümmelt auf einem gehweg in einer stadt auf einem stuhl und sieht den frauen nach . <eos>
+0.0
+=======================
+diese <unk> trägt rote hemd und roten shorts . <eos>
+dieses footballteam trägt rote trikots und rote helme . <eos>
+0.0
+=======================
+ein junge bereitet sich vor einem <unk> zum tor . <eos>
+ein junge setzt zu einem <unk> an <eos>
+0.0
+=======================
+ein arbeiter wendet den baum zu befestigen . <eos>
+ein arbeiter klammert sich an einen baum . <eos>
+0.0
+=======================
+ein <unk> steckt einen <unk> aus <unk> über das <unk> . <eos>
+ein <unk> landet einen <unk> im gesicht seines gegners . <eos>
+0.0
+=======================
+ein polizist in schutzausrüstung gibt einen schwert <eos>
+ein polizist in uniform trägt einen ohrhörer . <eos>
+0.0
+=======================
+eine <unk> geht durch den park . <eos>
+eine <unk> geht durch den park . <eos>
+1.0
+=======================
+ein brauner hund kaut auf einem großen teppich . <eos>
+ein brauner hund kaut auf einem großen holzstück herum . <eos>
+0.6398166418075562
+=======================
+ein hund rennt mit einem ball im maul über ein feld . <eos>
+ein hund rennt mit einem ball im maul über ein feld . <eos>
+1.0
+=======================
+ein mann in einer grünen jacke lächelt . <eos>
+ein mann in einer grünen jacke lächelt . <eos>
+1.0
+=======================
+eine in weiß gekleidete frau geht an einem <unk> mit weiß weiß kleidung vorbei . <eos>
+eine bunt gekleidete frau geht an einem weißen lastwagen vorbei , der mit flaschen gefüllt ist . <eos>
+0.25405213236808777
+=======================
+eine gruppe von erwachsenen , die zusammen um ein mann und ein mann in einem <unk> trägt . <eos>
+eine gruppe von menschen sammelt sich um einen mann in einem anzug und einen kleinen jungen . <eos>
+0.0
+=======================
+ein baby im baby sitzt von einem baby , das von einem büschen umgeben ist . <eos>
+ein baby in einer wippe und ein stehender junge , die von spielzeug umgeben sind . <eos>
+0.0
+=======================
+zwei jungen spielen aus einem kleinen , , , mädchen aus den fußball aus . <eos>
+zwei jungen bereiten ein kleines segelboot vor , während ihnen zwei mädchen vom strand aus dabei zusehen . <eos>
+0.0
+=======================
+eine frau mit einem gelben helm , benutzt einen <unk> . <eos>
+eine frau mit gelbem helm benutzt eine seilrutsche . <eos>
+0.0
+=======================
+ein kleines mädchen steht in einer pfütze im freien . <eos>
+ein kleines mädchen steht draußen in einer pfütze . <eos>
+0.37817904353141785
+=======================
+vier kinder sitzen auf einem karussell und unterhalten sich . <eos>
+vier kinder sitzen auf einem <unk> und unterhalten sich . <eos>
+0.7016879320144653
+=======================
+ein <unk> <unk> <unk> in einem <unk> eines <unk> , während ein anderer mann wird wird . <eos>
+in einer <unk> werden große , <unk> scheiben von einem mann auf einer <unk> gestapelt , während ein anderer mann zusieht . <eos>
+0.20042647421360016
+=======================
+das kleine mädchen mit dem grünen <unk> kommt über das kamera . <eos>
+das kleine mädchen mit dem grünen halsband rennt weg vom netz . <eos>
+0.4280321002006531
+=======================
+ein fahrradfahrer fährt mit seinem fahrrad auf einem feldweg mit seinem <unk> . <eos>
+ein fahrradfahrer fährt mit seinem fahrrad an schneebedeckten felsen entlang auf der straße . <eos>
+0.37732136249542236
+=======================
+ein mann macht bei <unk> eine <unk> mit <unk> . <eos>
+ein mann macht irgendeine art öffentlicher darbietung mit feuer . <eos>
+0.0
+=======================
+ein mann und eine frau , die mit säulen , sie , sie sie , sie sie verkauft . <eos>
+ein mann und mehrere frauen sehen <unk> voll mit <unk> oder bildern durch , die zum verkauf stehen . <eos>
+0.0
+=======================
+eine frau in <unk> und mann in einem <unk> <unk> . <eos>
+eine frau mit lilafarbenen haaren und ein mann in <unk> <unk> . <eos>
+0.28409305214881897
+=======================
+ein mann , der langlauf macht . <eos>
+ein mann boxt <eos>
+0.0
+=======================
+ein mann in einem grünen regenmantel <unk> einen <unk> entlang , während er an einem <unk> und autos auf einem <unk> <unk> gehen . <eos>
+ein typ mit einem leuchtend grünen kapuzenpullover überquert einen fußgängerüberweg , während er zu einem unfall zwischen ein paar autos und einem fahrrad blickt . <eos>
+0.0
+=======================
+eine gruppe männer bringt einen fahrzeug gegen einen fahrzeug . <eos>
+eine gruppe von männern lädt <unk> auf einen lastwagen <eos>
+0.0
+=======================
+ein geländemotorradfahrer macht einen sprung in einem wald . <eos>
+ein radfahrer vollführt einen sprung in einem wald . <eos>
+0.6606329083442688
+=======================
+der kleine braune hund befindet sich an der <unk> und blumen . <eos>
+der kleine braune hund befindet sich inmitten der topfpflanzen und heruntergefallenen blätter . <eos>
+0.41907957196235657
+=======================
+eine ältere asiatin trägt ein rotes jacke auf dem leine . <eos>
+eine <unk> dame mit einer blauen tasche fährt auf einem roller . <eos>
+0.0
+=======================
+eine brünette frau steht auf dem straße und blickt auf die straße . <eos>
+eine brünette frau steht auf dem gehweg und blickt die straße hinunter . <eos>
+0.46795251965522766
+=======================
+ein mann in einem restaurant isst sich . <eos>
+ein mann isst in einem restaurant zu mittag . <eos>
+0.0
+=======================
+eine große menschenmenge steht , während eine große großen stehen im hintergrund steht . <eos>
+eine große menschenmenge sieht mit großen gebäuden im hintergrund bei etwas zu . <eos>
+0.0
+=======================
+dieses kind genießt sich in einem <unk> und <unk> im <unk> . <eos>
+dieses kind befindet sich in einem klassenraum und vielleicht ist die schule für <unk> aus <eos>
+0.0
+=======================
+drei männer arbeiten neben einem <unk> , der mit einem <unk> <unk> ist . <eos>
+drei männer gehen zu fuß bei einem zelt mit einem <unk> daran . <eos>
+0.0
+=======================
+der person trägt ein blaues hemd und ein blaues hemd . <eos>
+der tennisspieler trägt ein <unk> t-shirt und ein blaues stirnband . <eos>
+0.0
+=======================
+<unk> <unk> <unk> ein konzert . <eos>
+<unk> <unk> tritt bei einem konzert auf . <eos>
+0.0
+=======================
+braut und bräutigam posieren bei ihrer hochzeitsfeier . <eos>
+eine braut und ein bräutigam bei ihrem <unk> <eos>
+0.0
+=======================
+eine frau und ein kind fahren im flughafen in der nähe des meer . <eos>
+eine frau und ein kind reiten auf kamelen am meer . <eos>
+0.3290386199951172
+=======================
+eine frau steht vor einem und und lächelt . <eos>
+eine frau steht vor bäumen und lächelt . <eos>
+0.5253819823265076
+=======================
+eine frau und drei kinder überqueren eine straße hinunter . <eos>
+eine frau und vier kinder überqueren eine belebte straße . <eos>
+0.0
+=======================
+der mann im <unk> , der in dem <unk> arbeitet mit seinem moped . <eos>
+der typ mit den jeansshorts macht im skatepark ein paar kunststücke auf seinem fahrrad . <eos>
+0.0
+=======================
+ein älterer mann versucht versucht , einen roten <unk> zu . <eos>
+ein älterer japaner versucht , eine kleine <unk> maschine zu reparieren . <eos>
+0.0
+=======================
+ein mann mit einem nummer   „ <unk> “ “ darauf vor , vor der <unk> vor dem <unk> vor dem <unk> <unk> kann . <eos>
+mit einer badewanne auf dem dach und befestigten fahnen ist das auto bereit für den start der <unk> . <eos>
+0.0
+=======================
+eine gruppe leute schaut an einem person an einem <unk> an . <eos>
+eine gruppe von menschen winkt einer person auf einem balkon . <eos>
+0.0
+=======================
+mehrere menschen stehen um eine statue herum einen mann in einem anderen hemd einen wasser . <eos>
+mehrere menschen stehen um einen behälter , in dem ein mann einen braunen gegenstand bearbeitet . <eos>
+0.19345299899578094
+=======================
+ein junges mädchen spielt ein lied und singt in ein mikrofon . <eos>
+ein junges mädchen spielt ein musikinstrument und singt in ein mikrofon . <eos>
+0.7611606121063232
+=======================
+eine frau fährt auf straße und eine fahrrad fährt und fährt einen straße entlang . <eos>
+da ist eine frau , die mit einem fahrrad die straße entlangfährt und dabei nur auf dem hinterrad fährt . <eos>
+0.0
+=======================
+personen tanzen und tanzen dabei . <eos>
+menschen tanzen und klatschen in die hände . <eos>
+0.0
+=======================
+eine <unk> frau lächelt mit die kamera aus einem blonden haaren heraus . <eos>
+eine <unk> frau trocknet ihr haar mit einem föhn und lächelt dabei glücklich <eos>
+0.0
+=======================
+eine große menschenmenge sieht einen buntes auf einer bühne . <eos>
+eine große gruppe von menschen sieht einem künstler auf einer bühne zu . <eos>
+0.0
+=======================
+eine gruppe von personen tanzt bei einem <unk> in einem <unk> im tanz . <eos>
+gruppe von menschen tanzt im kostüm in einem club oder bei einer party . <eos>
+0.0
+=======================
+ein kleiner brauner hund läuft durchs gras . <eos>
+ein kleiner brauner hund rennt durch das gras . <eos>
+0.3862752914428711
+=======================
+eine braut und ein <unk> stehen miteinander , während sie stehen in der nähe sitzen . <eos>
+eine braut und ein bräutigam machen fotos , während in der nähe zwei männer stehen . <eos>
+0.257722944021225
+=======================
+das bild eines mannes , der das <unk> eines <unk> <unk> . <eos>
+das ist das bild eines <unk> , der seinem bruder die haare schneidet . <eos>
+0.0
+=======================
+ein mann und zwei kinder überqueren eine straße entlang . <eos>
+ein mann und zwei kinder überqueren eine straße . <eos>
+0.7419446706771851
+=======================
+ein mann fegt ein alten <unk> in der nähe eines hauses . <eos>
+ein typ grindet eine fensterbank in der nähe einer alten <unk> entlang <eos>
+0.0
+=======================
+vier personen faulenzen auf einem parkplatz in einem parkplatz . <eos>
+vier menschen sind in einem vergnügungspark in einem fahrgeschäft <unk> <eos>
+0.0
+=======================
+eine nahaufnahme von einem jungen mit langem haar . <eos>
+die nahaufnahme einer frau mit kurzem rotem haar . <eos>
+0.0
+=======================
+ein junge macht kunststücke auf einem skateboard . <eos>
+junge macht kunststücke auf einem skateboard <eos>
+0.6104736328125
+=======================
+ein kleiner junge in grünen hosen steht auf einem grünen teppich . <eos>
+ein kleiner junge in grün übt das <unk> auf einem parkplatz . <eos>
+0.26130226254463196
+=======================
+ein <unk> arbeitet mit seinen händen . <eos>
+ein sitzender mann arbeitet mit seinen händen . <eos>
+0.6240195631980896
+=======================
+ein muskulöser afroamerikaner mit einem <unk> , <unk> <unk> und einem kurzen bikini läuft am strand . <eos>
+ein lächelnder junger mann geht in der nähe des strandes vorbei und trägt dabei eine baseballkappe , ein blaues t-shirt und jeans . <eos>
+0.0
+=======================
+ein mann und eine frau in schwarzen jacken stehen nebeneinander auf der straße . <eos>
+mann und frau in schwarz stehen eng beieinander auf der straße . <eos>
+0.32377228140830994
+=======================
+ein mann hilft seine tochter um einem mikroskop , um über metall . <eos>
+ein mann greift nach oben , um an den kabeln über einem schreibtisch zu arbeiten . <eos>
+0.0
+=======================
+eine frau , die sich aus einem auslage aus einem handtuch verdeckt , hat sich sich hat . <eos>
+eine frau mit einem in stoff <unk> bein hängt von einem baum herunter . <eos>
+0.0
+=======================
+ein mann am strand am <unk> <unk> ein <unk> . <eos>
+ein mann an einem strand baut eine sandburg . <eos>
+0.0
+=======================
+ein mädchen schwimmt in einem schwimmbecken . <eos>
+ein kleines mädchen schwimmt in einem pool . <eos>
+0.37707945704460144
+=======================
+zwei männer unterhalten ein fahrradreifen , der zu reparieren auf seinem fahrrad auf seinem fahrrad arbeitet . <eos>
+zwei männer streichen ein gebäude an , während ein dritter mann am handy daran vorbeigeht . <eos>
+0.0
+=======================
+mehrere personen und die <unk> und tanzen in einem raum . <eos>
+mehrere menschen unterhalten sich in einem raum und verbringen zeit miteinander . <eos>
+0.0
+=======================
+ein <unk> <unk> das <unk> , indem zwei <unk> <unk> <unk> . <eos>
+der <unk> eines <unk> nimmt geld von zwei <unk> <unk> entgegen . <eos>
+0.0
+=======================
+eine restaurant in einem restaurant . <eos>
+eine nächtliche straßenansicht mit einem restaurant . <eos>
+0.376849889755249
+=======================
+eine gruppe von personen läuft durch eine <unk> . <eos>
+eine gruppe von menschen läuft bei einem <unk> . <eos>
+0.0
+=======================
+eine gruppe kinder sitzt auf einem markt und schaut etwas in einem <unk> . <eos>
+eine gruppe von kindern sitzt hinten in einem van und sieht sich ein buch an . <eos>
+0.0
+=======================
+eine frau singt , ein mikrofon , ein mann in einem mikrofon im hintergrund . <eos>
+eine frau singt in ein mikrofon , während ein mann im hintergrund schlagzeug spielt . <eos>
+0.0
+=======================
+zwei männer schlagen auf einem gelben gegenstand und bleiben . <eos>
+zwei männer ringen auf einem gelb-blauen boden . <eos>
+0.0
+=======================
+ein kind wird , als andere <unk> die <unk> <unk> . <eos>
+ein als spiderman verkleidetes kind <unk> an der tür . <eos>
+0.0
+=======================
+ein <unk> bewegt sich um einem <unk> zu . <eos>
+ein geländewagen versucht , aus einem graben <unk> . <eos>
+0.0
+=======================
+eine ältere frau mit einem schirm steigt aus die <unk> aus ihre gesicht . <eos>
+eine ältere frau verwendet einen rosafarbenen regenschirm , um sich vor der sonne zu schützen . <eos>
+0.0
+=======================
+ein paar ein <unk> mit ihrem <unk> mit ihrem <unk> , sie sie mittagessen . <eos>
+ein teenager mit notizen auf seinem tisch liest ein buch im klassenzimmer und sieht dabei gelangweilt aus . <eos>
+0.0
+=======================
+ein mann in einem mantel mit der straße telefoniert auf der straße . <eos>
+ein mann in einem mantel telefoniert auf der straße . <eos>
+0.6162607073783875
+=======================
+die kinder sind in einem <unk> . <eos>
+die drei kinder befinden sich in einem käfig . <eos>
+0.0
+=======================
+<unk> bei einer <unk> bei <unk> . <eos>
+fotografen machen eine <unk> an einem veranstaltungsort . <eos>
+0.0
+=======================
+die frau führt einen <unk> mit gelbem bluse auf einen kopf . <eos>
+die frau bringt eine orange <unk> als <unk> am <unk> des mannes an . <eos>
+0.0
+=======================
+menschen in einem geschäft kaufen essen zu zu . <eos>
+menschen in einem laden wählen produkte zum <unk> aus <eos>
+0.0
+=======================
+eine gruppe von menschen in weißen , weißen , weißen , weißen <unk> , <unk> <unk> <unk> , spielt gitarre . <eos>
+eine gruppe von menschen in schottenröcken , schwarzen westen und hemden mit weißem kragen trommelt . <eos>
+0.1922854483127594
+=======================
+eine gruppe von radfahrern fährt um eine kurve um <unk> . <eos>
+eine gruppe von <unk> <unk> um die <unk> . <eos>
+0.0
+=======================
+zwei männer machen beim <unk> <unk> . <eos>
+zwei männer bauen irgendwelche elektronischen geräte auf <eos>
+0.0
+=======================
+zwei personen laufen in einem <unk> und ein <unk> hält ein <unk> hält und ein <unk> hält dicht dicht etwas dicht dicht dicht dicht dicht <unk> . <eos>
+zwei menschen halten einen großen <unk> <unk> mit einem <unk> von <unk> <unk>   <unk> und es wirkt so , als würde ein kind über die <unk> springen . <eos>
+0.0
+=======================
+ein weißer hund springt springt und springt ein ein spielzeug . <eos>
+ein flauschiger weißer hund springt hoch und fängt ein spielzeug . <eos>
+0.3264971077442169
+=======================
+eine frau in einem blauen hemd fährt fahrrad . <eos>
+eine frau in einem blauen hemd fährt auf einem fahrrad . <eos>
+0.6432188153266907
+=======================
+eine frau fährt in einer schuhen mit schuhen . <eos>
+eine frau in <unk> sportkleidung fährt rollschuh . <eos>
+0.0
+=======================
+eine gruppe junger männer männer durch einen marathon . <eos>
+eine gruppe junger asiatischer männer läuft bei einem marathon . <eos>
+0.0
+=======================
+eine aufnahme straße mit einer großen , , , <unk> <unk> fahren <eos>
+blick in eine straße , die von großen , sauberen gebäuden gesäumt wird . <eos>
+0.0
+=======================
+ein mann hebt einen <unk> über den boden aus boden . <eos>
+ein mann rollt einen runden tisch über den boden . <eos>
+0.0
+=======================
+ein <unk> <unk> <unk> <unk> <unk> <unk> einen <unk> zu <unk> . <eos>
+ein <unk> , bei dem drei jugendliche um den football kämpfen . <eos>
+0.0
+=======================
+bauarbeiter stehen auf einer <unk> . <eos>
+bauarbeiter stehen auf einer maschine <eos>
+0.43472087383270264
+=======================
+ein langhaariger vogel bedeckt bedeckt im <unk> <unk> . <eos>
+ein langhaariger mann schwenkt sein nasses haar im meer . <eos>
+0.0
+=======================
+ein mann mit <unk> haut seinen gesicht um seine hals mit seinen <unk> . <eos>
+mann mit <unk> um den hals trägt stange mit banner <eos>
+0.0
+=======================
+ein junge in einem blauen t-shirt mit blauen t-shirt hält einen blaues mit <unk> mit blauen <unk> . <eos>
+ein junge in einem schwarzen t-shirt trägt einen blauen eimer und geht neben weiß gekleideten männern . <eos>
+0.1667955219745636
+=======================
+zwei kleine mädchen in kleidern sitzen auf dem glänzenden stufen , eines eines großen <unk> . <eos>
+zwei kleine mädchen in rosafarbenen schlafanzügen sitzen auf dem boden vor großen fenstern und spielen <unk> . <eos>
+0.25550174713134766
+=======================
+ein kind sitzt auf einer felsen . <eos>
+ein kind sitzt auf einer <unk> . <eos>
+0.5946035385131836
+=======================
+ein mädchen , das einen weißen hemd , mit weißen shorts und einem weißen fußball spielt volleyball . <eos>
+ein mädchen mit einem weißen trikot , schwarzen shorts und einem stirnband spielt volleyball . <eos>
+0.2281399667263031
+=======================
+eine person mit langen gelben hemd und einem regenschirm blickt über den strand . <eos>
+eine person mit <unk> haar und gelbem t-shirt blickt über einen strand . <eos>
+0.0
+=======================
+vier jungen lächeln , während ein erwachsener hat , der sich hat . <eos>
+vier jungen posieren , während ein junge sein getränk <unk> . <eos>
+0.0
+=======================
+eine frau steht mit einem gelben und gelben schal . <eos>
+eine stehende frau trägt ein einen grün-gelben schal . <eos>
+0.0
+=======================
+eine frau mit brille und einem schwarzen hemd und einem sonnenbrille , der sich einem mann und einem mann mit einem schwarzen hemd und sonnenbrille schaut . <eos>
+eine frau mit sonnenbrille und einem blauen t-shirt , die muscheln verkauft , sieht einen älteren mann mit einem schwarzen t-shirt und einer mütze an . <eos>
+0.15639686584472656
+=======================
+ein sänger macht ein publikum in der bühne . <eos>
+ein sänger beim <unk> in der menschenmenge . <eos>
+0.0
+=======================
+ein mann in einem roten kostüm und mit roten helm trägt einen roten bagger . <eos>
+ein mann in einem rollstuhl und einem roten jogginganzug trägt eine fackel . <eos>
+0.21305416524410248
+=======================
+ein mann in jeans spricht mit einem anderen mann vor einem anderen hemd vor einem brunnen . <eos>
+ein mann in shorts redet vor einer spüle mit einem anderen mann in bluejeans . <eos>
+0.22250252962112427
+=======================
+ein älterer mann in blauer kleidung sitzt auf einer bank auf einer straße . <eos>
+ein älterer mann in marineblauer kleidung sitzt auf einer bank an der straße . <eos>
+0.4935579001903534
+=======================
+leute in gesenkten versuchen darauf , einen schlange zu steigen . <eos>
+menschen in einer schlange machen sich bereit , um in einen bus zu steigen . <eos>
+0.18065141141414642
+=======================
+eine frau , die wie ein jungen wie <unk> etwas wie einem <unk> geht . <eos>
+eine frau spricht über eine theke hinweg mit einem kleinen mädchen . <eos>
+0.0
+=======================
+eine junge frau und ein mann mit einer weißen bluse stehen an einer <unk> . <eos>
+eine <unk> junge frau und ein älterer mann stehen an einer bar . <eos>
+0.2651812434196472
+=======================
+ein kleines asiatisches mädchen , das <unk> eine <unk> eine <unk> <unk> . <eos>
+ein kleines asiatisches mädchen rennt entlang einer gepflasterten straße in den <unk> . <eos>
+0.2571200728416443
+=======================
+drei frauen sitzen auf einer terrasse , und eine füßen steht und macht sich mit einem <unk> . <eos>
+drei frauen sitzen mit einem baby auf einer decke auf dem boden , unterhalten sich und haben spaß zusammen . <eos>
+0.0
+=======================
+ein junger mann bereitet etwas an einem <unk> zu essen zu zu . <eos>
+ein junger mann holt sich an einem <unk> etwas zu essen . <eos>
+0.0
+=======================
+ein snowboarder springt bei der <unk> in die luft . <eos>
+ein snowboarder springt neben dem skilift in die luft . <eos>
+0.4692470133304596
+=======================
+ein mann in einem blauen hemd fährt mit einem <unk> und arbeitet in der hand . <eos>
+ein mann in einem blauen hemd fährt mit brennenden stöcken in der hand auf einem einrad . <eos>
+0.5102761387825012
+=======================
+ein mann sitzt am strand und blickt auf den meer . <eos>
+ein mann rasiert sich , während er am strand vor dem meer sitzt . <eos>
+0.0
+=======================
+ein mann in einem grauen t-shirt <unk> sich mit einem <unk> an einem <unk> in einem <unk> . <eos>
+ein mann in einem grauen t-shirt <unk> den <unk> , um ein feuer im <unk> einer holzhütte in gang zu bringen . <eos>
+0.29699429869651794
+=======================
+vier männer in orangefarbenen hemden und mit <unk> blicken außerhalb eine fenster aus backsteingebäudes . <eos>
+vier männer in t-shirts und shorts blicken aus einem fenster auf die straße hinunter . <eos>
+0.0
+=======================
+kinder machen bei einem ball den ball . <eos>
+kinder jagen bei einem fußballspiel dem ball hinterher . <eos>
+0.0
+=======================
+eine sängerin spielt auf einer bühne gitarre . <eos>
+eine frau spielt ein lied auf ihrer geige . <eos>
+0.0
+=======================
+eine hinter theke steht hinter einer <unk> . <eos>
+eine kellnerin steht hinter einer theke voll mit kuchen . <eos>
+0.0
+=======================
+ein hund rennt durch tiefen schnee . <eos>
+ein hund rennt über eine tiefe <unk> . <eos>
+0.0
+=======================
+zwei kleine mädchen spielen in einem basketball , wobei der ein andere weiß blockt blockt wie eine andere verkleidet blockt . <eos>
+zwei junge mädchen spielen basketball , wobei die eine in weiß einen korbleger versucht und die andere in rot verteidigt . <eos>
+0.0
+=======================
+ein mann in einem blauen hemd macht eine gitarre . <eos>
+ein mann in einem blauen hemd bläst auf einer trompete . <eos>
+0.47417977452278137
+=======================
+ein mann in einem <unk> inspiziert den den <unk> . <eos>
+ein mann telefoniert in einem unaufgeräumten büro <eos>
+0.0
+=======================
+läufer gehen in einer <unk> eine stadt . <eos>
+läufer passieren einen <unk> in der stadt . <eos>
+0.0
+=======================
+zwei schwarz-weiß und ein weiß in weiß und ein weiß in einem fußball spielen auf dem feld . <eos>
+zwei teams , eines davon in pink und eines in weiß , spielen lacrosse auf einem sportplatz . <eos>
+0.0
+=======================
+vier frauen in kostümen . <eos>
+vier frauen haben sich mit lustigen kostümen verkleidet . <eos>
+0.0
+=======================
+ein mann trägt ein kleines kind und trägt ein kleines fahrrad . <eos>
+ein mann hält ein kleines kind , das einen rucksack trägt . <eos>
+0.0
+=======================
+zwei menschen – die in einem <unk> verkleidete <unk> in einem <unk> – die in einem <unk> – laufen , laufen in einem parkplatz vorbei in einem <unk> vorbei . <eos>
+zwei menschen , von denen der eine wie eine nonne gekleidet ist und der andere ein <unk> trägt , rennen bei einem wettlauf in einem bewaldeten gebiet an zuschauern vorbei . <eos>
+0.0
+=======================
+männer in <unk> kleidung stehen auf einer bühne und einer von ihnen spielt ein <unk> . <eos>
+männer in gelben anzügen und ein klavier befinden sich auf der bühne und ein mann spielt einen <unk> . <eos>
+0.0
+=======================
+zwei kleine mädchen gehen den wald entlang . <eos>
+zwei kleine mädchen gehen durch die blätter . <eos>
+0.35494810342788696
+=======================
+ein mann liegt etwas , während ein baby auf einem bett ein <unk> liegt . <eos>
+ein mann zieht seinen pullover an , während zu seinen füßen ein kajak liegt . <eos>
+0.0
+=======================
+eine junge frau in rot und rot und mit einer <unk> steht auf der hand . <eos>
+da ist eine grün und rot gekleidete junge frau , deren wange mit einer mexikanischen flagge geschminkt ist . <eos>
+0.0
+=======================
+ein mann mit einem großen kopfbedeckung im <unk> . <eos>
+ein mann mit einem großen hut im gebüsch . <eos>
+0.46713799238204956
+=======================
+eine gruppe mädchen spielt in einer nähe im <unk> . <eos>
+eine gruppe von mädchen spielt in einem springbrunnen in der sonne . <eos>
+0.0
+=======================
+kinder spielen auf einem karussel . <eos>
+kinder treiben sport auf einem sportplatz . <eos>
+0.0
+=======================
+zwei mädchen halten eine kuchen , während sie sie <unk> zu lächeln . <eos>
+zwei weibliche teenager halten eine karte , auf der es um punkte geht , und lächeln . <eos>
+0.0
+=======================
+menschen und <unk> fahren um den <unk> den <unk> . <eos>
+menschen <unk> <unk> und <unk> in den <unk> um den <unk> . <eos>
+0.3237234950065613
+=======================
+eine frau arbeitet auf ihrem computer auf den computer . <eos>
+eine frau arbeitet am <unk> an ihrer terrasse . <eos>
+0.0
+=======================
+eine band spielt im trüben mit einem brunnen im schnee . <eos>
+eine band spielt auf einer <unk> am fluss . <eos>
+0.0
+=======================
+eine dame in einem rosa oberteil benutzt einen <unk> <unk> . <eos>
+eine dame in einer leuchtend pinkfarbenen bluse zieht einen wagen mit <unk> essen . <eos>
+0.0
+=======================
+zwei männer in new york city in der york city . <eos>
+zwei männer tragen <unk> in new york city . <eos>
+0.42401254177093506
+=======================
+eine person ist in der richtung einer bowlingkugel , eine bowlingkugel in der bahn zu schlagen . <eos>
+eine person wirft gerade eine grüne bowlingkugel eine bowlingbahn entlang . <eos>
+0.0
+=======================
+zwei kinder spielen auf einem klettergerüst . <eos>
+zwei kinder spielen auf einem klettergerüst . <eos>
+1.0
+=======================
+ein kleines kleines mädchen trägt das <unk> ein <unk> . <eos>
+ein kleines asiatisches mädchen mit schmutzigem gesicht trägt ein kissen . <eos>
+0.0
+=======================
+zwei radfahrer machen auf einer strecke gegeneinander . <eos>
+zwei fahrradfahrer fahren auf einer unbefestigten straße um die wette . <eos>
+0.0
+=======================
+ein mann hängt mit dem rücken auf dem seite mit dem <unk> “ , die dem <unk> “ ist . <eos>
+ein mann liegt auf einer schneewehe , die sich hoch um die <unk> seines hauses <unk> hat . <eos>
+0.0
+=======================
+drei männer in freizeitkleidung lachen den hände . <eos>
+drei männer in anzügen legen ihre hände übereinander . <eos>
+0.0
+=======================
+ein <unk> mann , der im anzug steht , steht in sein <unk> . <eos>
+ein gut <unk> schwarzer steht in der u-bahn und hört dabei etwas über kopfhörer . <eos>
+0.0
+=======================
+jemand steht neben einem fluss mit einem <unk> mit blättern . <eos>
+eine person steht neben einem holzzaun in der nähe von blühenden bäumen . <eos>
+0.0
+=======================
+eine <unk> mit voller , <unk> , kinder , die und , und und <unk> und <unk> , die aus der <unk> sitzen . <eos>
+ein raum voll mit sitzenden und stehenden erwachsenen und kindern , in dem acht pinkfarbene und schwarze luftballons von der decke hängen . <eos>
+0.0
+=======================
+ein mädchen trägt einen roten hut und schlägt einen rotweißen hut . <eos>
+ein mädchen trägt einen großen blau-weißen hut . <eos>
+0.27968424558639526
+=======================
+ein mann in einem anzug und ein <unk> hält einen getränk in . <eos>
+ein mann mit anzug und brille hält einen gegenstand in den händen . <eos>
+0.0
+=======================
+eine frau sitzt neben einer getränk und hält ein baby neben , während eine andere person neben einem <unk> steht . <eos>
+eine frau liest eine karte und sitzt dabei auf der kante eines sofas , während eine andere frau mit einem <unk> in der hand neben ihr steht . <eos>
+0.1471620351076126
+=======================
+ein kleines kind fährt ein felsbrocken durch den schlamm . <eos>
+ein kleines kind fährt auf einem motorrad durch den schlamm . <eos>
+0.5366551876068115
+=======================
+eine gruppe von <unk> ist einen mann , ein mann mit <unk> <unk> <unk> <unk> . <eos>
+<unk> gruppe von erwachsenen bei einer zusammenkunft , ein mann mit einer tätowierung wirft etwas . <eos>
+0.1992340385913849
+=======================
+vier massen leute auf einer straße im straße entlang im hintergrund entlang sehen zu . <eos>
+vier wie <unk> aussehende menschen gehen eine straße mit bäumen im hintergrund entlang <eos>
+0.0
+=======================
+zwei biker überqueren an einem <unk> einer <unk> entlang . <eos>
+zwei radfahrer überqueren die straße an einem sehr <unk> tag in kalifornien . <eos>
+0.0
+=======================
+ein mann mit einem pinkfarbenen oberteil und ein mann in einem pinkfarbenen oberteil am strand . <eos>
+ein mann mit einem eimer und ein mädchen mit einem hut am strand . <eos>
+0.32225385308265686
+=======================
+ein dunkelhäutiger mann mit einer hut sitzt in einem bus . <eos>
+ein schwarzer mann mit einer kappe sitzt in einem bus . <eos>
+0.5452468991279602
+=======================
+ein bauarbeiter der ein schwarzes hemd und mit jeans und jeans <unk> , die sich rennt . <eos>
+ein bauarbeiter in einem schwarzen t-shirt und jeans stellt seine leiter auf . <eos>
+0.0
+=======================
+ein mann in einem weißen t-shirt mitten mitten in der mitte eines gebäudes . <eos>
+ein mann in einem weißen t-shirt malt mitten auf einer mit steinen gepflasterten straße . <eos>
+0.35083651542663574
+=======================
+ein mann in blauer kleidung und mit einem maske posiert für eine foto ein publikum . <eos>
+ein mann mit <unk> geschminktem gesicht posiert mit einer frau für ein foto . <eos>
+0.0
+=======================
+zwei jungen spielen ein <unk> mit . <eos>
+zwei jungen spielen ein <unk> . <eos>
+0.5946035385131836
+=======================
+auf einer straße bei einer straßenkünstler auf einer <unk> . <eos>
+menschen auf der straße bei einem straßenfest . <eos>
+0.0
+=======================
+zwei junge junge jungen machen miteinander . <eos>
+zwei kleine asiatische jungen streiten miteinander . <eos>
+0.0
+=======================
+vier personen in stammeskleidung stehen im freien und taschen zusammen . <eos>
+vier menschen in freizeitkleidung stehen im freien und halten <unk> . <eos>
+0.27091991901397705
+=======================
+ein tattoo-künstler zeigt seine <unk> <unk> . <eos>
+ein <unk> trägt <unk> auf die haut auf . <eos>
+0.0
+=======================
+ein tänzer in einem gestreiften hemd rennt vor das feld . <eos>
+ein fußballspieler in einem grünen trikot läuft vom spielfeld . <eos>
+0.0
+=======================
+ein paar männer ziehen damit auf einem boot oder <unk> . <eos>
+einige männer auf einem boot oder schiff scheinen etwas zu besprechen . <eos>
+0.24107472598552704
+=======================
+ein hund läuft durch ein grünes gegenstand durch ein grünes maul . <eos>
+ein hund geht mit einem tuch im maul durch einen kleinen bach . <eos>
+0.0
+=======================
+zwei mädchen sitzen und einer einer mädchen und das gesicht das gesicht ein gesicht . <eos>
+zwei mädchen essen kuchen und eines hat blaue glasur auf seinem gesicht . <eos>
+0.0
+=======================
+eine gruppe von <unk> hat flaggen mit flaggen und die <unk> von flaggen und flaggen . <eos>
+eine gruppe von <unk> geht mit amerikanischen flaggen und anderen <unk> die straße entlang . <eos>
+0.20948414504528046
+=======================
+ein fotograf und seine <unk> machen eine veranstaltung in einer kirche . <eos>
+ein sohn und seine eltern nehmen ein gruppenfoto in einer kirche auf . <eos>
+0.0
+=======================
+zwei männer bei einem mann bei einem spiel bei der spiel . <eos>
+zwei männer decken den mann mit dem basketball während eines spiels in der dämmerung ab . <eos>
+0.0
+=======================
+ein mann kocht auf einem <unk> <unk> etwas . <eos>
+ein mann brät burger auf einem schwarzen grill . <eos>
+0.0
+=======================
+eine gruppe von personen steht hinter einer straße und schauen und schauen . <eos>
+eine gruppe von menschen wartet hinter einer absperrung und blickt nach rechts . <eos>
+0.0
+=======================
+<unk> eine asiatisches mann mit einem grauen hemd mit essen kaffee eine zigarette . <eos>
+ich sehe einen bärtigen mann und eine ältere dame , die sich eine schüssel mit essen teilen . <eos>
+0.0
+=======================
+weit hat ein mann in der luft , der sich in die anderen fans <unk> . <eos>
+polizist <unk> mit einem mann , der eine hand in die luft streckt , während andere polizisten zusehen . <eos>
+0.0
+=======================
+eine mensch in einem roten und blauen hut und einer tasche betrachtet sich an einer mauer herunter . <eos>
+eine person in bluejeans und rotem pullover biegt um die ecke einer ziegelmauer . <eos>
+0.0
+=======================
+zwei männer , eine frau und eine frau im freien , sitzen im freien , sitzen in und singen . <eos>
+zwei männer , von denen der eine schwarz und der andere weiß ist , stehen im freien , spielen gitarre und singen in ein mikrofon . <eos>
+0.0
+=======================
+ein hellhäutiger mann in einem weißen hemd und weißer hemd fährt auf einem <unk> mit <unk> <unk> und <unk> <unk> . <eos>
+ein dunkelhäutiger mann in weißen shorts und einem ärmellosen schwarzen shirt macht mit seinem skateboard einen <unk> auf einer <unk> , die von großen gebäuden und palmen umgeben ist . <eos>
+0.0
+=======================
+viele personen schauen zu , wie ein mann hält , und ein mann und ein <unk> hält . <eos>
+viele menschen haben sich versammelt , um zwei männern <unk> , die ein instrument spielen und ein schild halten . <eos>
+0.0
+=======================
+ein mann verkauft auf einer belebten straße . <eos>
+ein mann schiebt sessel auf einer belebten straße . <eos>
+0.591160237789154
+=======================
+eine gruppe von menschen fährt in einem kleinen , brücke in der mitte eines straße . <eos>
+eine gruppe von menschen an einem kleinen fluss inmitten einer stadt . <eos>
+0.19345299899578094
+=======================
+zwei mädchen spielen mit einem hund auf einem zaun . <eos>
+zwei mädchen spielen mit ihrem hund auf einem baum . <eos>
+0.37817904353141785
+=======================
+ein kind mit einer mütze und mütze läuft auf einer <unk> am strand . <eos>
+ein kind mit mütze und jacke rennt im freien über eine steinoberfläche . <eos>
+0.0
+=======================
+ein mann arbeitet an einer <unk> an einer <unk> . <eos>
+mann arbeitet an den schienen in einem bahnhof . <eos>
+0.0
+=======================
+ein kind macht sich bereit ein ein bild . <eos>
+ein kind macht sich bereit , ein buch zu lesen . <eos>
+0.38246020674705505
+=======================
+ein kind , das bereit auf einer rennen zu steigen . <eos>
+ein kind kommt mit dem snowboard zum stehen <eos>
+0.0
+=======================
+eine dunkelhaarige frau in einem blauen pullover und brille hält einen kleines kind , während ein mädchen mit der hand mit einem <unk> hält . <eos>
+eine dunkelhaarige frau mit einer blauen bluse und sonnenbrille hält ein <unk> , während ein junges mädchen mit <unk> haar auf das <unk> schreibt . <eos>
+0.0
+=======================
+eine <unk> bereitet sich für einen rennen vor . <eos>
+die mitglieder einer <unk> machen sich für ein rennen bereit . <eos>
+0.0
+=======================
+ein junge sitzt auf einem felsen und genießt den <unk> aus . <eos>
+ein junge sitzt auf einem felsen und blickt in das tal unter ihm . <eos>
+0.446322500705719
+=======================
+zwei männer paddeln mit einem grünen pfad mit einem grünen stelle im hintergrund . <eos>
+zwei männer paddeln in einem kajak einen fluss mit grünen bäumen auf beiden seiten entlang . <eos>
+0.0
+=======================
+drei kinder hören ein mann , der auf der bühne spielt . <eos>
+drei kinder sehen zu , wie ein mann auf einer bühne gitarre spielt . <eos>
+0.0
+=======================
+ein mann mit schwarzem hemd singt in ein mikrofon . <eos>
+ein mann in einem schwarzen t-shirt singt in ein mikrofon . <eos>
+0.47417977452278137
+=======================
+zwei jungen in einem raum , die einen hand hält und und einen hand hält . <eos>
+zwei jungen innerhalb eines <unk> springen in die luft und halten dabei einen basketball . <eos>
+0.0
+=======================
+eine gruppe von menschen steht vor einer <unk> vor einem gebäude . <eos>
+eine gruppe von menschen steht vor einer <unk> auf einem parkplatz . <eos>
+0.6262844800949097
+=======================
+ein mann und eine frau posieren gemeinsam auf einer straße . <eos>
+ein mann und eine frau posieren zusammen auf einer <unk> straße . <eos>
+0.5311878323554993
+=======================
+drei männer gehen auf einer <unk> in der straße . <eos>
+drei männer gehen auf einer straße in den bergen . <eos>
+0.42969435453414917
+=======================
+eine person , die einen <unk> ist , geht in einem waldgebiet . <eos>
+szene eines mannes beim <unk> , <unk> , die in einer kalten , winterlichen umgebung herumlaufen <eos>
+0.0
+=======================
+mehrere personen laufen neben einem weißen <unk> in einem weißen gebäude . <eos>
+mehrere menschen gehen in einem fremden land an einem weißen zaun entlang . <eos>
+0.0
+=======================
+ein mann in weißem hemd und schwarzer hose läuft im freien . <eos>
+ein mann mit weißem hemd und dunklen shorts arbeitet im freien . <eos>
+0.31170907616615295
+=======================
+ein junge wird von einem anderen , von anderen <unk> <unk> . <eos>
+einem jungen werden von einem anderen jungen die haare <unk> . <eos>
+0.0
+=======================
+ein kind steht neben einem <unk> und hält ein objekt . <eos>
+ein kind steht neben einem kinderwagen und hält ein <unk> . <eos>
+0.47718971967697144
+=======================
+ein junger mann in einem grünen pullover liest am strand . <eos>
+ein junger mann in einem grünen sweatshirt liest eine zeitung am strand . <eos>
+0.5496509671211243
+=======================
+männer in blauen uniformen sitzen in einem bus . <eos>
+männer in blauer spielkleidung sitzen in einem bus . <eos>
+0.5814307928085327
+=======================
+ein älterer mann in blauen jeans und einem blauen hut lehnt sich hinter einem <unk> . <eos>
+ein älterer mann in bluejeans und brauner jacke lehnt an einem orangen gebäude . <eos>
+0.18842393159866333
+=======================
+eine asiatische frau in traditionellen <unk> schiebt einen großen korb hoch . <eos>
+asiatin in <unk> schiebt einen großen <unk> . <eos>
+0.23901088535785675
+=======================
+das mädchen mit dem gelben basketballmannschaft versucht den ball zu den anderen mann auf den anderen base . <eos>
+das mädchen mit dem langen pferdeschwanz ist bereit , den ball einer anderen spielerin auf dem spielfeld <unk> . <eos>
+0.1717883199453354
+=======================
+mädchen , das einen <unk> eines kleinkind sitzt auf einem <unk> und hält den kleinen mädchen den <unk> eines <unk> . <eos>
+ein mädchen sitzt in <unk> haltung an einem öffentlichen ort und liest ein buch , das sie mit ihrer hand geöffnet hält , an der sich ein ring mit einem schmetterling befindet . <eos>
+0.0
+=======================
+ein mann sitzt in einem wasserbecken unter einem großen <unk> . <eos>
+ein mann sitzt im klaren , seichten wasser an einer großen felswand . <eos>
+0.0
+=======================
+ein blonder junge in einem blauen t-shirt steht hinter einem grünen <unk> und <unk> . <eos>
+ein blonder junge in einem blauen t-shirt steht lächelnd vor einem boot aus grünem <unk> . <eos>
+0.5095171928405762
+=======================
+ein kind mit einem gelben hemd springt von einem schaukel , während andere zusehen . <eos>
+ein kind in einem orangen shirt springt von heuballen herunter , während andere kinder zusehen . <eos>
+0.0
+=======================
+frauen spielen in schaufeln volleyball am meer volleyball . <eos>
+frauen in <unk> spielen volleyball bei <unk> wetter . <eos>
+0.0
+=======================
+ein mann in einem anzug und mit einem anzug spricht vor einem mikrofon , das zu . <eos>
+ein mann in anzug und krawatte spricht in einem schicken gebäude auf dem podium . <eos>
+0.0
+=======================
+zwei mädchen sind miteinander und zwei frau , die einen schirm in einem schirm hält . <eos>
+zwei mädchen sind nass und hinter ihnen ist eine frau , die einen geöffneten regenschirm hält . <eos>
+0.25550174713134766
+=======================
+eine gruppe leute essen in einem restaurant . <eos>
+eine gruppe von menschen isst in einem restaurant . <eos>
+0.45936134457588196
+=======================
+zwei pudel laufen durch den schnee . <eos>
+zwei pudel rennen durch den schnee . <eos>
+0.5946035385131836
+=======================
+kinder machen beim beim den spaß ein . <eos>
+zwei kinder graben löcher in die erde . <eos>
+0.0
+=======================
+eine <unk> in einem weißen hemd <unk> sich in einem restaurant . <eos>
+eine kellnerin in einem weißen t-shirt bedient die gäste in einem restaurant . <eos>
+0.3688368797302246
+=======================
+ein angler betrachtet einige einen <unk> an . <eos>
+ein soldat blickt durch ein fernglas in die berglandschaft . <eos>
+0.0
+=======================
+ein kleiner junge und ein mädchen , die ein mädchen hält , als sie ein friedenszeichen hält . <eos>
+ein kleiner junge und ein mädchen lachen miteinander , während das mädchen ein <unk> macht . <eos>
+0.30376139283180237
+=======================
+ein künstler malt ein essen . <eos>
+ein künstler malt im freien . <eos>
+0.0
+=======================
+die person in <unk> kleidung sitzt und einen <unk> . <eos>
+jemand in einem asiatischen kostüm sitzt da und hält dabei ein schwert . <eos>
+0.0
+=======================
+ein mann spielt und ein kleinen mädchen <unk> <unk> mit <unk> klarinette . <eos>
+ein mann schlägt die trommel und ein kleiner junge schlägt seine <unk> , kleine trommel . <eos>
+0.0
+=======================
+zwei männer in roten <unk> treten kampfsport . <eos>
+zwei männer in roten gewändern führen eine <unk> durch . <eos>
+0.2953872084617615
+=======================
+der mann telefoniert vor den <unk> auf einem geschäft . <eos>
+der mann telefoniert vor einem sportgeschäft mit seinem handy . <eos>
+0.2899784445762634
+=======================
+ein mann verkauft <unk> an einem wagen . <eos>
+ein mann zieht gegenstände auf einem wagen . <eos>
+0.35494810342788696
+=======================
+ein <unk> wird bei <unk> in <unk> ausgetragen wird . <eos>
+da wird abends ein <unk> in diesem stadion ausgetragen . <eos>
+0.0
+=======================
+ein fahrradfahrer macht einen trick . <eos>
+ein radfahrer vollführt ein kunststück in der luft . <eos>
+0.0
+=======================
+ein paar posiert für einer bild in einer leeren veranstaltung . <eos>
+ein wanderer posiert für ein foto in einer trockenen berglandschaft . <eos>
+0.0
+=======================
+eine gruppe von menschen läuft . <eos>
+eine gruppe von menschen läuft . <eos>
+1.0
+=======================
+zwei kinder warten darauf auf einem <unk> zu gelangen . <eos>
+zwei kinder machen sich für einen <unk> auf einem elefanten bereit . <eos>
+0.0
+=======================
+mehrere arbeiter in weißen hüten und hüten und <unk> mit <unk> . <eos>
+mehrere weiß gekleidete darsteller mit kastanienbraunen <unk> stehen einander in reihen gegenüber . <eos>
+0.0
+=======================
+eine frau im <unk> macht einen sand auf dem sand . <eos>
+eine dame in einem bikini schlägt ein rad im sand . <eos>
+0.0
+=======================
+ein baseballspieler mit einem roten oberteil und einem roten gürtel läuft zum rennen , während er zum seite <unk> . <eos>
+ein baseballspieler mit einem roten helm und weißen hosen wird vom fänger mit dem baseball berührt , während er zur <unk> läuft . <eos>
+0.23129801452159882
+=======================
+ein indischer mann sitzt an einem tisch an einem tisch . <eos>
+ein inder sitzt vor einem restaurant an einem tisch . <eos>
+0.3565506041049957
+=======================
+kinder fahren auf einem <unk> auf . <eos>
+kinder fahren in einem kettenkarussell <eos>
+0.0
+=======================
+ein koch arbeitet in seiner küche um einen sandwich . <eos>
+ein koch arbeitet in einer küche mit einem messer . <eos>
+0.2899784445762634
+=======================
+ein mädchen mit blauer <unk> sitzt am straßenrand . <eos>
+ein mädchen mit blauen <unk> sitzt am straßenrand . <eos>
+0.658037006855011
+=======================
+zwei menschen sitzen auf einer bank , essen etwas <eos>
+zwei menschen sitzen auf einer bank aus beton und plaudern beim mittagessen . <eos>
+0.36015287041664124
+=======================
+ein junger weißer männliche person klettert mit einem großen stange in einem großen gebiet . <eos>
+ein junger weißer mann fegt eine veranda mit einem großen besen . <eos>
+0.0
+=======================
+ein mann ist in einem <unk> <unk> ist . <eos>
+ein mann sitzt in einem <unk> <unk> . <eos>
+0.35494810342788696
+=======================
+zwei männer mittleren alters in einem raum , mit denen kleidung ist . <eos>
+zwei männer mittleren alters unterhalten sich miteinander in einem raum mit musikausrüstung . <eos>
+0.2942095696926117
+=======================
+ein mann mit einer roten baseballmütze lehnt sich an einem <unk> . <eos>
+ein mann mit einer roten baseballkappe lehnt an einem laternenpfahl . <eos>
+0.3805803060531616
+=======================
+eine frau in einem grünen bluse geht eine belebte straße entlang . <eos>
+eine frau in einem grünen shirt geht eine belebte straße entlang . <eos>
+0.7611606121063232
+=======================
+vier männer stehen in der nähe eines auto . <eos>
+vier männer stehen bei einem gelben auto . <eos>
+0.0
+=======================
+ein mann mit glatze , der <unk> <unk> , sitzt auf einem kleinen boot . <eos>
+ein mann mit beginnender glatze , der eine rote rettungsweste trägt , sitzt in einem kleinen boot . <eos>
+0.3353865146636963
+=======================
+ein mann in einem <unk> spielt spielt auf einer trommel . <eos>
+ein mann in einem bunten hemd spielt auf einer trompete . <eos>
+0.34172332286834717
+=======================
+eine gruppe kinder spielt herum und ihre ihre ihre ihre instrumente . <eos>
+eine gruppe von kindern <unk> herum und <unk> auf ihren instrumenten . <eos>
+0.0
+=======================
+jungen und jungen , die von einem jungen sitzen , springen auf einem spielplatz . <eos>
+jungen und mädchen aus einem <unk> land lächeln auf einem feld . <eos>
+0.0
+=======================
+eine lächelnde frau in uniform hält einen korb hoch einen schnee . <eos>
+eine lächelnde frau mit einem pfirsichfarbenen trägershirt hält ein mountainbike <eos>
+0.0
+=======================
+ein kleines kleines mädchen trägt das streichelt bekommt , während er auf einem schlauch begleitet . <eos>
+ein kleines rothaariges mädchen in einem <unk> reitet auf einem spielzeugpferd . <eos>
+0.0
+=======================
+ein kleiner hund in der <unk> steht an einem kleinen <unk> nach jemanden . <eos>
+kleiner hund in einem kostüm steht auf den hinterbeinen , um an <unk> blumen <unk> . <eos>
+0.0
+=======================
+ein mann wird bei einem <unk> <unk> in einer grünen <unk> . <eos>
+ein mann füllt ein huhn mit zutaten aus einer blauen schüssel . <eos>
+0.0
+=======================
+eine gruppe von drei freunden ist im freien miteinander . <eos>
+eine gruppe von drei freunden unterhält sich in einem haus . <eos>
+0.36846157908439636
+=======================
+drei hunde spielen im wasser . <eos>
+drei hunde spielen im wasser . <eos>
+1.0
+=======================
+junge erwachsene , die in <unk> laufen , entspannen auf einem feld . <eos>
+junge erwachsene in freizeitkleidung gehen auf einem feld umher . <eos>
+0.0
+=======================
+ein mann in blau fährt auf einem fahrrad fahrrad . <eos>
+ein mann in blau fährt mit einem fahrrad auf einer piste . <eos>
+0.38497430086135864
+=======================
+zwei motorradfahrer fahren auf straße entlang , während passanten gehen gehen . <eos>
+zwei fahrradfahrer fahren an menschen vorbei die straße entlang und unterhalten sich dabei . <eos>
+0.0
+=======================
+ein paar männer gehen auf einer straße auf einer städtischen straße . <eos>
+einige männer gehen auf einer öffentlichen straße in der stadt . <eos>
+0.23901088535785675
+=======================
+eine frau steht neben zwei zwei männern , die auf das felsen steht . <eos>
+eine frau steht neben zwei menschen und zeigt in richtung himmel . <eos>
+0.28295594453811646
+=======================
+sie posieren für ein foto . <eos>
+sie posieren für ein bild . <eos>
+0.488923043012619
+=======================
+zwei mädchen sitzen auf einer treppe und winkt ein . <eos>
+zwei mädchen sitzen an einer mauer und sehen bei einer sportveranstaltung zu . <eos>
+0.0
+=======================
+ein mann sitzt mit <unk> und blauen hosen , auf der steht auf einer grünen straße . <eos>
+ein mann sitzt an einem leuchtend bunten , <unk> stand mit werbung hinter ihm auf der straße . <eos>
+0.0
+=======================
+ein vogel fliegt durchs wasser . <eos>
+ein vogel fliegt über das wasser . <eos>
+0.0
+=======================
+zwei männer in einer klassenzimmer mit einem <unk> mit einem anderen und einem <unk> , spielt grimassen . <eos>
+zwei männer in einem fremden land lächeln , wobei einer von ihnen steht und einer mit <unk> beinen sitzt . <eos>
+0.0
+=======================
+die frau hält ein kamera hoch , während er die straße entlanggeht . <eos>
+die frau hält den jungen fest , während sie über die straße blickt . <eos>
+0.0
+=======================
+drei große hunde , die einen schnee einen schnee schnee . <eos>
+drei große hunde genießen das tollen im schnee . <eos>
+0.0
+=======================
+eine menge leute gehen in einem orangefarbenen tag an einem kalten tag entlang . <eos>
+viele menschen in sommerkleidung gehen an einem sonnigen tag auf einer unbefestigten straße . <eos>
+0.0
+=======================
+personen und erwachsene machen eine <unk> in einer <unk> . <eos>
+menschen und kamele rasten in der wüste . <eos>
+0.0
+=======================
+viele asiatische kinder protestieren unter einem <unk> von <unk> eines . <eos>
+viele asiatische kinder bilden einen zug unter einem <unk> . <eos>
+0.0
+=======================
+ein kleinkind sitzt an einem tisch und isst ein sandwich . <eos>
+ein kleines kind sitzt an einem tisch und isst einen snack . <eos>
+0.44462963938713074
+=======================
+ein mann sieht zu , während ein frau mit einem <unk> ein <unk> ein <unk> zu . <eos>
+ein mann sieht zu , wie eine frau an einem schießstand lächelnd eine pistole <unk> . <eos>
+0.2528117001056671
+=======================
+ein künstler arbeitet an einer <unk> . <eos>
+ein künstler arbeitet an einer eisskulptur <eos>
+0.5410822629928589
+=======================
+ein mann hält ein baby an , während er an ein geländer hält . <eos>
+ein mann hält ein kleinkind und lehnt dabei an einem gebäude . <eos>
+0.2033344954252243
+=======================
+ein junge in einem <unk> fährt auf einem <unk> . <eos>
+ein männlicher teenager vollführt kunststücke auf einem fahrrad . <eos>
+0.0
+=======================
+blick schauen ein <unk> mit , während ein <unk> verschiedene <unk> <unk> sind . <eos>
+sieht aus wie ein bauernmarkt , ein paar tische mit verschiedenen <unk> . <eos>
+0.0
+=======================
+vier leute sehen ein gespräch auf einem park zu . <eos>
+vier menschen versuchen in einem park , ein fahrrad zu reparieren <eos>
+0.0
+=======================
+ein junges mädchen lächelt und lächelt vor <unk> vor <unk> und sie vor einer <unk> . <eos>
+ein kleines mädchen lächelt und streckt ihren daumen nach oben , während sie vor einer schildkröte posiert . <eos>
+0.0
+=======================
+ein mann und eine frau , die auf einer straße machen . <eos>
+ein mann und eine frau umarmen sich auf einer straße . <eos>
+0.42502814531326294
+=======================
+schwarze arbeiter die arbeit essen um essen . <eos>
+schwarze menschen sind in einem lebensmittelgeschäft , um essen zu kaufen . <eos>
+0.0
+=======================
+drei männer stehen in der nähe eines <unk> , die <unk> steht . <eos>
+drei männer stehen in der nähe einiger motorräder um einen wagen . <eos>
+0.39349961280822754
+=======================
+zwei brünette frauen unterhalten sich vor einem gespräch voller blumen . <eos>
+zwei brünette frauen sprechen vor einer klasse voll mit blonden kindern . <eos>
+0.0
+=======================
+ein mann trägt einen kopf auf dem kopf , die eine <unk> eines <unk> <unk> . <eos>
+ein mann , der eine hand an den kopf gelegt hat , sieht sich eine werbung der bank of america an . <eos>
+0.0
+=======================
+ein kleines baby in einem <unk> , weint , weint im <unk> . <eos>
+ein kleines baby , das in pinkfarbenen <unk> gekleidet ist , liegt lächelnd inmitten von <unk> . <eos>
+0.0
+=======================
+ein mann in einem gelben sweatshirt steht auf einem kleinen fahrzeug und einem kleinen <unk> über das <unk> . <eos>
+ein mann in einem gelben oberteil , der vor einer kleinen <unk> steht , ist von oben durch ein <unk> zu sehen . <eos>
+0.19778284430503845
+=======================
+zwei männer gehen einen feldweg hinunter . <eos>
+zwei männer gehen einen unbefestigten weg entlang . <eos>
+0.3628241717815399
+=======================
+der mann in weißen hemd und mit sonnenbrille hält den hand den hand . <eos>
+der mann mit dem weißen gürtel und der sonnenbrille hält die hand des mädchens . <eos>
+0.0
+=======================
+zwei männer , von denen einer eine zigarette hat , unterhalten sich und der <unk> sich , der sich in der hand verkauft . <eos>
+zwei männer , von denen der eine obst verkauft und der andere das obst prüft und sich mit dem verkäufer unterhält . <eos>
+0.19814632833003998
+=======================
+kinder bauen sich aus großen großen wasser . <eos>
+kinder baden im wasser aus großen fässern . <eos>
+0.0
+=======================
+ein kleines mädchen spielt mit einem <unk> und <unk> mit einem <unk> mit einem <unk> . <eos>
+ein kleines mädchen spielt mit einem <unk> , der aus drei <unk> und einer <unk> besteht . <eos>
+0.4037211835384369
+=======================
+ein mann in einem weißen t-shirt sieht eine <unk> und schaut dabei und er dabei eine weiße frau in den <unk> . <eos>
+ein mann in einem <unk> weißen hemd blickt der frau in die augen , während er sie am rücken ihres <unk> <unk> hält . <eos>
+0.14131252467632294
+=======================
+ein schwarzer hund schwimmt im wasser , hat einen tennisball in seinem maul . <eos>
+ein schwarzer hund schwimmt mit einem tennisball im maul im wasser <eos>
+0.2165195643901825
+=======================
+ein junge in einem <unk> schwingt einen ball bei einem <unk> nach . <eos>
+ein kleiner junge mit einem <unk> schwingt einen baseballschläger in richtung eines ankommenden balls . <eos>
+0.20282883942127228
+=======================
+zwei frauen sitzen auf einer bank vor einem geschäft . <eos>
+zwei frauen sitzen nachts auf einer bank vor einem geschäft <eos>
+0.6034148931503296
+=======================
+ein mann hat seine gesicht aus der frau und trägt seine frau . <eos>
+ein mann leckt das gesicht einer frau mit brille ab . <eos>
+0.0
+=======================
+ein schwarzer schwarzer hund gräbt im schnee . <eos>
+ein großer schwarzer hund <unk> im tiefschnee . <eos>
+0.0
+=======================
+ein alter mann mit <unk> , der in einem <unk> geht . <eos>
+ein alter mann läuft mit einem ordner in der hand herum <eos>
+0.0
+=======================
+fünf männer in weißen mänteln in weißen mänteln stehen neben einem <unk> zwischen <unk> . <eos>
+fünf männer , die alle weiße anzüge tragen , stehen neben <unk> in einem umzäunten bereich <eos>
+0.0
+=======================
+eine frau mit blonden haaren trinkt aus einem stein . <eos>
+eine frau mit blondem haar trinkt aus einem glas . <eos>
+0.0
+=======================
+das bild von zwei männern , die auf dem <unk> <unk> wird . <eos>
+der schatten zweier männer , die etwas <unk> . <eos>
+0.0
+=======================
+ein junge und ein junge und eine junge junge im junge junge eine junge junge eine junge junge sich , stehen auf einer veranda . <eos>
+ein junge und ein mädchen in schwarzen overalls stehen einem mädchen in einer pinkfarbenen jacke gegenüber , während sich im hintergrund erwachsene befinden . <eos>
+0.12514327466487885
+=======================
+ein <unk> in einem <unk> outfit reitet auf einem <unk> . <eos>
+ein bunt gekleideter matador reitet auf einem stier <eos>
+0.0
+=======================
+zwei männer sitzen um einen altes feuer herum . <eos>
+zwei männer sitzen um einen glänzenden grill . <eos>
+0.45180100202560425
+=======================
+ein mädchen , das auf einer wiese steht . <eos>
+ein junges mädchen steht auf einem grasbewachsenen feld . <eos>
+0.0
+=======================
+eine frau steht auf einem hügel und blickt über einen fluss über einen fluss . <eos>
+eine frau steht auf einem bein auf einer hohen klippe und blickt über einen fluss . <eos>
+0.5660979151725769
+=======================
+eine menschenmenge steht vor einer weißen gebäuden vor . <eos>
+eine menschenmenge steht auf der straße vor einer reihe weißer zelte . <eos>
+0.0
+=======================
+eine ältere ältere frau , die einen <unk> trägt und eine sonnenbrille trägt und eine schwarze jacke trägt . <eos>
+eine ältere asiatin trägt eine baskenmütze , eine sonnenbrille , einen gelben schal und eine <unk> jacke . <eos>
+0.0
+=======================
+ein hund springt in die luft , um in einem orangefarbenen fangen zu fangen . <eos>
+ein hund springt in die luft , um eine orange frisbeescheibe zu fangen . <eos>
+0.6026080846786499
+=======================
+ein mann mit einem tätowierung auf der kopf hat sich sich etwas etwas an . <eos>
+ein mann mit einer tätowierung am arm kocht etwas in einer <unk> . <eos>
+0.0
+=======================
+hier wird eine <unk> von <unk> <unk> . <eos>
+das ist eine art band oder orchester beim üben . <eos>
+0.0
+=======================
+kinder , die in <unk> und halten hoch . <eos>
+kinder einer schulklasse sprechen miteinander und lernen . <eos>
+0.0
+=======================
+menschen führen ein <unk> <unk> <unk> . <eos>
+menschen nehmen an einem <unk> <unk> <unk> <unk> teil . <eos>
+0.0
+=======================
+kinder springen aus einem blauen fenster aus gelben eines gelben gebäudes . <eos>
+kinder starren aus dem fenster eines blauen gebäudes mit roten <unk> . <eos>
+0.0
+=======================
+ein weißer hund springt springt um einen kleinen , , fangen fangen fangen . <eos>
+ein <unk> weißer hund springt hoch , um eine kleine frisbeescheibe aus stoff zu fangen . <eos>
+0.0
+=======================
+eine frau hält einen schwarzes hund und hält einen schwarze hund . <eos>
+eine frau hält einen <unk> hund . <eos>
+0.27968424558639526
+=======================
+zwei junge männer in blauen jacken und jeans fahren eine straße entlang . <eos>
+zwei junge männer in bluejeans und turnschuhen überqueren eine städtische straße . <eos>
+0.23397625982761383
+=======================
+ein mann in einem <unk> steht mit seinem tennisschläger steht . <eos>
+ein mann mit goldfarbener kleidung steht neben seinem goldfarbenen fahrrad . <eos>
+0.0
+=======================
+leute spielen in einem brunnen in einem brunnen . <eos>
+menschen spielen in der dämmerung in einem springbrunnen . <eos>
+0.0
+=======================
+ein mann mit einer <unk> und <unk> sitzt auf der straße . <eos>
+ein mann mit <unk> und brille sitzt auf der straße . <eos>
+0.5266404151916504
+=======================
+ein blonder junge in gestreiftem hemd sitzt mit einer frau mit brille . <eos>
+ein blonder junge mit einem blauen t-shirt sitzt bei einer frau mit brille . <eos>
+0.4359765648841858
+=======================
+zwei asiatisch asiatischer , mädchen , ein junge , das stehen stehen auf dem boden eines baum . <eos>
+zwei asiatische kinder , ein junge und ein mädchen , stehen neben einem baum . <eos>
+0.0
+=======================
+der mann schläft auf dem sofa eingeschlafen . <eos>
+der mann ist auf dem sofa eingeschlafen . <eos>
+0.660632848739624
+=======================
+zwei personen gehen über eine straße . <eos>
+zwei menschen überqueren eine straße . <eos>
+0.3655552268028259
+=======================
+ein junger mann fährt mit seinem fahrrad die straße entlang . <eos>
+ein junger mann fährt auf einem selbstgebauten fahrrad über die straße . <eos>
+0.2714346647262573
+=======================
+ein mann verwendet einen hammer mit einem hand in dem hand , wobei seine hand in dem hand mit einem <unk> <unk> . <eos>
+ein metallarbeiter in einer gegend der mittleren <unk> oder <unk> bedient mit der rechten hand ein <unk> , während er in der linken hand die maske hält . <eos>
+0.0
+=======================
+ein älterer alter mann und eine frau sind in <unk> <unk> . <eos>
+ein älterer indischer mann und eine frau in ihrem haus . <eos>
+0.26911091804504395
+=======================
+mehrere leute lächeln , wie ein person ist , und ein person von ihnen spielt . <eos>
+drei menschen spielen musikinstrumente und eine andere person sieht so aus , als ob sie singen würde . <eos>
+0.0
+=======================
+mehrere personen treiben in einem gewässer . <eos>
+einige menschen schwimmen in einem gewässer . <eos>
+0.5169731974601746
+=======================
+ein <unk> der <unk> in einem schwarzen hemd hält eine <unk> und sieht eine <unk> an richtung an . <eos>
+auf einer bowlingbahn hält ein mann in einem schwarzen t-shirt eine bowlingkugel und blickt die bahn hinunter . <eos>
+0.0
+=======================
+ein geländemotorradfahrer macht mit einer rampe einen rampe im schnee . <eos>
+ein <unk> radfahrer fliegt über eine rampe im wald . <eos>
+0.0
+=======================
+ein junge mit einem park macht einen <unk> . <eos>
+ein junge mit einem irokesenschnitt jagt gänse in einem park . <eos>
+0.28106576204299927
+=======================
+ein <unk> <unk> <unk> <unk> und und <unk> und <unk> und einen kleinen boot in . <eos>
+das <unk> an bananen , orangen , melonen <unk> eines asiatischen obst- und <unk> auf seinem kleinen boot . <eos>
+0.0
+=======================
+eine junge frau und eine <unk> und frauen tragen <unk> und tanzen , die sich <unk> , <unk> , auf der kleidung <unk> . <eos>
+eine junge frau und eine ältere frau in traditionellen saris spinnen <unk> , während drei weitere personen in moderner kleidung nur von der taille abwärts auf dem bild zu sehen sind . <eos>
+0.14103315770626068
+=======================
+eine frau tritt einen ball , während ein mann in einem orangefarbenen trikot hinter der orangefarbenen trikot zuschaut . <eos>
+eine frau wirft einem hund eine frisbeescheibe zu , während ihr ein baseballspieler in spielkleidung <unk> . <eos>
+0.0
+=======================
+ein junge macht mit einem fahrradtrick vor einem <unk> aus . <eos>
+ein junge macht ein kunststück mit dem skateboard von einer <unk> herunter . <eos>
+0.0
+=======================
+ein alter mann hält einen gegenstand auf , während ein hund auf seinem kopf hält . <eos>
+ein alter mann hält einen hund empor , während sein anderer hund auf seinen schoß klettert . <eos>
+0.2827591896057129
+=======================
+ein mann läuft durch den schnee im schnee . <eos>
+ein mann rennt mithilfe von schneeschuhen durch den schnee . <eos>
+0.0
+=======================
+zwei kleine kleine jungen posieren mit <unk> <unk> und machen spaß . <eos>
+zwei kleine schwarze jungen spielen mit plastikflaschen und haben dabei viel spaß . <eos>
+0.0
+=======================
+eine frau in schwarz schaut nach ihrem handy . <eos>
+eine frau in schwarzen hosen blickt auf ihr handy . <eos>
+0.0
+=======================
+die feuerwehrleute sind vor einem gerüst . <eos>
+die <unk> befinden sich vor der hütte . <eos>
+0.0
+=======================
+ein kleinkind schaut das den baum eines baum . <eos>
+baby sieht sich die blätter am zweig eines baumes an . <eos>
+0.0
+=======================
+drei personen stehen am wasser und stehen am ufer am wasser . <eos>
+drei menschen knien oder stehen in der nähe des wassers am strand . <eos>
+0.0
+=======================
+zwei schwarze hunde , die einen weg eines kuh entlang . <eos>
+zwei schwarze hunde rennen auf beiden seiten eines befestigten weges <eos>
+0.0
+=======================
+ein nasser schwarzer hund beißt auf einer braunen leine auf der straße . <eos>
+ein großer brauner und ein weiß gefleckter hund liegen auf einer jacke auf der straße . <eos>
+0.2627946436405182
+=======================
+zwei männer , einer in einem roten und in roten kleidung , kämpfen in einem schwimmbecken . <eos>
+zwei männer , einer in blau und der andere in rot , treten in einem boxkampf gegeneinander an . <eos>
+0.2478179782629013
+=======================
+ein großer brauner hund steckt seine nase in seinem gesicht . <eos>
+ein großer brauner hund hält sein gesicht in den <unk> . <eos>
+0.27091991901397705
+=======================
+zwei männer arbeiten an einem blauen tag , um sich zum strand zum zum strand zu gelangen . <eos>
+zwei männer sind an einem hellen , sonnigen tag unterwegs , um ein paar fische im see zu fangen . <eos>
+0.0
+=======================
+ein mann mit einem blauen hemd zündet etwas an essen und redet an die u-bahn . <eos>
+ein mann mit einem blauen rucksack liest die zeitung , während er auf die u-bahn wartet . <eos>
+0.25875723361968994
+=======================
+menschen laufen auf einem kai an der see mit der wasser mit der sonne . <eos>
+menschen fahren mit dem boot auf einem see , während in der ferne die sonne durch die wolken bricht . <eos>
+0.0
+=======================
+eine fußballmannschaft hat sich und sie sich und amüsieren sich . <eos>
+ein team von fußballspielern steht zusammengedrängt und hat eine <unk> <unk> . <eos>
+0.0
+=======================
+hund ist in etwas um sich etwas zu sich . <eos>
+hund kauert zwischen pflanzen , um kamera anzusehen . <eos>
+0.0
+=======================
+ein junge hilft eines mädchen in der mitte eines <unk> in der mitte eines berges . <eos>
+ein junge übernimmt bei einem rennen einen stab von einem mädchen . <eos>
+0.0
+=======================
+zwei menschen fahren mit ihren fahrrad auf einem feldweg . <eos>
+zwei menschen fahren mit dem fahrrad auf einer unbefestigten straße <eos>
+0.2899784445762634
+=======================
+<unk> in dem <unk> <unk> <unk> auf dem feld und das gras spielen . <eos>
+<unk> in blau-weißer spielkleidung befinden sich auf dem spielfeld und spielen baseball . <eos>
+0.0
+=======================
+zwei männer stehen am dem <unk> eines <unk> , das auf dem <unk> eines <unk> hat . <eos>
+zwei männer warten auf dem rücksitz eines autos , während der fahrer auf dem fahrersitz platz nimmt . <eos>
+0.0
+=======================
+ein mann im gitarre auf einer bühne , im hintergrund spielt spielt gitarre . <eos>
+ein mann auf einer bühne spielt gitarre mit leuchten im hintergrund . <eos>
+0.0
+=======================
+der mann in der blauen hemd geht mit einem mann in roten hemd . <eos>
+der mann im blauen shirt ist mit dem mann in rot unterwegs . <eos>
+0.0
+=======================
+zwei handwerker gießen <unk> für ein <unk> . <eos>
+zwei mitarbeiter des <unk> legen klötze unter einen zug . <eos>
+0.0
+=======================
+eine frau und zwei kinder springen am strand und die frau in richtung ist , die in die sonne befindet . <eos>
+eine frau und ihre zwei kinder sind am strand und die frau springt hoch in die luft . <eos>
+0.27526989579200745
+=======================
+eine frau mit langem haar und einem schwarzen oberteil und einem schwarzen oberteil lacht aus ihre finger . <eos>
+eine frau mit schwarzem haar , schwarzem oberteil und einem roten rock <unk> jemandem mit der faust . <eos>
+0.0
+=======================
+zwei männer in blauen jacken arbeiten auf einem blauen fahrrad . <eos>
+zwei männer in shorts arbeiten an einem blauen fahrrad . <eos>
+0.4366835355758667
+=======================
+ein kanu mit wasser und drei personen im wasser im wasser . <eos>
+ein boot mit menschen und ihrem hab und gut befindet sich im wasser . <eos>
+0.19070781767368317
+=======================
+eine blonde frau im blauen oberteil , die einen blauen hund . <eos>
+eine blonde frau in einem blauen t-shirt packt eine mütze aus . <eos>
+0.0
+=======================
+eine frau und ein kind sitzen eiskrem in einem wagen , während zwei frau und einem frau vorbeigehen <eos>
+eine frau und ein kind sitzen zusammen in einem <unk> an einem grauen gehweg , während ein mann und zwei frauen vorbeigehen . <eos>
+0.2622140049934387
+=======================
+ein pferd führt einem publikum bei einem publikum . <eos>
+ein berittener polizist auf einem <unk> pferd beaufsichtigt eine menschenmenge . <eos>
+0.0
+=======================
+zwei frauen sitzen in <unk> in einem <unk> und gemüse in einem vollen umgebung . <eos>
+zwei frauen sitzen auf silbernen stühlen in einem bahnhof und warten auf einen zug oder eine u-bahn . <eos>
+0.0
+=======================
+zwei männer , hinter denen eine menschen mit einem raum mit vielen betten angebracht wird <eos>
+zwei männer hinter einer kreisförmigen bar in einem raum voll mit menschen . <eos>
+0.0
+=======================
+ein männliche wartet wartet auf den auf den brett . <eos>
+ein mann wartet am bahnsteig auf den zug . <eos>
+0.0
+=======================
+ein koch <unk> sich in einer <unk> an . <eos>
+eine <unk> ist im begriff , eine <unk> zu wischen . <eos>
+0.0
+=======================
+zwei männer im <unk> im freien auf einem markt . <eos>
+zwei männer mit <unk> sprechen miteinander auf einem freiluftmarkt . <eos>
+0.0
+=======================
+ein <unk> arbeitet an einer straßenecke an einer straßenecke an der <unk> . <eos>
+da ist ein café an einer straßenecke mit einer <unk> <unk> am <unk> des gebäudes . <eos>
+0.0
+=======================
+ein mann hält ein getränk in die kamera . <eos>
+ein mann hält der kamera ein <unk> entgegen . <eos>
+0.0
+=======================
+ein mann in schwarz und eine frau in schwarz , die sich . <eos>
+ein mann in grün und eine frau in schwarz machen <unk> . <eos>
+0.3907380700111389
+=======================
+ein mann in einem roten hut mit einem weißen hut steht vor einem <unk> . <eos>
+ein mann in einem roten kapuzenpullover und einer weißen schürze steht vor einem wandgemälde . <eos>
+0.3446073532104492
+=======================
+<unk> und <unk> <unk> ein mann in einem blauen auto und einem <unk> mit einem <unk> und <unk> . <eos>
+das bild zeigt <unk> und autos auf einem parkplatz und einen blau gekleideten mann , der an der vorderseite seines autos lehnt . <eos>
+0.0
+=======================
+ein mann singt in seinem mikrofon und singt in der mikrofon . <eos>
+ein mann singt in ein mikrofon , während seine band spielt . <eos>
+0.23901088535785675
+=======================
+ein mann mit langen haaren sitzt auf einer kleinen frau und sitzt auf einer straße auf einer straße . <eos>
+ein mann mit <unk> spielt mit dem haar einer frau , die in einer <unk> straße auf einem stuhl sitzt . <eos>
+0.0
+=======================
+leute kaufen <unk> in einem <unk> eine <unk> . <eos>
+menschen protestieren in einer <unk> <unk> gegen die <unk> . <eos>
+0.0
+=======================
+ein kleines kind steht allein auf einem <unk> . <eos>
+ein kleines kind steht allein auf einem <unk> felsen . <eos>
+0.7516500353813171
+=======================
+ein kleines mädchen in einem kleid sieht sich von einem frau in einem kleid in einem kleid . <eos>
+ein kleines mädchen in einem gepunkteten kleid blickt nach hinten zu einer frau in einem schwarzen kleid . <eos>
+0.31872713565826416
+=======================
+ein mann arbeitet auf einer baustelle . <eos>
+ein mann arbeitet auf einer baustelle . <eos>
+1.0
+=======================
+ein kleinkind in einer <unk> spielt spielt in einer <unk> . <eos>
+ein kleines kind mit <unk> spielt in einem reifen . <eos>
+0.0
+=======================
+ein mann und eine frau schauen in einem <unk> in . <eos>
+ein mann und eine frau halten bei einer demonstration schilder hoch . <eos>
+0.33547443151474
+=======================
+ein mann sitzt mit einem stuhl auf einem stuhl und schaut dabei etwas , während er etwas in einem stuhl zu <unk> . <eos>
+ein mann sitzt mit einem bier in der hand auf einem stuhl und brät an einem <unk> etwas zu essen . <eos>
+0.29456424713134766
+=======================
+zwei personen spielen im trüben wasser in einem pool . <eos>
+zwei menschen spielen <unk> in einem pool . <eos>
+0.38163310289382935
+=======================
+ein mann hebt eine frau sehr sehr sehr eine frau . <eos>
+ein fröhlicher mann hebt eine <unk> frau hoch . <eos>
+0.0
+=======================
+ein <unk> späht aus einem gletscher . <eos>
+ein herr kommt aus einem waschsalon . <eos>
+0.0
+=======================
+ein kleiner junge trägt ein rotes t-shirt und einer schwarze flagge und einer frau an einer leine . <eos>
+ein kleiner junge trägt eine <unk> flagge und geht neben einer frau . <eos>
+0.18951630592346191
+=======================
+ein kleines mädchen in einem roten kleid spielt mit einem kleinen ball in einem gelben schaufel . <eos>
+ein kleines mädchen in einem karierten kleid spielt in der nähe eines <unk> mit ihrem großen blauen ball . <eos>
+0.2478179782629013
+=======================
+ein mann in einem <unk> , sitzt sitzt auf einem motorrad . <eos>
+ein mann mit einem leuchtend bunten helm sitzt auf einem motorrad . <eos>
+0.44082319736480713
+=======================
+ein brauner hund läuft mit einem stock auf einem stock . <eos>
+ein brauner hund rennt mit einem stock im maul über den sand . <eos>
+0.0
+=======================
+ein blondes mädchen steht auf einem bett und hat dabei einen <unk> mit . <eos>
+ein kleines blondes mädchen steht auf einem kissen auf einem bett und lächelt mit geschlossenen augen . <eos>
+0.35477301478385925
+=======================
+vier personen helfen die <unk> von <unk> <unk> <unk> . <eos>
+vier menschen protestieren gegen die <unk> junger arbeiter durch <unk> . <eos>
+0.0
+=======================
+eine frau schlägt einen kleinen jungen auf einem kleinen jungen . <eos>
+eine frau zieht einem kleinen mädchen einen helm an . <eos>
+0.0
+=======================
+drei männer fahren in einem blauen motorrad . <eos>
+drei männer fahren in einem dunkelblauen auto . <eos>
+0.5133450627326965
+=======================
+ein junge hat einen anderen jungen auf seinem rücken . <eos>
+ein junge hebt einen anderen jungen auf seinen rücken . <eos>
+0.37817904353141785
+=======================
+eine frau in einem blauen oberteil steht und schaut nach unten . <eos>
+eine frau in einer blauen uniform steht da und blickt nach unten . <eos>
+0.2831301987171173
+=======================
+ein mann in einem weißen unterhemd sitzt auf einem <unk> und isst ein <unk> . <eos>
+ein mann in einem rot-weiß gestreiften hemd sitzt auf einem hocker an einem <unk> . <eos>
+0.29256126284599304
+=======================
+ein mann , der eine gitarre gitarre gitarre gitarre , singt in ein mikrofon . <eos>
+ein mann singt in ein mikrofon und hält dabei eine gitarre . <eos>
+0.22894157469272614
+=======================
+zwei personen in einem <unk> , <unk> sitzen sitzen in einem <unk> in . <eos>
+zwei menschen in <unk> <unk> aus <unk> sitzen auf stühlen in einem publikum . <eos>
+0.0
+=======================
+ein mann springt von einem pferd , während ihm zuschaut . <eos>
+ein mann übt seilspringen , während ihm eine menschenmenge dabei zusieht . <eos>
+0.0
+=======================
+eine gruppe von menschen wird von einem anderen auto fotografiert . <eos>
+eine gruppe von vier personen wird aus einem auto fotografiert . <eos>
+0.3264971077442169
+=======================
+ein bärtiger mann in einer braunen jacke sitzt mit einem <unk> und einen <unk> in der hand . <eos>
+ein bärtiger mann in einer dicken jacke sitzt mit einem <unk> in einer ecke . <eos>
+0.42794692516326904
+=======================
+ein grün grün mann liegt auf einer bank auf dem bank . <eos>
+ein grün gekleideter mann fährt snowboard auf einer bank . <eos>
+0.0
+=======================
+ein mann und eine frau schlafen auf einer bank . <eos>
+ein mann und eine frau schlafen auf einer bank . <eos>
+1.0
+=======================
+eine frau holt beim <unk> für eine <unk> zu . <eos>
+eine frau bereitet die zutaten für einen <unk> vor . <eos>
+0.0
+=======================
+ein kind springt auf einem trampolin und springen auf einen trampolin . <eos>
+ein kind macht einen rückwärtssalto , während es auf einem trampolin hüpft . <eos>
+0.0
+=======================
+ein mann fährt auf einem roten <unk> <unk> einen <unk> . <eos>
+ein mann fährt ein <unk> rotes rennauto . <eos>
+0.0
+=======================
+ein gelbes rennauto fährt über einen gelbes weg . <eos>
+ein gelbes auto saust über ein schneebedecktes feld . <eos>
+0.0
+=======================
+eine band spielt auf einem gehweg . <eos>
+eine band spielt auf dem gehweg . <eos>
+0.5
+=======================
+der strandpromenade geht durch der aufgewühlte <unk> vorbei , um durch er durch sein kurve zu laufen . <eos>
+das auto hinterlässt beim <unk> der aschenbahn eine staubwolke . <eos>
+0.0
+=======================
+ein rodeoreiter führt ein pferd bei einem pferd , während er ein pferd <unk> . <eos>
+ein cowboy versucht bei einem rodeo , ein pferd zu <unk> , während das pferd nach hinten <unk> <eos>
+0.0
+=======================
+ein großer flauschiger , flauschiger hund schüttelt sich aus dem wasser . <eos>
+ein sehr nasser brauner hund taucht aus dem wasser auf . <eos>
+0.0
+=======================
+eine person in winterkleidung posiert mit einer großen flagge im hintergrund . <eos>
+eine person in winterkleidung posiert mit einem schneemann und ist dabei von einer schneebedeckten landschaft umgeben . <eos>
+0.3000738024711609
+=======================
+ein fahrradfahrer in einem roten oberteil zeigt ein <unk> in der luft . <eos>
+ein fahrradfahrer in einem gelben shirt vollführt ein <unk> kunststück in der luft . <eos>
+0.4507763683795929
+=======================
+ein weißer hund mit weißer fell springt von der wasser von wasser . <eos>
+ein weißer hund mit braunen flecken springt vom ufer aus in das wasser . <eos>
+0.2475215345621109
+=======================
+ein mann mit brille hängt von einem zaun . <eos>
+ein mann mit schwimmbrille steigt über die leiter aus einem pool . <eos>
+0.0
+=======================
+ein mann in einem blauen hemd umarmt eine frau , die eine brunnen schwimmt . <eos>
+ein mann in einem schwarz-weiß gestreiften t-shirt fotografiert eine frau an einem springbrunnen . <eos>
+0.20687206089496613
+=======================
+eine frau in einem rosa bluse steht in den händen und steht in einem <unk> . <eos>
+eine frau in einem gestreiften shirt <unk> die arme , während sie in einem lebensmittelgeschäft steht . <eos>
+0.1928662359714508
+=======================
+zwei frauen in weiß , weiß weiß weiß , laufen auf die straße . <eos>
+zwei ganz in weiß gekleidete frauen mit hohen absätzen gehen auf der straße . <eos>
+0.0
+=======================
+ein mann mit einem <unk> bart sitzt in einem stuhl . <eos>
+ein mann mit einem namensschild sitzt in einem stuhl . <eos>
+0.6340466737747192
+=======================
+eine weibliche person in einer roten jacke hat den <unk> . <eos>
+eine <unk> in einer roten jacke übt ihre <unk> . <eos>
+0.31702330708503723
+=======================
+<unk> in <unk> kleidung auf einem restaurant , wird von <unk> und publikum sind . <eos>
+<unk> in uniformen marschieren in einer parade und spielen dabei <unk> instrumente . <eos>
+0.0
+=======================
+ein junge in einem blauen trikot spielt , ball bereit . <eos>
+ein junge in blau spielt fußball und ist im begriff , den ball zu schießen . <eos>
+0.0
+=======================
+ein mann auf einem kleinen boot macht eine großen mit einer großen <unk> mit einer großen <unk> . <eos>
+mann auf einem skateboard <unk> an einem sehr schönen tag einen leeren pool als rampe . <eos>
+0.0
+=======================
+drei kleine kinder stehen um ein <unk> <unk> . <eos>
+drei kleine kinder stehen um ein blau-weißes fass herum . <eos>
+0.5261003375053406
+=======================
+das mädchen und ein junge sitzen auf einer holzbank und ruhen sich . <eos>
+das mädchen und der junge küssen sich , während sie auf einer holzbank sitzen . <eos>
+0.0
+=======================
+eine alte aussehende frau , die sich <unk> und in einem <unk> obst in einer stadt aufgehängt . <eos>
+diese alte asiatin ruht sich aus und <unk> sich an einem scheinbar heißen tag in der stadt luft zu . <eos>
+0.0
+=======================
+ein alter mann sitzt mit einem schoß auf seinem schoß . <eos>
+ein alter mann sitzt mit einem tablett auf dem schoß da . <eos>
+0.45649683475494385
+=======================
+eine frau steht bei einer obstkarren und macht ein foto . <eos>
+frau steht auf einer ziegelmauer und fotografiert <eos>
+0.0
+=======================
+eine junge frau macht schlittschuhe im schlittschuhe <unk> . <eos>
+eine junge frau fertigt im <unk> teppiche an <eos>
+0.0
+=======================
+zwei personen klettern mit einem felswand hoch von einem felswand . <eos>
+zwei menschen klettern mit einem seil an einem felsen . <eos>
+0.0
+=======================
+ein typ macht ein skatepark in einem skatepark . <eos>
+ein typ macht ein <unk> in einem park . <eos>
+0.35494810342788696
+=======================
+eine gruppe spielt vor publikum vor einer publikum . <eos>
+eine gruppe spielt vor einer menschenmenge musik auf einer bühne . <eos>
+0.28106576204299927
+=======================
+ein älterer mann geht mit einem braunen hund mit einem braunen hund . <eos>
+ein älterer mann geht mit einem braunen hund an einer roten leine spazieren . <eos>
+0.5234442949295044
+=======================
+ein mann mit brille geht an einer straßenecke mit einer roten graffiti vorbei . <eos>
+ein mann mit kopfhörern geht an einer mauer mit rotem und lilafarbenem graffiti vorbei . <eos>
+0.2913055419921875
+=======================
+drei kleine hunde suchen an etwas an . <eos>
+drei kleine hunde schnüffeln an etwas . <eos>
+0.0
+=======================
+eine frau mit einer <unk> und <unk> macht eine show auf einer party . <eos>
+eine frau mit einer <unk> und <unk> <unk> haar auf einer party . <eos>
+0.6475445628166199
+=======================
+eine gruppe von männlichen menschen hält sich am strand am strand am strand am strand . <eos>
+eine gruppe von <unk> hält sich an den händen und bildet am strand entlang eine reihe mit blick zum wasser . <eos>
+0.0
+=======================
+studenten sehen ein mann mit einem klassenzimmer . <eos>
+hier sind zwei mütter , die einem kleinen kind zuhören . <eos>
+0.0
+=======================
+zwei frauen posieren bei einer veranstaltung . <eos>
+zwei frauen lächeln bei einer veranstaltung . <eos>
+0.5946035385131836
+=======================
+zwei mädchen spielen kricket und eines ball auf dem ball . <eos>
+zwei mädchen spielen volleyball , wobei das eine den ball schlägt . <eos>
+0.0
+=======================
+ein paar sitzt auf einer bank und eine frau schaut , während eine frau eine hintergrund eine zigarette sitzt . <eos>
+ein paar sitzt auf einer bank und unterhält sich , während im hintergrund eine frau einen hund spazieren führt . <eos>
+0.37365490198135376
+=======================
+zwei <unk> , ein weiße und und weiße ein <unk> im wasser im wasser . <eos>
+zwei <unk> , von denen eines rot und das andere weiß ist , wirbeln eine menge spritzwasser auf . <eos>
+0.0
+=======================
+ein mann und zwei frauen tragen sonnenbrillen laufen die straße entlang . <eos>
+ein mann und zwei frauen in shorts gehen die straße entlang . <eos>
+0.5783569812774658
+=======================
+ein <unk> <unk> in einem <unk> . <eos>
+jungen treten in einer <unk> gegeneinander an . <eos>
+0.0
+=======================
+eine gruppe leute sitzt an einem tisch und redend draußen und trinken bier . <eos>
+eine gruppe von menschen sitzt draußen an einem tisch , trinkt etwas und unterhält sich . <eos>
+0.0
+=======================
+eine frau und ein mann gehen die <unk> eines mannes , der neben einem gebäude vorbei ist . <eos>
+frau und mann gehen über <unk> hängebrücke mit <unk> daneben . <eos>
+0.0
+=======================
+eine junge junge frau mit <unk> <unk> mit einem <unk> mit einem weißen schirm hält sich eine <unk> . <eos>
+eine junge dunkelhaarige frau mit roter <unk> hält inmitten einer menschenmenge einen geöffneten weißen regenschirm <eos>
+0.0
+=======================
+footballspieler laufen um eines spiel um eines <unk> . <eos>
+footballspieler haben schwierigkeiten , bei ihren <unk> durch die <unk> linie zu <unk> . <eos>
+0.0
+=======================
+eine frau macht ein straße und steht auf der straße . <eos>
+eine frau fotografiert mit einer großen kamera , während sie auf der straße steht . <eos>
+0.0
+=======================
+ein gruppe touristen machen eine pause für eine foto . <eos>
+zwei wanderer machen eine pause , um ein foto zu aufzunehmen . <eos>
+0.0
+=======================
+eine frau steht neben ihrem mann und hält ein mann mit sonnenbrille . <eos>
+eine frau lächelt neben einem mann , der ebenfalls lächelt und eine zuckerwatte hält . <eos>
+0.0
+=======================
+eine frau in einem roten <unk> , steht steht bei einem <unk> . <eos>
+eine frau mit einem roten kleid und rotem haar steht vor einem leuchtend bunten haus . <eos>
+0.0
+=======================
+eine frau , die eine kopf trägt , hat eine kopf an der kopf . <eos>
+eine frau , die eine einkaufstasche von <unk> <unk> trägt , ist im zug eingeschlafen . <eos>
+0.2756907641887665
+=======================
+mehrere leute fahren auf einer <unk> , eine eine <unk> eine <unk> . <eos>
+mehrere menschen drehen einen <unk> in einem auf dem kopf stehenden <unk> . <eos>
+0.0
+=======================
+ein mann in einem orangefarbenen kanu , der sich an einem kanu geht an einem seil hält . <eos>
+ein mann mit orangen hosen hält ein seil auf einem boot . <eos>
+0.0
+=======================
+ein schwarz-weißer hund schwimmt in wasser . <eos>
+ein schwarzer und ein weißer hund schwimmen im klaren wasser . <eos>
+0.0
+=======================
+ein football-spieler gekleideter fußballspieler in einem <unk> spricht an einem mikrofon . <eos>
+ein rot-weiß gekleideter footballspieler spricht mit einem trainer . <eos>
+0.0
+=======================
+ein mann und eine frau machen auf einem <unk> ein <unk> . <eos>
+ein mann und eine frau machen ein nickerchen auf einem <unk> boot . <eos>
+0.4983724355697632
+=======================
+ein mann mit glatze , der in einem roten hemd hemd , steht vor einem gebäude . <eos>
+ein mann mit beginnender glatze und roter sonnenbrille in einem grünen hemd steht vor einem gebäude . <eos>
+0.381766676902771
+=======================
+ein paar geht an einem fenster voller <unk> mit einem <unk> vorbei . <eos>
+ein paar geht einen gang in einem laden entlang , der <unk> und <unk> verkauft . <eos>
+0.0
+=======================
+zwei personen unterhalten sich in einem roten auto , während der von der auto in der nähe <unk> <unk> ist . <eos>
+zwei menschen unterhalten sich bei einer roten telefonzelle , während in der nähe bauarbeiter eine pause machen . <eos>
+0.0
+=======================
+ein fotograph macht ein foto von einer <unk> ein foto . <eos>
+ein fotograf nimmt ein bild von einem <unk> auf ein paar türen auf . <eos>
+0.0
+=======================
+zwei männer schauen auf einer boden und schauen grimassen auf und einer <unk> und blickt auf ein boden . <eos>
+zwei männer blicken auf den bildschirm eines laptops , während einer schreibt und der andere auf den bildschirm zeigt . <eos>
+0.0
+=======================
+ein mann rennt von einem schwarzen bullen . <eos>
+ein typ rennt vor einem schwarzen bullen davon . <eos>
+0.0
+=======================
+eine gruppe leute spielt in weiß und spielt gitarre . <eos>
+eine gruppe von weiß gekleideten menschen spielt gitarre . <eos>
+0.2899784445762634
+=======================
+ein <unk> mit <unk> gekleideter mann mit blauer kleidung sitzen im sitzen . <eos>
+ein schwarz gekleideter mann mit <unk> haar , bart und brille sitzt im gras . <eos>
+0.0
+=======================
+ein person mit einem roten t-shirt liegt auf einer roten decke mit einer roten decke auf der hand . <eos>
+eine person in einem roten <unk> liegt auf sehr <unk> art auf einer mauer vor einem laternenpfahl . <eos>
+0.0
+=======================
+eine gruppe junger jungen springt an einem sonnigen tag <eos>
+eine gruppe von kleinen jungen macht einen wettlauf an einem verschneiten tag . <eos>
+0.0
+=======================
+eine frau macht mit ein foto ein foto . <eos>
+eine frau nimmt mit ihrer kamera ein foto auf . <eos>
+0.0
+=======================
+ein <unk> auto mit <unk> wird in dem <unk> <unk> wird . <eos>
+ein <unk> auto , das von vielen <unk> <unk> wird . <eos>
+0.38677066564559937
+=======================
+mehrere kinder sitzen um <unk> in einem klassenzimmer und schneiden dabei in einem klassenzimmer . <eos>
+mehrere kinder heben die hände , während sie auf einem bunten teppich in einem klassenzimmer sitzen . <eos>
+0.0
+=======================
+ein mann fährt einen <unk> auf seinem fahrrad . <eos>
+mann gleitet auf einem fahrrad den <unk> einer treppe hinunter . <eos>
+0.0
+=======================
+ein mann in der nummer der <unk> in der uniform überquert den auto und einer roten auto und einer telefonzelle . <eos>
+ein mann in <unk> überquert die straße bei einem weißen bus und einem roten <unk> . <eos>
+0.0
+=======================
+eine gruppe stehen steht an einem zug . <eos>
+eine gruppe von polizisten steht vor einem bus . <eos>
+0.0
+=======================
+eine junge frau mit <unk> bluse macht mit einer foto ein foto . <eos>
+eine junge frau mit braunem haar und trägershirt nimmt mit einer kamera ein foto auf . <eos>
+0.21457092463970184
+=======================
+mädchen sitzen mit ihren händen auf den händen . <eos>
+mädchen sitzen mit den händen im schoß da <eos>
+0.0
+=======================
+eine junge frau in einem rosa hemd versucht einen tier , das einen gegenstand eines seil zu . <eos>
+eine junge frau in einem pinkfarbenen shirt versucht bei einem rodeo , ein kalb einzufangen . <eos>
+0.23210911452770233
+=======================
+zwei frauen schauen von der <unk> umgeben . <eos>
+zwei frauen blicken auf viele häuser hinab . <eos>
+0.0
+=======================
+ein mann und eine frau arbeiten mit einem <unk> mit <unk> . <eos>
+ein mann und eine frau tauschen einen <unk> aus . <eos>
+0.3438931405544281
+=======================
+jemand fährt fahrrad fahrrad . <eos>
+eine person fährt auf ihrem geländemotorrad . <eos>
+0.0
+=======================
+drei leute versammeln sich um den tisch herum und spielen sich . <eos>
+diese menschen sind um den tisch versammelt und spielen jenga . <eos>
+0.0
+=======================
+eine frau und ein junge , im hintergrund liegt ein baby im freien , auf sich liegt . <eos>
+eine frau und ein junge auf einer bühne lachen mit einem zelt im hintergrund . <eos>
+0.2494174838066101
+=======================
+ein mann und eine frau gehen über eine straße . <eos>
+ein mann und eine frau überqueren eine leere straße . <eos>
+0.4832697808742523
+=======================
+eine gruppe von kindern spielt im wasser von einer wasser . <eos>
+eine gruppe von kindern spielt im wasser unter einer brücke . <eos>
+0.585905909538269
+=======================
+eine <unk> führt bei der bühne auf der bühne . <eos>
+eine <unk> tritt auf einer bühne auf . <eos>
+0.0
+=======================
+viele personen in einem weißen raum unterhalten sich in sich . <eos>
+viele weiß gekleidete menschen in einem stadion unterhalten sich miteinander . <eos>
+0.0
+=======================
+ein alter gekleideter mann in tarnkleidung hält einen fahrrad und steht dabei auf einem staubigen hügel . <eos>
+ein mann in mittelalterlicher kleidung steht auf einem hügel und hält dabei eine axt . <eos>
+0.0
+=======================
+ein <unk> frau wischt die <unk> ihres <unk> . <eos>
+eine frau mit <unk> gesicht reinigt den boden ihres <unk> . <eos>
+0.23801761865615845
+=======================
+viele leute schauen sich sich sich , um sich in etwas zu sehen . <eos>
+viele menschen haben sich versammelt , um etwas zu sehen , das nicht auf dem foto ist . <eos>
+0.0
+=======================
+menschen werden , während sie bei einem <unk> <unk> wird . <eos>
+menschen werden beim klettern oder wandern fotografiert . <eos>
+0.0
+=======================
+ein junge mit gelbem t-shirt hängt von einem felsen von anderen kindern von anderen wasser . <eos>
+ein kleiner junge in einem gelben t-shirt hängt an einem ring und ist dabei von anderen kindern umgeben . <eos>
+0.0
+=======================
+eine dame in einem roten kleid , die einen <unk> trägt , zeigt , wie sie einen <unk> eines <unk> . <eos>
+eine frau in einem rotem mantel , die eine vermutlich aus asien <unk> handtasche in einem blauen <unk> hält , springt für einen schnappschuss in die luft . <eos>
+0.0
+=======================
+die dame mit dem schwarzen jacke macht ein foto für ein foto . <eos>
+die frau mit einem schwarzen hut macht ein foto bei <unk> . <eos>
+0.0
+=======================
+eine frau in einem schwarzen kleid schiebt einen wagen einen weg einen weg entlang . <eos>
+eine frau in einem schwarzen kleid schiebt einen wagen mit <unk> einen gepflasterten <unk> entlang . <eos>
+0.5775400400161743
+=======================
+eine frau sitzt in einer dunklen <unk> . <eos>
+eine frau sitzt an einer dunklen bar . <eos>
+0.0
+=======================
+eine frau sitzt nachts auf einem belebten markt im freien . <eos>
+eine frau sitzt bei ihrem <unk> auf einem freiluftmarkt . <eos>
+0.0
+=======================
+jemand ist im meer zu meer . <eos>
+eine person beim <unk> auf dem meer . <eos>
+0.0
+=======================
+ein junge mit sonnenbrille , einem orangefarbenen kopfbedeckung steht auf einem parkplatz . <eos>
+ein junge mit brille und einem leuchtend gelben t-shirt steht auf einem parkplatz . <eos>
+0.42571109533309937
+=======================
+eine brünette frau mit einer <unk> mit einem <unk> <unk> einen <unk> . <eos>
+eine brünette frau mit einer <unk> schürze <unk> ein braunes tier . <eos>
+0.40525877475738525
+=======================
+eine band spielt für eine band für ein <unk> . <eos>
+eine band gibt ein rockkonzert vor zuschauern in einer bar . <eos>
+0.0
+=======================
+eine frau in einem schwarzen oberteil , die sich eine <unk> zu überqueren . <eos>
+eine frau in einem schwarzen t-shirt scheint eine rolltreppe <unk> . <eos>
+0.30130404233932495
+=======================
+ein junge macht einer <unk> , während eine <unk> <unk> eine <unk> <unk> . <eos>
+eine <unk> boy <unk> , jemand hätte ein <unk> schicken sollen . <eos>
+0.0
+=======================
+ein junger mann trägt sich auf einer großen schwarzen schwarze <unk> . <eos>
+ein junger mann trägt etwas in einem großen schwarzen <unk> . <eos>
+0.31170907616615295
+=======================
+ein mann und eine frau spielen ein freien im freien . <eos>
+ein mann und eine frau spielen ein spiel im freien . <eos>
+0.7348889112472534
+=======================
+ein mann in einem grünen hemd , der einen grünen hemd <unk> , einen <unk> auf einem <unk> zu machen . <eos>
+ein mann mit einem grünen shirt küsst ein weinendes kleinkind und sieht dabei den läufern eines <unk> zu . <eos>
+0.0
+=======================
+ein kleines mädchen in einem rosa tanzt tanzt mit hula-hoop-reifen . <eos>
+ein kleines mädchen in einem rosafarbenen <unk> übt einen <unk> . <eos>
+0.36462855339050293
+=======================
+eine frau in einem karierten hemd mit einem kleinen hemd , die mit <unk> <unk> <unk> <unk> <unk> <unk> . <eos>
+ein frau in einer rosafarbenen bluse zeigt einem mann in einem gestreiften pullover , wie eine handarbeit aus garn hergestellt wird . <eos>
+0.0
+=======================
+ein mann mit schürze steht vor einem <unk> und essen vor einem herd . <eos>
+ein mann mit einer schürze steht vor esswaren , die sich unter einer speisekarte befinden . <eos>
+0.0
+=======================
+eine gruppe von männern und frauen mit kindern , die mit <unk> und strand , sitzen am strand . <eos>
+eine gruppe von männern , frauen und kindern , die alle hüte tragen , unterhält sich am strand . <eos>
+0.3132767975330353
+=======================
+eine <unk> mann schläft mit seinem schläft auf dem bürgersteig . <eos>
+ein <unk> mann schläft draußen auf seinem stuhl . <eos>
+0.0
+=======================
+ein junge im taucheranzug , der einen gegenstand einen gegenstand ins wasser wirft . <eos>
+ein junge in einem kapuzenpullover wirft einen gegenstand in einen schmutzigen swimmingpool . <eos>
+0.0
+=======================
+zwei männer unterhalten sich neben einer wand an einer wand . <eos>
+zwei männer unterhalten sich bei einer mit graffiti besprühten wand . <eos>
+0.31702330708503723
+=======================
+ein mann mittleren alters mittleren alters sitzt an einem <unk> von einem <unk> , der auf einem <unk> sitzt . <eos>
+ein mann im mittleren alter legt am knie eines jüngeren <unk> , der auf einem <unk> sitzt , einen <unk> an . <eos>
+0.3212786018848419
+=======================
+dieser mann versucht sich in einer belebten stadt in new stadt zu machen . <eos>
+dieser mann versucht scheinbar , in einer geschäftigen stadt eine art <unk> <unk> <unk> . <eos>
+0.0
+=======================
+zwei motorradfahrer und pferde um fahren um eine kurve . <eos>
+zwei motorradfahrer <unk> kopf an kopf um eine kurve . <eos>
+0.4035278558731079
+=======================
+ein mann in einem schwarzen hemd und schwarzer hose hat einen kopf über seinem kopf . <eos>
+ein mann in einem schwarzen t-shirt und braunen <unk> hält eine schaufel über seinem kopf . <eos>
+0.43850693106651306
+=======================
+ein mädchen mit einer lilafarbenen und lilafarbenen hut und einer orangefarbenen hut steht auf der <unk> . <eos>
+ein mädchen mit geschminktem gesicht und einem orangen pullover steht bei ihrer truppe . <eos>
+0.0
+=======================
+eine familie steht draußen bei einem tag im freien . <eos>
+eine familie steht an einem bewölkten tag im freien . <eos>
+0.4832697808742523
+=======================
+ein mann spielt keyboard und singt in ein mikrofon . <eos>
+ein mann spielt keyboard und singt in ein mikrofon . <eos>
+1.0
+=======================
+eine <unk> hand wird bei einem mann mit einem mann , der eine jacke trägt . <eos>
+eine farbenfrohe parade , die von einem mann <unk> wird , der eine rote fahne trägt . <eos>
+0.0
+=======================
+zwei personen stehen vor einem gebäude . <eos>
+zwei menschen stehen vor einem gebäude . <eos>
+0.7071068286895752
+=======================
+eine junges mädchen in jeans und jeans spielt mit einem <unk> gitarre . <eos>
+ein junger erwachsener mit jeans und <unk> spielt auf einer schwarzen e-gitarre . <eos>
+0.0
+=======================
+eine ältere dame in einem roten schürze und einem <unk> schürze auf essen . <eos>
+eine ältere dame in einem <unk> pullover kocht eine mahlzeit . <eos>
+0.3062049150466919
+=======================
+ein <unk> im <unk> schaufelt den ball und eines mann im hintergrund . <eos>
+ein heißluftballon landet mit dem schatten eines mannes im hintergrund . <eos>
+0.19674980640411377
+=======================
+ein kind spielt in einer <unk> . <eos>
+ein kleines kind spielt unter einem <unk> . <eos>
+0.0
+=======================
+ein mann blickt an einen tisch aus seinen <unk> an . <eos>
+ein mann blickt auf einen seiner vier <unk> . <eos>
+0.0
+=======================
+junge leute sind in einem <unk> . <eos>
+junge menschen sind mit einem spiel beschäftigt . <eos>
+0.0
+=======================
+ein kind mit einem roten sweatshirt hängt , das sich aus einem holzzaun hängt . <eos>
+ein kind in einem roten sweatshirt hängt kopfüber an einem baum . <eos>
+0.21305416524410248
+=======================
+eine dame in einem weißen oberteil und einem einem <unk> aufhat , einen <unk> betrachtet zu machen . <eos>
+eine frau mit lilafarbenem oberteil und weißem rock sieht sich einen <unk> an . <eos>
+0.0
+=======================
+eine band spielt bei der konzert auf einem konzert . <eos>
+eine band spielt bei einem konzert musik auf einer bühne . <eos>
+0.2981247305870056
+=======================
+eine person surft auf einer <unk> auf dem welle . <eos>
+eine person beim parasailing auf einem <unk> . <eos>
+0.0
+=======================
+eine sängerin spielt gitarre vor einem mikrofon gitarre . <eos>
+eine künstlerin singt und spielt gitarre vor einem mikrofon . <eos>
+0.4226839244365692
+=======================
+eine mutter und zwei kinder posieren vor <unk> . <eos>
+eine mutter und zwei kinder posieren mit lustigen gesichtern . <eos>
+0.5261003375053406
+=======================
+auf stehen stehen sich auf einem großen großen großen <unk> . <eos>
+<unk> stehen oben an einer <unk> , die auf ein großes schiff führt . <eos>
+0.0
+=======================
+zwei männliche <unk> kämpfen um ihre <unk> , während ihre personen zuschauen . <eos>
+zwei boxer sind bereit zum kampf , während die menschenmenge <unk> zusieht . <eos>
+0.0
+=======================
+ein mann mit einem blauen helm fährt auf einem mountainbike . <eos>
+mann mit blauem helm <unk> sich auf einem fahrrad in den verkehr ein . <eos>
+0.0
+=======================
+zwei leute gucken sich in einem fenster . <eos>
+zwei menschen sehen sich kleidung in einem schaufenster an . <eos>
+0.0
+=======================
+zwei frauen stehen mit schnee im schnee . <eos>
+zwei frauen stehen mit skistöcken im tiefschnee . <eos>
+0.36889398097991943
+=======================
+ein junger skifahrer blickt in die kamera . <eos>
+ein junger skifahrer blickt in die kamera . <eos>
+1.0
+=======================
+eine junge frau steht auf einem mikrofon und ein mann etwas , ein mikrofon in einem mikrofon . <eos>
+eine junge frau singt in ein mikrofon , während ein mann hinter ihr eine gitarre hält . <eos>
+0.0
+=======================
+ein hund befindet sich in seinem <unk> in der nacht gegend . <eos>
+hund an leine <unk> in ländlicher gegend im schnee . <eos>
+0.0
+=======================
+ein <unk> <unk> über <unk> das <unk> fliegt , während ein kleines <unk> <unk> wird . <eos>
+ein rotes flugzeug fliegt über einem boot und zieht dabei pinkfarbenen rauch hinter sich her . <eos>
+0.0
+=======================
+zwei männer füllen ein blauen boot an einem <unk> ein <unk> aus . <eos>
+zwei männer bauen eine blaue <unk> auf einem <unk> see auf <eos>
+0.0
+=======================
+eine frau in einem <unk> wird jemandem . <eos>
+eine frau in gestreiften strumpfhosen wird von schnüren <unk> . <eos>
+0.0
+=======================
+ein junge in einem park spielt mit zwei hunden . <eos>
+ein junge in einem park spielt mit zwei orangen bällen . <eos>
+0.6774702072143555
+=======================
+eine gruppe von menschen steht auf einer reihe aussehenden <unk> auf einem museum . <eos>
+eine gruppe von menschen steht in einer <unk> reihe auf einem steinboden . <eos>
+0.33887144923210144
+=======================
+ein braun-weißer hund läuft auf dem gehweg . <eos>
+kleiner braun-weißer hund rennt auf dem gehweg . <eos>
+0.5133450627326965
+=======================
+eine frau in einem mantel vor einem haus , macht <unk> . <eos>
+frau im mantel bei <unk> vor einem haus <eos>
+0.0
+=======================
+zwei frauen gehen am strand entlang und tragen blumen . <eos>
+zwei frauen gehen den strand entlang und tragen dabei bretter und <unk> . <eos>
+0.28790783882141113
+=======================
+eine <unk> familie schaut durch ein mikroskop durch ein mikroskop . <eos>
+eine einzelne person fliegt mit dem fallschirm durch einen <unk> sonnenuntergang . <eos>
+0.0
+=======================
+ein schwarzer hund springt über eine rampe . <eos>
+ein schwarzer hund springt über ein <unk> hindernis . <eos>
+0.45936134457588196
+=======================
+ein kleines mädchen , das eine eine wand wand . <eos>
+ein kleines mädchen späht über eine blaue mauer . <eos>
+0.0
+=======================
+vier kinder , die ihre köpfe entlang ihre gehen entlang gehen , gehen die straße entlang . <eos>
+vier kinder mit rucksäcken drehen sich in richtung der kamera und lächeln , während sie eine landstraße entlanggehen . <eos>
+0.0
+=======================
+ein kind ist kurz davor , in einen <unk> zu werfen . <eos>
+ein kind ist <unk> im begriff , in einen pilz zu beißen . <eos>
+0.0
+=======================
+zwei hunde tollen im schnee im schnee . <eos>
+zwei hunde liegen mit offenem maul im schnee . <eos>
+0.31762149930000305
+=======================
+zwei männer in karateanzügen kämpfen kampfsport . <eos>
+zwei männer in <unk> üben einen kampfsport aus . <eos>
+0.0
+=======================
+ein asiatisches mädchen mit einem grünen pullover und mit schürze isst essen auf einem <unk> . <eos>
+ein asiatisches mädchen mit grünem hut und schürze serviert getränke auf einem tablett . <eos>
+0.20455163717269897
+=======================
+ein mann mit nacktem oberkörper schneidet einen <unk> in einem werkstatt . <eos>
+ein mann mit freiem oberkörper auf einem skateboard vollführt ein kunststück in einem skatepark . <eos>
+0.0
+=======================
+eine junge junge frau bei einem roten <unk> in einer <unk> . <eos>
+eine fitte junge frau übt kickboxen mit einem roten <unk> in einer turnhalle . <eos>
+0.32631105184555054
+=======================
+mehrere männer stehen am stehen eines tisch zum tisch . <eos>
+mehrere männer beten , während sie am ende eines tisches mit essen stehen . <eos>
+0.0
+=======================
+ein mann , der sich aus dem <unk> liegt , liegt , das auf dem boden liegt . <eos>
+ein mann , der aussieht , als ob er geschlagen <unk> wäre , liegt vor <unk> <unk> auf dem boden . <eos>
+0.19875547289848328
+=======================
+zwei männer der die fußball springen , um auf einem fußball zu springen . <eos>
+zwei männer aus gegnerischen teams rennen in richtung eines fußballs . <eos>
+0.0
+=======================
+eine person betet über einen großen gewässer . <eos>
+eine person beim parasailing über einem großen gewässer . <eos>
+0.3301008343696594
+=======================
+ein kleines asiatisch aussehendes mädchen mit einer schwarzen haaren mit einem schwarzen blume sitzt mit einem gesicht und ein buch . <eos>
+ein kleines mädchen asiatischer abstammung sitzt in einem schwarzen eimer und isst mit einem breiten lächeln im gesicht ein <unk> . <eos>
+0.0
+=======================
+eine person sitzt vor einer menschenmenge vor einer menschenmenge . <eos>
+eine person sitzt vor einer menschenmenge auf einem stuhl . <eos>
+0.5193071961402893
+=======================
+ein mann mit einem schwarzen hemd , mit schwarzen hemd und schwarzen hosen macht einen fliege . <eos>
+ein mann mit einer grauen mütze , trägershirt und schwarzen shorts macht einen handstand . <eos>
+0.0
+=======================
+zwei frauen aus zwei und mann , die aus einem <unk> eines <unk> verlassen machen . <eos>
+zwei frauen in rot und ein mann , der aus einer <unk> toilette kommt . <eos>
+0.0
+=======================
+fünf mitglieder einer band rockband ein lied . <eos>
+fünf mitglieder einer band spielen ein lied . <eos>
+0.5969492197036743
+=======================
+ein person auf einem wakeboard befindet sich . <eos>
+eine person auf einem <unk> mitten im sprung . <eos>
+0.0
+=======================
+mehrere männer auf einer straßenecke stehen eine straße mit einer <unk> . <eos>
+mehrere männer stehen auf einem <unk> , der durch eine straße voll mit menschen fährt . <eos>
+0.0
+=======================
+ein sehr kleines kind sitzt mit <unk> und spielt mit einem <unk> mit <unk> mit <unk> . <eos>
+ein sehr kleines kind mit farbe auf körper und gesicht sitzt in der spüle und spielt mit der <unk> <eos>
+0.19481968879699707
+=======================
+eine gruppe frauen in <unk> in <unk> und <unk> und <unk> . <eos>
+eine gruppe bunt gekleideter und geschminkter frauen tanzt im <unk> stil . <eos>
+0.0
+=======================
+der schwarze hund springt von der wasser aus , eines der von nähe eines <unk> . <eos>
+der schwarze hund springt über dem wasser in richtung einer frisbeescheibe , die in der nähe eines boots treibt . <eos>
+0.16556335985660553
+=======================
+drei männer unterhalten sich vor einem <unk> vor einem <unk> . <eos>
+drei männer unterhalten sich vor einer alten treppe auf der straße . <eos>
+0.33547443151474
+=======================
+frauen in geschäftskleidung singen zusammen . <eos>
+frauen in ethnischer kleidung singen zusammen . <eos>
+0.4238365590572357
+=======================
+ein kleines kind wird einen roten ball hoch . <eos>
+ein kleines kind schwingt einen roten baseballschläger nach hinten . <eos>
+0.0
+=======================
+ein mann hockt vor einer gelben <unk> . <eos>
+ein mann kauert vor einer gelben mauer . <eos>
+0.0
+=======================
+ein mann in einem weißen hemd macht einen <unk> <unk> . <eos>
+ein mann im weißen hemd macht <unk> . <eos>
+0.0
+=======================
+eine frau sitzt auf einer bank auf einer bank . <eos>
+eine frau sitzt auf einer öffentlichen bank . <eos>
+0.4692470133304596
+=======================
+drei personen sitzen draußen an einem tisch mit einem tisch und essen mit essen . <eos>
+drei menschen sitzen im freien an einem tisch , an dem kunstwerke lehnen . <eos>
+0.0
+=======================
+ein sänger macht den publikum mit publikum . <eos>
+ein sänger singt zusammen mit dem publikum bei einem auftritt . <eos>
+0.0
+=======================
+ein junger mann fährt mit einer skateboard auf einer wand . <eos>
+ein junger mann fährt mit dem skateboard auf einer <unk> . <eos>
+0.4659538269042969
+=======================
+ein mann spielt mit seinem <unk> auf seinem computer . <eos>
+ein mann spielt mike <unk> <unk> auf seinem computer . <eos>
+0.5877283811569214
+=======================
+zwei männer schauen einander , wie sie einen anderen kopf auf den boden <unk> . <eos>
+zwei männer beobachten einen anderen , während dieser am nassen zement letzte hand <unk> . <eos>
+0.0
+=======================
+eine <unk> spielt bei einer bühnenauftritt . <eos>
+eine vierköpfige band hat einen auftritt . <eos>
+0.0
+=======================
+zwei <unk> spielen im unteren des <unk> . <eos>
+zwei terrier spielen zu hause auf dem holzboden . <eos>
+0.0
+=======================
+eine junge junge frau springt in einem belebten gebiet in der stadt . <eos>
+eine junge asiatin vollführt in einem belebten stadtteil einen luftsprung . <eos>
+0.0
+=======================
+ein mann fotografiert von einer <unk> und <unk> ab . <eos>
+ein mann fotografiert weiße und gelbe tulpen . <eos>
+0.0
+=======================
+eine <unk> nimmt bei einem wettkampf <unk> ein aufwärmen . <eos>
+eine läuferin <unk> ihren ersten <unk> in einem wettkampf . <eos>
+0.0
+=======================
+<unk> essen auf dem tisch . <eos>
+straßenverkäufer rückt waren auf dem tisch zurecht . <eos>
+0.0
+=======================
+ein mann mit einem quad und einem helm reitet mit einem pferd in der nähe eines <unk> . <eos>
+ein mann mit <unk> und einem helm reitet auf einem weißen pferd und das pferd springt über ein hindernis . <eos>
+0.19758296012878418
+=======================
+eine gruppe junger jungen haben sich bei den das <unk> für ihre <unk> <unk> . <eos>
+mehrere junge erwachsene starren konzentriert auf ihre <unk> , während sie gegeneinander spielen . <eos>
+0.0
+=======================
+ein hund rennt über die kamera auf die kamera . <eos>
+ein hund rennt durch das gras auf die kamera zu . <eos>
+0.0
+=======================
+drei personen auf einer <unk> mit zwei und <unk> und personen fahren auf einer welle . <eos>
+drei menschen auf zwei <unk> und einem quad fahren durch braunes gras . <eos>
+0.0
+=======================
+eine junge frau führt einen <unk> aus <unk> . <eos>
+eine junge frau spielt ein saiteninstrument im haus . <eos>
+0.0
+=======================
+ein mann und eine frau sitzen auf einem bank und zeichnen sich auf einem boot . <eos>
+ein mann und eine frau sitzen auf einer bank und sehen zu , wie ein boot vorüberfährt . <eos>
+0.3806578814983368
+=======================
+ein junger mann bekommt beim <unk> <unk> in einem grünen stücke <unk> . <eos>
+ein junger mann stellt <unk> auf einem <unk> mit lilafarbenem <unk> auf . <eos>
+0.0
+=======================
+ein <unk> auf einem <unk> wird ins wasser wasser . <eos>
+ein <unk> wird im wasser auf einen <unk> gehoben . <eos>
+0.0
+=======================
+eine mutter und ihr tochter beim <unk> . <eos>
+eine mutter und ihr sohn lächeln , während sie den hügel <unk> . <eos>
+0.24767214059829712
+=======================
+ein mädchen in einem weißen oberteil bläst in einem dunklen raum einen raum . <eos>
+mädchen in weißem t-shirt macht seifenblasen in dunklem zimmer . <eos>
+0.0
+=======================
+drei mädchen fahren mit dem <unk> eines <unk> auf der kopf . <eos>
+drei mädchen reiten auf pferden , wobei sich das <unk> mädchen im <unk> befindet . <eos>
+0.0
+=======================
+ein älterer mann mit <unk> und krawatte tritt auf einer städtischen straße eine straße . <eos>
+ein älterer mann mit tätowierungen und <unk> schlendert auf einer straße in der stadt herum . <eos>
+0.21044282615184784
+=======================
+ein <unk> steht an einem <unk> . <eos>
+ein <unk> steht an einem schalter . <eos>
+0.5946035385131836
+=======================
+ein baby sitzt auf einem blauen <unk> . <eos>
+ein baby sitzt auf einem blauen <unk> . <eos>
+1.0
+=======================
+eine große gruppe jugendlicher posiert vor die kamera . <eos>
+eine mittelgroße gruppe von menschen posiert vor der kamera . <eos>
+0.0
+=======================
+ein bauarbeiter in orangefarbener weste arbeitet <unk> . <eos>
+ein bauarbeiter in einer orangen weste verlegt <unk> . <eos>
+0.0
+=======================
+ein kleiner asiatischer junge sitzt mit seinem <unk> und er sein <unk> . <eos>
+ein kleiner indischer junge sitzt da und denkt über seine zukunft nach . <eos>
+0.0
+=======================
+ein kleines blondes mädchen hält eine <unk> . <eos>
+ein kleines blondes mädchen hält ein sandwich . <eos>
+0.5133450627326965
+=======================
+in einem großen raum stehen stehen stehen in einem raum mit einem großen raum , in der steht in der <unk> stehen . <eos>
+schwimmer stehen auf den verschiedenen stufen eines großen <unk> in einem raum , dessen wände mit figuren aus der <unk> bemalt sind . <eos>
+0.0
+=======================
+mehrere leute warten in einem <unk> mit einem <unk> <unk> <unk> . <eos>
+mehrere menschen warten an der kasse in einem geschäft mit einer nach lagerhalle aussehenden decke . <eos>
+0.0
+=======================
+eine gruppe junger kinder sitzt an einem felsen in einem strand . <eos>
+eine gruppe junger menschen posiert in der luft an einem sandstrand . <eos>
+0.0
+=======================
+zwei kleine mädchen in pink . <eos>
+zwei kleine mädchen in blauen kleidern lachen . <eos>
+0.36741456389427185
+=======================
+ein kind fährt mit einer roten mit einer grünen <unk> mit <unk> . <eos>
+ein kind bei einer blauen bühne mit einer bunten figur darauf . <eos>
+0.0
+=======================
+eine gruppe von arbeitern demonstriert sich um einem <unk> zu <unk> . <eos>
+eine gruppe von arbeitern hört den anweisungen eines kollegen zu . <eos>
+0.23901088535785675
+=======================
+ein mann steht auf einem pier , das auf einem see auf einem see steht . <eos>
+mann steht auf einem pier neben einem boot an einem ruhigen see . <eos>
+0.26920509338378906
+=======================
+bei einem foto versucht ein anderen spieler zu ihr , während ihr ihr <unk> sie ist . <eos>
+dem mädchen wird eine frisbeescheibe <unk> , während das andere mädchen darum zu <unk> scheint . <eos>
+0.0
+=======================
+ein kleines kind und eine frau stehen bei einem <unk> . <eos>
+ein kleines kind und eine frau stehen um einen hahn im käfig herum . <eos>
+0.4444418251514435
+=======================
+ein mann sitzt auf dem boden und spielt . <eos>
+ein mann sitzt auf dem boden und spielt gitarre . <eos>
+0.7516500353813171
+=======================
+eine gruppe von <unk> befindet sich in einer <unk> . <eos>
+eine gruppe <unk> in einer einsamen gegend . <eos>
+0.0
+=======================
+zwei hunde laufen und laufen im schnee . <eos>
+zwei hunde rennen und spielen im schnee <eos>
+0.0
+=======================
+ein mann in einer schwarzen neoprenanzug surft auf einer welle . <eos>
+ein mann in einem schwarzen neoprenanzug surft auf einer welle . <eos>
+0.7348889112472534
+=======================
+ein mann der ein weißes hemd auf dem fahrrad kunststücke auf einer straße . <eos>
+ein mann in einem grauen t-shirt vollführt ein kunststück mit einem skateboard auf einer treppe . <eos>
+0.0
+=======================
+ein mann in einem anzug springt und schreit . <eos>
+ein mann mit einem rock hüpft und jongliert dabei mit <unk> . <eos>
+0.0
+=======================
+zwei männer in <unk> spielen . <eos>
+zwei männer beim <unk> spielen baseball . <eos>
+0.0
+=======================
+ein mann im <unk> geht auf einer belebten belebten straße entlang . <eos>
+<unk> mann in einem geschäftsanzug geht eine belebte straße entlang . <eos>
+0.2224247008562088
+=======================
+ein mann der einen grauen hemd <unk> auf einem kopf an einem tisch gelegt . <eos>
+ein mann in einem grauen hemd legt seinen kopf auf einen tisch . <eos>
+0.0
+=======================
+ein kleines mädchen <unk> das <unk> mit <unk> mit <unk> mit <unk> . <eos>
+ein kleines mädchen <unk> an einer <unk> mit weißen <unk> für die <unk> . <eos>
+0.27392759919166565
+=======================
+zwei personen in weißen hemden gehen an dem gehweg entlang und <unk> sich . <eos>
+zwei menschen mit weißen oberteilen gehen den gehweg entlang und telefonieren dabei . <eos>
+0.0
+=======================
+ein mann hält vor einer menschenmenge eine menschenmenge . <eos>
+ein mann hält eine präsentation vor einer menschenmenge . <eos>
+0.0
+=======================
+in einem bereich voller menschen in einem gebäude . <eos>
+von touristen <unk> bilder bei einem gebäude in china . <eos>
+0.0
+=======================
+eine ältere frau blickt in ihren händen und blickt in ihre händen . <eos>
+eine ältere weißhaarige frau sieht in ihre kasse und blickt durch ihre <unk> hindurch . <eos>
+0.0
+=======================
+ein kind steht am strand am ende eines bootes und hat sich in der luft . <eos>
+ein kind am ufer eines sees zeigt auf etwas am himmel . <eos>
+0.0
+=======================
+ein junge liegt in einem bein und hat seine füße in die luft . <eos>
+ein kleiner junge liegt auf einem krankenhausbett und lässt ein bein seitlich <unk> . <eos>
+0.0
+=======================
+drei kinder in braunen hemden und jeans sitzen auf ihren boden im boden . <eos>
+drei kinder in braunen shirts und jeans hüpfen im freien mit blättern auf dem boden . <eos>
+0.24401943385601044
+=======================
+ein kleiner junge liegt auf einem bunten teppich . <eos>
+kleiner junge im <unk> krabbelt auf braunem fußboden <eos>
+0.0
+=======================
+der braune braune hund jagt einen kleinen jungen hinterher . <eos>
+der große braune hund jagt dem kleinen braunen hund hinterher . <eos>
+0.0
+=======================
+ein mann wird von einer <unk> von der sonne von roter fällt . <eos>
+ein mann in der ferne bei einem <unk> tempel . <eos>
+0.0
+=======================
+ein kleiner junge schiebt einen <unk> in einen löffel in einem werkstatt . <eos>
+ein kleiner junge verwendet einen bohrer , um ein loch in ein holzstück zu machen . <eos>
+0.0
+=======================
+eine ältere frau mit einem blauen hut sitzt auf einem blauen stuhl und sitzt auf einem <unk> auf waschmaschinen an waschmaschinen . <eos>
+eine ältere frau mit einer blauen mütze sitzt auf dem gehweg und hackt etwas gelbes auf einem brett neben sich . <eos>
+0.16133949160575867
+=======================
+eine gruppe hellhäutiger menschen in einem weißen hemd fährt vor einem brunnen . <eos>
+eine gruppe von schwarzen in orangen t-shirts tritt vor einem eingezäunten park auf . <eos>
+0.0
+=======================
+ein <unk> fährt bei einem roten <unk> an einer <unk> entlang . <eos>
+ein <unk> fährt bei einer parade auf einem großen grünen traktor die straße entlang . <eos>
+0.23644620180130005
+=======================
+eine frau mit einem fahrradhelm und einem helm mit einem <unk> springt in <unk> . <eos>
+eine frau mit blauem hut und gelbem rock springt an einer mit <unk> bewachsenen stelle in die luft . <eos>
+0.0
+=======================
+ein junge wirft einen wasser über einen wasser . <eos>
+ein kleiner junge wirft einen stein in <unk> wasser . <eos>
+0.0
+=======================
+ein mann der bei dem <unk> eines <unk> bei einem schläger einen ball um den <unk> zu . <eos>
+ein mann , der zum <unk> von <unk> gehört , trägt während eines <unk> eine sonnenbrille auf dem kopf . <eos>
+0.0
+=======================
+ein mann in einer anzug liest eine zeitung und liest zeitung auf der zeitung . <eos>
+mann in einem anzug , der eine zigarre raucht und eine zeitung liest , geht auf der straße . <eos>
+0.0
+=======================
+zwei frauen , von denen und <unk> <unk> sind , nehmen sich bei einem <unk> einen <unk> . <eos>
+zwei frauen , eine aus <unk> und eine aus china , treten bei einem ringkampf auf einer matte gegeneinander an . <eos>
+0.0
+=======================
+ein mann hält ein mikrofon im freien , während im gruppe von menschen stehen . <eos>
+ein mann mit einem mikrofon spricht draußen zu einer gruppe von menschen . <eos>
+0.0
+=======================
+ein einzelner mann in einem weißen t-shirt und mit schwarzem hut sitzt auf dem <unk> seiner <unk> . <eos>
+ein schwarzer mann mit weißem t-shirt und schwarzen kappe sitzt auf dem bordstein und schreibt <unk> . <eos>
+0.0
+=======================
+zwei männer stehen auf einer straße mit graffiti . <eos>
+zwei männer stehen auf der mit graffiti bedeckten straße . <eos>
+0.33076801896095276
+=======================
+mann und ein junge spielen mit einem strand am strand . <eos>
+mann und junge spielen bei sonnenuntergang mit einem hund am strand . <eos>
+0.29167550802230835
+=======================
+ein braun-schwarzer hund , der einen baum eines baum . <eos>
+ein braun-schwarz-weißer hund bellt an einem baum hinauf . <eos>
+0.0
+=======================
+ein mann hält ein kind auf seinen arm , während andere seine leute schauen . <eos>
+ein mann trägt ein kind auf seinen schultern , während um ihn herum menschen gehen . <eos>
+0.2150707095861435
+=======================
+zwei jungen in einem <unk> spielen grimassen in die kamera . <eos>
+zwei jungen in einem zelt lächeln für die kamera . <eos>
+0.42401254177093506
+=======================
+eine junge <unk> sieht die <unk> von <unk> , der <unk> <unk> . <eos>
+eine junge <unk> überprüft , ob sie neue <unk> von kunden erhalten hat . <eos>
+0.0
+=======================
+ein hund geht durch eine <unk> einen <unk> in einer <unk> . <eos>
+ein hund geht durch eine <unk> <unk> , die sich an einem felsigen berghang befindet . <eos>
+0.32406744360923767
+=======================
+ein hellhäutiger mann mit hosenträgern auf einer bühne , singt in ein mikrofon . <eos>
+ein tätowierter mann in einer latzhose hält ein mikrofon auf einer bühne . <eos>
+0.0
+=======================
+bei einer asiatischen marktstand werden ein mann mann ein mann . <eos>
+bei einer art jahrmarkt stellt ein mann zuckerwatte her . <eos>
+0.0
+=======================
+ein großer schwarzer hund läuft im gras an einem zaun . <eos>
+ein großer schwarzer hund rennt an einem zaun entlang durch das gras . <eos>
+0.296983003616333
+=======================
+drei weiße männer in weißen springen springen in die luft . <eos>
+drei weiße männer in t-shirts springen in die luft . <eos>
+0.6340466737747192
+=======================
+auf einer <unk> einer frau auf einer langen tasche , die eine straße liegt . <eos>
+auf einer belebten straße trägt eine dame waren auf ihrem kopf . <eos>
+0.0
+=======================
+ein snowboarder macht ein kunststück . <eos>
+ein snowboarder vollführt ein kunststück . <eos>
+0.488923043012619
+=======================
+ein mann und eine frau stehen neben einem zaun neben einem baum . <eos>
+ein mann und eine frau unterhalten sich , während sie neben einem baum stehen . <eos>
+0.3468899726867676
+=======================
+eine gruppe von personen in blau-schwarzen hemden und mit orangefarbenen hemden unterwegs in der ferne . <eos>
+eine gruppe von menschen in lilafarbenen t-shirts und hellbraunen hosen geht gemeinsam in dieselbe richtung . <eos>
+0.0
+=======================
+ein mann in einem roten hemd steht vor zwei männern vor einem <unk> . <eos>
+ein mann in einem roten t-shirt steht mit zwei mädchen vor einem alten bauwerk . <eos>
+0.31019502878189087
+=======================
+zwei frauen in blauen kleidern sitzen auf dem <unk> <unk> <unk> und mit ihnen steht <unk> . <eos>
+zwei frauen in blauen anzügen sitzen draußen auf dem beton , während sich hinter ihnen beton und <unk> <unk> befinden . <eos>
+0.17190484702587128
+=======================
+ein mann in einem weißen hemd sitzt auf einer <unk> . <eos>
+ein mann in einem weißen t-shirt sitzt auf einer kiste . <eos>
+0.4659538269042969
+=======================
+eine gruppe männer spielt auf der straße . <eos>
+eine gruppe von musikern spielt musik auf der straße . <eos>
+0.4250083267688751
+=======================
+zwei mädchen sitzen an einem tisch und lesen mit <unk> . <eos>
+zwei mädchen sitzen an einem tisch und arbeiten an <unk> <unk> . <eos>
+0.5833510756492615
+=======================
+eine person in einem roten mantel , die vor einem gebäude geht . <eos>
+person in einem langen roten mantel geht vor einem gebäude . <eos>
+0.0
+=======================
+drei frauen , die am strand auf dem wasser wasser wasser springen . <eos>
+drei frauen rennen barfuß durch den sand zum wasser . <eos>
+0.0
+=======================
+vier hunde laufen in einem feld und ein anderer mann und ein fußball . <eos>
+vier hunde spielen im kreis und ein schwarzer hund läuft weg . <eos>
+0.0
+=======================
+ein kind läuft durch eine <unk> . <eos>
+ein kind geht vor einem anderen . <eos>
+0.0
+=======================
+eine gruppe von sechs personen macht ein <unk> und <unk> auf einem <unk> für <unk> ein bild . <eos>
+eine gruppe von asiaten betrachtet und fotografiert ein neues fahrzeug bei einer <unk> . <eos>
+0.0
+=======================
+eine frau in einem schwarzen kleid und schwarzen schuhen geht die straße entlang . <eos>
+eine frau mit schwarzem kleid und flauschigen ohrenschützern geht die straße entlang . <eos>
+0.40016016364097595
+=======================
+ein junger football-spieler versucht auf einen <unk> zu . <eos>
+ein junger footballspieler bringt sich für ein <unk> in <unk> . <eos>
+0.0
+=======================
+ein mann und eine frau gehen , die die <unk> vorbei zu personen , die sie zu verkaufen verkauft . <eos>
+ein mann und eine frau mit kinderwagen gehen an einigen menschen vorbei , die waren in zelten verkaufen . <eos>
+0.2341812402009964
+=======================
+ein mann und eine frau sitzen an einem restaurant in einem restaurant . <eos>
+ein mann und eine frau sitzen einander gegenüber an einem restauranttisch . <eos>
+0.4324227571487427
+=======================
+der <unk> mit dem <unk> hat den <unk> zu seinem <unk> , während der verteidiger der <unk> einzufangen zu treffen . <eos>
+der <unk> hört dem arbeiter mit dem grünen schutzhelm zu , während die zu <unk> ausrüstung <unk> wird . <eos>
+0.0
+=======================
+zwei personen spielen ein spiel spiel . <eos>
+zwei einander <unk> menschen spielen ein spiel . <eos>
+0.0
+=======================
+eine junge frau in <unk> und <unk> neben einem <unk> bei einem <unk> bei einem <unk> . <eos>
+eine junge frau in „ straßenkleidung “ und stiefeln führt eine <unk> an einem see aus . <eos>
+0.17694973945617676
+=======================
+ein mann ist in einem roten , roten himmel . <eos>
+ein mann schlägt gerade einen rot-weiß-blauen volleyball . <eos>
+0.0
+=======================
+ein <unk> wartet darauf , auf dem <unk> <unk> <unk> . <eos>
+ein <unk> wartet auf seinen nächsten kunden . <eos>
+0.0
+=======================
+viele personen stehen an einem weißen boot an einem weißen quadraten . <eos>
+viele menschen stehen an einem brunnen unter einem blau-weißen schirm . <eos>
+0.0
+=======================
+eine menschenmenge versammelt sich , während sie im ihr kameras schauen . <eos>
+eine im freien <unk> menschenmenge sieht jemandem zu , der sich in ihrer mitte befindet . <eos>
+0.0
+=======================
+sechs leute arbeiten in einem <unk> oder <unk> . <eos>
+sechs menschen in einer turnhalle reparieren ein paar fahrräder . <eos>
+0.0
+=======================
+ein junge , der ein t-shirt , der auf einem fahrrad auf einem <unk> “ ist . <eos>
+das bild eines jungen in einem grünen t-shirt , der auf einem fahrrad sitzt , <unk> sich in einer <unk> . <eos>
+0.2580406963825226
+=======================
+ein mann lächelt neben zwei jungen zwei jungen . <eos>
+ein mann macht <unk> neben zwei jungen mädchen . <eos>
+0.0
+=======================
+ein <unk> <unk> wird vor einer <unk> von <unk> . <eos>
+eine <unk> kostümierte figur vor einem prächtig geschmückten bauwerk . <eos>
+0.0
+=======================
+eine <unk> <unk> <unk> durch eine kurve . <eos>
+eine gruppe von radfahrern legt sich bei einem straßenrennen in die kurve . <eos>
+0.0
+=======================
+ein mann und ein junge sitzen bei einem <unk> und <unk> <unk> . <eos>
+ein mann und ein junge sitzen an einem altar und halten beide eine glocke . <eos>
+0.36068636178970337
+=======================
+eine gruppe männer in traditioneller kleidung . <eos>
+eine gruppe von männern in kostümen spielt musik . <eos>
+0.0
+=======================
+ein <unk> von <unk> , der von <unk> <unk> <unk> wird , wird von einer mauer von einer <unk> von <unk> <unk> . <eos>
+ein paar bauarbeiter , in schubkarren wird beton <unk> , sie bauen oder reparieren eine wand und die wand ist noch nass . <eos>
+0.0
+=======================
+zwei frauen mit kurzen haaren und kurzen haaren , die eine frau und die lächeln lächeln . <eos>
+zwei kurzhaarige frauen stehen einander gegenüber und die blonde frau spricht . <eos>
+0.0
+=======================
+ein schwarzer hund steht im gras , im weißen hund , einen weißes maul im maul . <eos>
+ein schwarzer hund steht im gras und hält einen weißen <unk> in seinem maul . <eos>
+0.3541296720504761
+=======================
+eine frau im pullunder trinkt aus einem rockkonzert aus glas aus . <eos>
+eine frau in einem restaurant trinkt mit einem strohhalm aus einer <unk> . <eos>
+0.0
+=======================
+vier kleine kinder spielen mit <unk> . <eos>
+vier kleine kinder spielen mit leeren <unk> . <eos>
+0.6101950407028198
+=======================
+ein <unk> asiate mit langem <unk> <unk> und sonnenbrille vor einem großen schirm . <eos>
+ein <unk> , <unk> <unk> alter mann mit weißem haar sitzt vor einem maschendrahtzaun . <eos>
+0.0
+=======================
+drei kinder stehen neben stehen neben einem großen <unk> und stehen . <eos>
+drei kinder stehen nahe beieinander an einem hohen blauen holzpfahl . <eos>
+0.0
+=======================
+eine gruppe von freunden liegt zusammen auf dem boden und ihre ihre <unk> . <eos>
+eine gruppe von freunden liegt ausgestreckt auf dem boden und genießt die gemeinsame zeit . <eos>
+0.41913560032844543
+=======================
+ein mann macht ein foto von zwei anderen und kinder und macht sich auf einem see . <eos>
+ein mann nimmt ein foto von einem anderen mann und seinen beiden hunden auf ein paar grasbewachsenen hügeln auf <eos>
+0.0
+=======================
+ein <unk> sitzt in einer mitte und eines <unk> in einem <unk> eines <unk> . <eos>
+ein verkäufer sitzt inmitten seines <unk> auf einem straßenmarkt in einem asiatischen land . <eos>
+0.0
+=======================
+ein paar männer betrachten einen büro in einem büro büro . <eos>
+einige männer blicken auf einen computerbildschirm in einem büro . <eos>
+0.0
+=======================
+menschen schauen bei einem <unk> bei einem <unk> aus umgebung an . <eos>
+menschen probieren das essen einer lokalen bäckerei bei einem lokalen <unk> . <eos>
+0.0
+=======================
+eine frau in weißen shorts , die hose und weißen shorts <unk> , wirft einen <unk> zu schlagen . <eos>
+eine frau in weißen shorts , gelbem oberteil und weißen sandalen scheint einen stock zu werfen . <eos>
+0.30513280630111694
+=======================
+ein friseur mit einem schwarzen <unk> <unk> <unk> . <eos>
+ein <unk> mit einem schwarzen <unk> <unk> <unk> . <eos>
+0.7825422883033752
+=======================
+kinder werden in einem <unk> <unk> . <eos>
+kinder werden in einem <unk> <unk> . <eos>
+1.0
+=======================
+ein polizist arbeitet neben einem <unk> der straße . <eos>
+ein polizist hält ein fahrzeug am straßenrand an . <eos>
+0.0
+=======================
+ein mann in einem gelben boot auf einem see . <eos>
+mann in einem kleinen weißen boot auf einem see . <eos>
+0.5877283811569214
+=======================
+zwei personen laufen auf einem verschneiten berg . <eos>
+zwei menschen rennen auf dem gipfel eines berges . <eos>
+0.0
+=======================
+eine frau wird bei einem <unk> bei einem <unk> . <eos>
+eine frau wird auf einem jahrmarkt von einem clown unterhalten . <eos>
+0.0
+=======================
+ein paar männer sitzen auf einem boot mit einem boot in dem nähe von eimern und <unk> . <eos>
+einige männer sitzen in einem boot in der nähe eines strandes , der mit <unk> <unk> und stöcken bedeckt ist . <eos>
+0.0
+=======================
+der großer brauner hund rennt durch das wasser . <eos>
+der große braune hund rennt durch seichtes wasser . <eos>
+0.0
+=======================
+viele leute sind mit einem <unk> mit vielen leuten auf der sonne . <eos>
+viele stühle sind <unk> und nur einige wenige menschen genießen die sonne . <eos>
+0.0
+=======================
+ein mann schaut , während eine frau an einem <unk> sitzt . <eos>
+mann sieht einer frau in einer bar beim sprechen zu . <eos>
+0.0
+=======================
+ein mann und eine frau sitzen vor dem boden vor dem boden . <eos>
+ein mann und eine frau sitzen vor gepäck auf dem boden . <eos>
+0.6162607073783875
+=======================
+ein kleines mädchen mit einem dreirad geht geht mit einem pfad entlang einen pfad entlang . <eos>
+ein kleines barfüßiges mädchen mit einem helm geht über einen mit <unk> bedeckten umgefallenen baum . <eos>
+0.0
+=======================
+ein kleines mädchen mädchen in weißem bluse steckt einen <unk> mit einem türeingang in einem garten . <eos>
+ein kleines blondes mädchen in einem gepunkteten t-shirt badet ein stofftier in einer spüle . <eos>
+0.0
+=======================
+mutter und <unk> und ein junge posieren für ein foto . <eos>
+mutter und tochter in <unk> posieren für ein foto . <eos>
+0.4832697808742523
+=======================
+zwei kinder machen ihre <unk> und machen die frau in einem <unk> . <eos>
+zwei kinder stecken ihre gesichter in das bild eines <unk> und einer <unk> dame . <eos>
+0.0
+=======================
+eine <unk> arbeitet an einem <unk> . <eos>
+eine ureinwohnerin arbeitet an einer handarbeit . <eos>
+0.0
+=======================
+ein mann in einem roten jacke schiebt in einem großen gebäude gebäude . <eos>
+ein mann in einem langen blauen <unk> geht in ein altes steingebäude . <eos>
+0.21972815692424774
+=======================
+ein mann in einem gelben hemd arbeitet in einem <unk> . <eos>
+mann in einem <unk> t-shirt arbeitet in einem <unk> . <eos>
+0.5310725569725037
+=======================
+eine frau schreibt beim <unk> , in dem ein <unk> <unk> ist . <eos>
+eine frau näht , um in ihrem land ihren <unk> zu verdienen . <eos>
+0.0
+=======================
+eine <unk> , die mit einem <unk> <unk> <unk> <unk> ist , <unk> <unk> <unk> <unk> <unk> <unk> <unk> . <eos>
+ein rollschuh <unk> mönch mit einer schönen sonnenbrille betet , bevor er ein paar <unk> kunststücke macht . <eos>
+0.0
+=======================
+ein mann mit einer schwarzen jacke und einer schwarzen hut spielt trompete . <eos>
+ein mann mit schwarzer jacke und schwarzer mütze spielt auf einer trompete . <eos>
+0.0
+=======================
+ein mann in <unk> hält einen <unk> . <eos>
+ein braun gekleideter mann hält ein <unk> . <eos>
+0.0
+=======================
+menschen gehen einen gehweg mit einem gehweg über den gelände entlang . <eos>
+menschen gehen auf einem gehweg , an dem ein freiluftmarkt stattfindet . <eos>
+0.0
+=======================
+zwei männer auf motorrädern fahren auf einem weg um eine kurve . <eos>
+zwei männer auf <unk> motorrädern sausen auf einer rennstrecke um eine kurve . <eos>
+0.3786811828613281
+=======================
+mehrere menschen unterhalten eine ente in einer nähe . <eos>
+mehrere menschen genießen eine zigarette bei einem <unk> . <eos>
+0.0
+=======================
+eine gruppe von menschen rennt bei einem rennen einen rennen . <eos>
+eine gruppe von menschen läuft bei einem marathon im winter . <eos>
+0.2864629030227661
+=======================
+ein mann in einem grauen t-shirt grillt sich . <eos>
+ein mann in einem grauen t-shirt ruht sich aus . <eos>
+0.5418220162391663
+=======================
+eine frau schaut etwas im park im park . <eos>
+eine frau grillt <unk> aussehendes essen im park . <eos>
+0.31239399313926697
+=======================
+ein mann , der einen helm klettert , klettert eine felswand hoch . <eos>
+ein mann in einem klettergurt klettert an einer felswand <eos>
+0.0
+=======================
+ein kleines mädchen liegt auf dem boden und hat sich ein <unk> <unk> auf dem <unk> . <eos>
+ein kleines mädchen liegt auf dem boden , während ihre jüngere schwester krankenschwester spielt . <eos>
+0.3619174361228943
+=======================
+ein älterer mann hebt seine flüssigkeit aus wasser ins wasser . <eos>
+ein älterer mann schüttet etwas aus einer tüte in das wasser . <eos>
+0.0
+=======================
+zwei afrikanische kinder in farbenfrohen kleidern führen ein vorstellung für ein vorführung . <eos>
+zwei indische kinder in formeller tracht führen fröhlich einen <unk> tanz auf . <eos>
+0.0
+=======================
+zwei hände , die in ihren kopf sitzen und sitzen sich hände und halten sich in einem hände , wobei der rechte hände in der hand hält . <eos>
+zwei <unk> sitzen in <unk> <unk> auf pferden , wobei jeder einen <unk> in der rechten hand und die zügel des pferdes in der linken hand hält . <eos>
+0.12736481428146362
+=======================
+ein mann mit <unk> <unk> seinen <unk> um einen <unk> zu . <eos>
+ein mann mit <unk> <unk> sein ohr , um ein <unk> hören zu können . <eos>
+0.2886883020401001
+=======================
+junge , , asiatische , , , schwarze schwarze schwarze schwarze schwarze in roter kleidern , einem <unk> , machen ein tanz . <eos>
+junge erwachsene in einer <unk> linie , die rote , gelbe und schwarze t-shirts tragen , führen einen sketch auf . <eos>
+0.0
+=======================
+ein gitarrist und ein schlagzeuger spielen in einer <unk> eine <unk> . <eos>
+ein schlagzeuger und ein gitarrist treten in einem dunklen bereich auf . <eos>
+0.0
+=======================
+ein weißer hund rennt eine rampe von einer <unk> hinunter . <eos>
+ein braun-weißer hund rennt eine <unk> rampe hinunter . <eos>
+0.0
+=======================
+ein fußballspiel beobachtet ihren kinder , die zu den ball den ball <unk> . <eos>
+während eines fußballspiels versuchen zwei männer , den ball vor ihrem <unk> gegner zu erreichen . <eos>
+0.0
+=======================
+ein mann mit dreadlocks fährt auf dem <unk> einer großen <unk> mit einer <unk> . <eos>
+ein typ mit lockigem haar fährt mit dem skateboard eine graue rampe mit gelben buchstaben entlang . <eos>
+0.0
+=======================
+ein junges mädchen in einem kleid und sandalen rennt im gras . <eos>
+ein kleines mädchen in einem kleid und sandalen rennt durch das gras . <eos>
+0.5484498143196106
+=======================
+ein junge in einem blauen hemd , der einen fußball in einem blauen hemd zuschaut , während ein jungen zuschaut . <eos>
+ein junge in einem orangen t-shirt lächelt , während ihn ein junge in einem blauen t-shirt ansieht . <eos>
+0.23147347569465637
+=======================
+ein mann steht auf dem bürgersteig und hat einen <unk> . <eos>
+ein mann steht allein auf einem gehweg und rückt seine mütze zurecht . <eos>
+0.0
+=======================
+ein mann macht eine <unk> im szene , während sie im hintergrund macht . <eos>
+ein mann fotografiert einen see mit bergen im hintergrund . <eos>
+0.0
+=======================
+ein motorradfahrer steigt um eine <unk> um <unk> <unk> zu werden . <eos>
+ein traktor bewegt erde für den bau einer <unk> . <eos>
+0.0
+=======================
+zwei basketballspieler versuchen zum puck darauf , den puck zu gelangen , dass den ball zu gelangen . <eos>
+zwei eishockeyspieler sind bereit für das spiel , während der <unk> neben ihnen im begriff ist , den puck zu werfen . <eos>
+0.13120965659618378
+=======================
+ein kind kniet auf einem klettergerüst und beobachtet sich aus . <eos>
+kind spielt auf einem spielplatz und hängt dabei an stangen . <eos>
+0.0
+=======================
+ein schlafender schläft schläft auf einem grünen sofa . <eos>
+ein mann schläft in einem grünen raum auf einem sofa . <eos>
+0.0
+=======================
+ein motorradfahrer fährt einen roten <unk> hinunter . <eos>
+ein anhänger fährt eine mit rotem <unk> gepflasterte straße entlang . <eos>
+0.0
+=======================
+ein schwarzer hund springt durch wasser und hält ein stock in der schnauze . <eos>
+ein schwarzer hund springt durch das wasser und trägt dabei einen stock in seinem maul . <eos>
+0.3015911281108856
+=======================
+zwei asiaten stehen neben einer statue . <eos>
+zwei chinesen stehen an einer wandtafel . <eos>
+0.0
+=======================
+eine person mit roten schal steht hinter einer großen gruppe leuten . <eos>
+eine person mit langem blauen haar steht hinter einer großen menschenmenge . <eos>
+0.31170907616615295
+=======================
+ein <unk> in einem gelben pferd führt einen pferd , während eine menschenmenge zuschaut . <eos>
+ein straßenkünstler in einem orangen overall fährt auf einem großen einrad , während eine menschenmenge zusieht <eos>
+0.1837938278913498
+=======================
+ein ganz gekleideter mann hält mit der hand und hält seine hände über den <unk> . <eos>
+ein <unk> gekleideter mann hält sich mit seinen händen über dem boden . <eos>
+0.0
+=======================
+ein mann mit <unk> geht in einem anderen mann und ein mann in einem <unk> . <eos>
+ein mann mit einer <unk> , der keine beine hat , geht neben einem anderen mann , der zu einem marathon <unk> ist . <eos>
+0.0
+=======================
+ein geländemotorradfahrer fliegt durch die luft , während zuschauer in ihm luft um zuschauer zuschauen . <eos>
+ein skifahrer fliegt durch die luft , während ihm andere skifahrer , die mit dem <unk> fahren , dabei zusehen . <eos>
+0.2496907263994217
+=======================
+ein <unk> arbeitet an einem mann und ein mann hält ein <unk> . <eos>
+ein <unk> arbeitet an einem patienten , während ein mann die lampe hält . <eos>
+0.32575663924217224
+=======================
+eine frau in weißer kleidung hält einen <unk> . <eos>
+eine frau in weiß hält einen <unk> . <eos>
+0.5253819823265076
+=======================
+eine frau lächelt , während ein jungen mit gesichtsbemalung hält und einen säugling mit einem jungen hält . <eos>
+eine frau trägt <unk> auf , während ein junge mit irokesenschnitt einen spiegel hält . <eos>
+0.0
+=======================
+ein mann in einer rot jacke steht auf einer <unk> mit <unk> auf einer straße . <eos>
+ein mann in einer leuchtend bunten skijacke steht mit anderen auf einer straße in europa . <eos>
+0.24264384806156158
+=======================
+eine braut hat ihren <unk> ihren ihren <unk> in ihrem gesicht . <eos>
+eine braut rückt die blume am jackett ihres <unk> zurecht und hält dabei ihren eigenen blumenstrauß . <eos>
+0.0
+=======================
+eine person , die die straße die straße die <unk> <unk> . <eos>
+eine person überquert die straße und <unk> dabei die <unk> farbe . <eos>
+0.0
+=======================
+ein <unk> mann in uniform schlägt einen <unk> mit einem <unk> . <eos>
+ein uniformierter mann von der armee trainiert einen deutschen schäferhund mit einem <unk> . <eos>
+0.27885696291923523
+=======================
+zwei kleine kinder mit nacktem oberkörper am ufer eines baumes . <eos>
+zwei kinder mit nacktem oberkörper sitzen am rand eines <unk> . <eos>
+0.2790159285068512
+=======================
+ein mann steht auf einer leiter und eine <unk> eine <unk> . <eos>
+ein mann steht auf einem gerüst und streicht eine wand <unk> . <eos>
+0.29782021045684814
+=======================
+auf der straße ist viele leute mit <unk> zu reden . <eos>
+die straße ist voller menschen , die jacken tragen . <eos>
+0.0
+=======================
+eine person im wasser befindet sich im wasser . <eos>
+eine person rudert in ihrem boot im wasser . <eos>
+0.31239399313926697
+=======================
+drei personen laufen über eine wettrennen auf einer grünen bahn . <eos>
+drei menschen laufen auf einer roten bahn um die wette . <eos>
+0.0
+=======================
+leute gehen auf einem gehweg vor einem straße und einen <unk> entlang . <eos>
+menschen gehen vor einer <unk> auf einem gehweg in einer großstadt . <eos>
+0.0
+=======================
+ein junge mit <unk> sitzt auf einer <unk> den zigarette . <eos>
+ein junge mit kopfhörern sitzt auf den schultern einer frau . <eos>
+0.0
+=======================
+drei männer nehmen bei einem <unk> teil . <eos>
+drei männer treten bei einem <unk> gegeneinander an . <eos>
+0.0
+=======================
+ein schwarzer hund spielt mit einem hund in einem braunen pferd . <eos>
+ein schwarzer pudel spielt mit einem anderen hund auf einem <unk> feld . <eos>
+0.0
+=======================
+ein mann mit schwarzem hemd , der hemd schwarze schwarze und mit schwarzer kopfbedeckung spielt , spielt einen saiteninstrument . <eos>
+ein mann mit einem braunen hemd , einer grauen weste und einer schwarzen mütze spielt <unk> . <eos>
+0.0
+=======================
+ein mann , der gitarre vor einem mikrofon gitarre hält und ein mikrofon hält in einem mikrofon . <eos>
+ein stehender mann hält ein mikrofon vor einem mann mit einer gitarre . <eos>
+0.0
+=======================
+eine frau schneidet den gesicht gesicht und hat den schwarze <unk> . <eos>
+eine frau lässt sich ein tattoo im gesicht machen , das aus schwarzen linien und <unk> besteht . <eos>
+0.0
+=======================
+eine gruppe von leuten redet mit einem mann im freien . <eos>
+eine gruppe von menschen hört einem mann im freien beim sprechen zu . <eos>
+0.2892625629901886
+=======================
+fischer am <unk> auf ihren ihre tag . <eos>
+bauern betreiben tagsüber ihre <unk> . <eos>
+0.0
+=======================
+ein bärtiger mann mit braunem hemd hat den kopf auf dem kopf seinen mannes seine kopf . <eos>
+ein glatzköpfiger mann mit bart in einem <unk> gestreiften hemd lehnt seinen kopf an den arm eines anderen mannes . <eos>
+0.0
+=======================
+ein mann geht während eine frau während eine frau hinter ihm her . <eos>
+ein mann schiebt blumen , während eine frau eine geste in seine richtung macht . <eos>
+0.0
+=======================
+eine frau und ein kleiner junge tragen einen <unk> . <eos>
+eine frau und ein kleiner junge teilen sich einen stuhl . <eos>
+0.48834994435310364
+=======================
+ein mann mit rucksack sitzt auf einem fußgängerüberweg und betrachtet sich auf der straße . <eos>
+ein mann mit einem rucksack sitzt auf einer unbefestigten straße und zeigt in richtung horizont . <eos>
+0.0
+=======================
+ein <unk> gekleidete schwarz gekleidetes frau tanzt mit einem frau in einem kleinen hund in einer kleinen feld . <eos>
+eine warm gekleidete frau in schwarz kniet mit einem kleinen hellbraunen hund bei einer zuschauermenge . <eos>
+0.0
+=======================
+männer in weißer kleidung heben ihre hände in . <eos>
+weiß gekleidete männer heben ihre hände nach oben . <eos>
+0.0
+=======================
+ein <unk> mann mit einem overall macht ein <unk> . <eos>
+ein <unk> in einem mantel schiebt eine ladung gepäck . <eos>
+0.0
+=======================
+ein mann schaut bei ein , , ein anderer , <unk> der <unk> zu küssen . <eos>
+ein mann starrt ein <unk> paar an , während er den <unk> entlanggeht . <eos>
+0.0
+=======================
+eine person mit einem roten regenschirm geht an einem gletscher . <eos>
+person mit einem roten rucksack geht wandern . <eos>
+0.2620251178741455
+=======================
+ein basketballspieler im dem gesicht versucht , um um die <unk> zu schützen . <eos>
+das maul eines hundes öffnet sich und <unk> dessen scharfe zähne . <eos>
+0.0
+=======================
+ein junge steht mitten in der mitte eines <unk> . <eos>
+ein junge steht auf <unk> weise bei einem geselligen anlass herum . <eos>
+0.0
+=======================
+ein mann in einem <unk> steht auf einer <unk> und schaut auf unten . <eos>
+ein mann steht in einem mobilen essensstand und blickt über die <unk> tür . <eos>
+0.0
+=======================
+zwei personen unterhalten sich auf einem platz und ein <unk> ein <unk> . <eos>
+zwei menschen essen hamburger auf gartenstühlen , während ein dritter eine dose <unk> trinkt . <eos>
+0.0
+=======================
+ein mann sitzt alleine am rand eines <unk> . <eos>
+ein mann sitzt allein beim fischen an der küste . <eos>
+0.0
+=======================
+zwei <unk> gehen eine straße entlang . <eos>
+zwei jugendliche gehen eine <unk> straße hinunter . <eos>
+0.0
+=======================
+zwei männer sitzen draußen bei einem stand herum und ein <unk> <unk> abgebildet . <eos>
+zwei männer sitzen im freien und unterhalten sich neben einem schild für kostenlose <unk> . <eos>
+0.0
+=======================
+ein mann bereitet beim <unk> auf <unk> und bereitet sich auf einer platz auf . <eos>
+ein warm <unk> mann arbeitet bei <unk> <unk> oben in einem korb an einer <unk> . <eos>
+0.0
+=======================
+zwei frauen machen ein <unk> auf einer kamera . <eos>
+zwei frauen betrachten ein foto auf einer kamera . <eos>
+0.46713799238204956
+=======================
+eine gruppe von menschen sitzt um essen an einem tisch . <eos>
+gruppe von erwachsenen sitzt um einen tisch und hört sich eine präsentation an <eos>
+0.0
+=======================
+eine person mit hut und hut blickt nach rechts . <eos>
+eine person mit hut und schal blickt nach rechts . <eos>
+0.7016879320144653
+=======================
+zwei frauen in blauen kleidern und blauen hosen unterhalten sich . <eos>
+zwei frauen in pinkfarbenen t-shirts und bluejeans unterhalten sich vor einem bekleidungsgeschäft . <eos>
+0.0
+=======================
+ein mann geht auf dem straße die straße entlang . <eos>
+ein mann geht neben einer straße den gehweg entlang . <eos>
+0.0
+=======================
+ein dunkelhäutiger mann in einem anzug telefoniert zwei zwei männern in zwei männern . <eos>
+ein schwarzer mann in einer kochjacke telefoniert , während zwei andere männer mit schürzen lachen . <eos>
+0.0
+=======================
+eine frau in weißem bluse und mit einem weißen rock schläft auf einem stuhl auf einem stuhl . <eos>
+frau in einem weißen t-shirt und hosen entspannt sich auf einem sofa in einem haus . <eos>
+0.0
+=======================
+der skateboarder hatte sein gleichgewicht gegen sein <unk> beim sein <unk> . <eos>
+der <unk> radfahrer <unk> um sein leben , als <unk> <unk> von hinten <unk> . <eos>
+0.0
+=======================
+ein afroamerikanischer mann mit bart , dunkler krawatte und krawatte steht neben einer <unk> . <eos>
+ein afroamerikaner mit einem braunen hut , anzug und sonnenbrille steht an einer ziegelwand . <eos>
+0.0
+=======================
+ein <unk> , das auf dem <unk> wo leute zu schauen . <eos>
+<unk> <unk> auf grün , während die menschen sich motorräder ansehen . <eos>
+0.0
+=======================
+drei hunde spielen im schnee . <eos>
+drei hunde spielen im schnee . <eos>
+1.0
+=======================
+ein junge in schwarzer kleidung macht einen strand am strand . <eos>
+ein schwarz gekleideter junge schlägt ein rad am strand . <eos>
+0.2346234917640686
+=======================
+vier kinder spielen auf ihren instrumenten , während sie sie sie . <eos>
+vier kinder spielen auf der veranda vor ihrem haus , während ihr vater zusieht . <eos>
+0.20745377242565155
+=======================
+eine frau trägt eine anderen frau mit einer anderen kleid auf ihrem rücken . <eos>
+eine frau trägt eine andere frau mit gleicher sportkleidung auf ihrem rücken . <eos>
+0.4480304419994354
+=======================
+ein   junge mit einem blauen pullover steht am strand . <eos>
+ein barfüßiger junge mit einem blau-weiß gestreiften handtuch steht am strand . <eos>
+0.4029276371002197
+=======================
+zwei frauen in kleidern gehen einen bürgersteig entlang . <eos>
+zwei frauen in gepunkteten kleidern gehen einen gehweg entlang . <eos>
+0.0
+=======================
+ein schwimmer in einem roten anzug springt in die luft . <eos>
+ein tänzer in einem roten anzug springt in die luft . <eos>
+0.82651686668396
+=======================
+mehrere mädchen spielen mit instrumenten . <eos>
+mehrere mädchen spielen mit mehl . <eos>
+0.488923043012619
+=======================
+ein junges mädchen läuft in einem park park . <eos>
+ein junges mädchen läuft allein durch einen park . <eos>
+0.37991783022880554
+=======================
+ein kleiner junge springt ins wasser . <eos>
+ein kleiner junge springt in das wasser . <eos>
+0.44124844670295715
+=======================
+eine nahaufnahme von einem <unk> , das ein kleines mädchen und lächelt . <eos>
+die nahaufnahme des gesichts eines kindes , das einen blauen , herzförmigen lutscher isst . <eos>
+0.0
+=======================
+ein brauner hund rennt und ein schwarzen hund . <eos>
+ein brauner hund rennt dem schwarzen hund hinterher . <eos>
+0.35494810342788696
+=======================
+eine frau macht im wald einen loch . <eos>
+eine frau späht durch ein fernrohr im wald . <eos>
+0.0
+=======================
+zwei frauen mit kopftuch auf dem rücken gepflasterten <unk> entlang . <eos>
+zwei frauen gehen mit ihren kinderwagen eine mit blättern bedeckte straße entlang . <eos>
+0.0
+=======================
+ein junge in einem t-shirt und shorts lehnt einen korb und lehnt einen fluss an einen fluss . <eos>
+ein junge in einem t-shirt und shorts hält einen schneeball und blickt in richtung eines schneebedeckten berges . <eos>
+0.3587000370025635
+=======================
+mehrere personen stehen in der nähe von nähe herum . <eos>
+mehrere menschen stehen in der dämmerung in der nähe einiger bäume . <eos>
+0.0
+=======================
+ein mann zeigt mit einer armen auf einer hand einen <unk> auf die stirn . <eos>
+ein mann in einer überfüllten bar lächelt mit einer hand an seiner stirn . <eos>
+0.0
+=======================
+ein hellbrauner hund fängt einen ball im maul im maul . <eos>
+ein gelber hund am strand trägt einen ball im maul . <eos>
+0.40511971712112427
+=======================
+ein mann in einem blauen t-shirt hält einen schild , das mit dem „ schild “ “ , „ „ <unk> <unk> “ “ . <eos>
+ein mann in einem blauen hemd hält ein schild , auf dem steht : „ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> . “ <eos>
+0.2199665904045105
+=======================
+zwei kinder auf dem boden hängen auf dem boden eines boden . <eos>
+zwei kinder liegen bäuchlings auf dem boden unter einer <unk> . <eos>
+0.0
+=======================
+männer in orangefarbenen uniformen schauen etwas , während sie etwas bei einer <unk> etwas zu etwas zu machen . <eos>
+männer in orangen anzügen beobachten , wie eine maschine in der nähe von etwas gräbt , das wie <unk> aussieht . <eos>
+0.0
+=======================
+dieser mann trägt einen weißen hut und trägt einen weißen hut . <eos>
+dieser mann trägt eine weiße kappe oder mütze . <eos>
+0.0
+=======================
+ein mann paddelt im wasser . <eos>
+ein mann beim wakeboarden im wasser . <eos>
+0.4238365590572357
+=======================
+drei mädchen schauen , während sie auf einer straße während einer mädchen in einer städtischen straße steht . <eos>
+drei mädchen , von denen eines gerade trinkt , stehen in einer belebten straße und schneiden grimassen . <eos>
+0.0
+=======================
+drei frauen in <unk> kleidern und <unk> stehen auf einer straße , während ein mann auf einem <unk> sitzt . <eos>
+drei frauen mit dunklen <unk> und hüten unterhalten sich auf einer backsteinstraße , während ein hund neben ihnen sitzt . <eos>
+0.0
+=======================
+der mann mit sicherheitsausrüstung um den hals um den hals , der einen mann zu hut . <eos>
+der mann mit der kappe gibt dem jungen mit dem lilafarbenen hut einen frisch <unk> fisch . <eos>
+0.0
+=======================
+ein mann schlägt einen stock auf seinem kopf . <eos>
+ein mann balanciert einen <unk> auf seinem arm . <eos>
+0.0
+=======================
+leute sitzen unter einer <unk> , während eine person hinter ihr vorbeigeht . <eos>
+menschen sitzen zwischen ein paar <unk> , während eine andere person vorbeigeht . <eos>
+0.2737928628921509
+=======================
+ein baseballspieler holt sich vor einem <unk> einen schlag . <eos>
+ein baseballspieler wirbelt staub auf , während er vor einem fänger über den boden gleitet . <eos>
+0.0
+=======================
+ein junger junge mann mit <unk> schneidet einen <unk> . <eos>
+ein zotteliger junger mann mit einem <unk> putzt sich die zähne . <eos>
+0.0
+=======================
+ein mann in einem weißen hemd spielt auf einer geige geige auf der geige . <eos>
+ein mann in einem weißen t-shirt spielt geige auf der straße . <eos>
+0.3446073532104492
+=======================
+auf einem gebäude werden sich von einem gebäude von einem erwachsenen sitzt , die von einem gebäude sitzt . <eos>
+schwimmer in einem see werden von einem jungen beobachtet , der auf einer mauer sitzt . <eos>
+0.0
+=======================
+ein mann mit brille und ein kleines mädchen in einem pool schwimmt in einem schwimmbecken . <eos>
+ein mann mit brille und ein kleines mädchen mit einer schwimmweste schwimmen in einem pool . <eos>
+0.5312584042549133
+=======================
+dieses junge ist kurz hinter , der hinter ihr der kleinen jungen steht . <eos>
+dem jungen mädchen werden von dem kleinen jungen hinter ihr hasenohren gemacht . <eos>
+0.0
+=======================
+eine <unk> frau sitzt mit einer <unk> mit blumen . <eos>
+da sitzt eine ausländische frau mit sehr viel buntem stoff . <eos>
+0.0
+=======================
+eine frau in einem gelben t-shirt und mit sonnenbrille geht den bürgersteig entlang . <eos>
+eine frau mit einem gelben t-shirt und sonnenbrille geht einen gehweg entlang . <eos>
+0.29615163803100586
+=======================
+ein <unk> pudel schwimmt mit einem roten und blauen maul durch das wasser . <eos>
+ein golden labrador schwimmt mit einem roten spielzeug im maul durch das wasser . <eos>
+0.5038920640945435
+=======================
+ein großer hund springt neben einem <unk> , während ein anderer mann in einem kurzen t-shirt steht . <eos>
+ein großer hund springt in einem springbrunnen herum , während ein mann mit einem schwarzen t-shirt und einer weste <unk> . <eos>
+0.20599472522735596
+=======================
+eine person trägt viele viele viele viele viele viele viele viele viele viele . <eos>
+eine person trägt viele taschen . <eos>
+0.19564753770828247
+=======================
+ein mann in einem orangefarbenen outfit fegt draußen . <eos>
+ein mann in einem orangen gewand fegt im freien . <eos>
+0.2937716543674469
+=======================
+ein mann und eine frau gehen in eine videokamera und schauen eine kamera . <eos>
+ein mann und eine frau gehen einen steinernen <unk> hinauf und blicken auf eine videokamera . <eos>
+0.35865435004234314
+=======================
+eine frau und zwei hunde schauen an einer <unk> . <eos>
+eine frau und zwei jungen blicken auf einen <unk> . <eos>
+0.3393251597881317
+=======================
+0.3393251597881317
