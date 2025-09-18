@@ -6,3 +6,5 @@
 __pycache__
 */__pycache__
 **/__pycache__
+sequence_2_sequence/bleu_output/
+sequence_2_sequence/saved_weights/
